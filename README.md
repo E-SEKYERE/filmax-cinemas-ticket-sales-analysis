@@ -35,13 +35,10 @@ A Q3 ticket sales dataset of 2,000 transactions covering Sales ID, Movie Name, S
 ## 📸 More Screenshots
 
 ### Light Mode Dashboard
-![Light Mode](<img width="1588" height="948" alt="dashboard_light_mode" src="https://github.com/user-attachments/assets/54a8906b-061c-4bf3-8950-320e00cc2e71" />
-)
+![Light Mode](https://github.com/user-attachments/assets/4976f9f6-5c95-4612-b824-8ec6cdca6f94)
 
 ### Dark Mode Dashboard
-![Dark Mode](<img width="1607" height="949" alt="dashboard_dark_mode" src="https://github.com/user-attachments/assets/a22023fd-76cf-4abb-883d-2b59c1de0cb3" />
-)
-
+![Dark Mode](https://github.com/user-attachments/assets/a22023fd-76cf-4abb-883d-2b59c1de0cb3)
 ### Pivot Table Analysis
 ![Pivot Table](pivot_table.png
 )
