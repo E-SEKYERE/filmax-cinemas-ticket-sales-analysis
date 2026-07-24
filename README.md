@@ -1,6 +1,7 @@
 # 🎬 Filmax Cinemas — Q3 Ticket Sales Analysis & Excel Dashboard
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](<img width="1588" height="948" alt="dashboard_light_mode" src="https://github.com/user-attachments/assets/eca501d7-30d2-41a3-86a3-3bf0e8f7fc8e" />
+)
 
 ## 📌 Project Summary
 Filmax Cinemas is a movie theatre chain operating across California, New York, Texas, and Florida, offering Regular, VIP, Student, Couple, and Family ticket categories. Despite strong weekend attendance, management lacked visibility into which movies, branches, and showtimes were actually driving revenue. This project analyses **2,000 Q3 ticket transactions** (July–September) using Excel PivotTables and builds a **dynamic, month-filterable dashboard** (with light and dark mode views) to support scheduling, pricing, and marketing decisions.
@@ -31,23 +32,20 @@ A Q3 ticket sales dataset of 2,000 transactions covering Sales ID, Movie Name, S
 - **Regular tickets drive revenue:** Regular tickets contributed 38% of total revenue, followed by VIP (23%); Student tickets, while cheapest, contributed the least (8%)
 - **Month-on-month growth:** August was the strongest month ($34,915, +16% MoM), with orders and ticket volume both climbing over 12% before easing slightly in September
 
-## 🚀 How to Use
-1. Download `FimaxData.xlsx`
-2. Open in **Microsoft Excel** (2016 or later recommended for full slicer support)
-3. Go to the **Light Mode** or **Dark Mode** dashboard tab
-4. Use the **Jul / Aug / Sep** buttons (slicer) at the top to filter the entire dashboard by month
-5. Explore the raw transactions on the **Data** tab and the underlying PivotTables on the **Analysis** tab
 
 ## 📸 More Screenshots
 
 ### Light Mode Dashboard
-![Light Mode](screenshots/dashboard_light_mode.png)
+![Light Mode](<img width="1588" height="948" alt="dashboard_light_mode" src="https://github.com/user-attachments/assets/54a8906b-061c-4bf3-8950-320e00cc2e71" />
+)
 
 ### Dark Mode Dashboard
-![Dark Mode](screenshots/dashboard_dark_mode.png)
+![Dark Mode](<img width="1607" height="949" alt="dashboard_dark_mode" src="https://github.com/user-attachments/assets/a22023fd-76cf-4abb-883d-2b59c1de0cb3" />
+)
 
 ### Pivot Table Analysis
-![Pivot Table](screenshots/pivot_table.png)
+![Pivot Table](<img width="1774" height="665" alt="Screenshot 2026-07-24 094421" src="https://github.com/user-attachments/assets/511f4717-8c25-4eae-9198-aca13d12c9ae" />
+)
 
 ---
 *Built by Emmanuel Sekyere | [LinkedIn](https://www.linkedin.com/)*
