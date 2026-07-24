@@ -43,7 +43,7 @@ A Q3 ticket sales dataset of 2,000 transactions covering Sales ID, Movie Name, S
 )
 
 ### Pivot Table Analysis
-![Pivot Table](<img width="1774" height="665" alt="Screenshot 2026-07-24 094421" src="https://github.com/user-attachments/assets/511f4717-8c25-4eae-9198-aca13d12c9ae" />
+![Pivot Table](pivot_table.png
 )
 
 ---
