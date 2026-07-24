@@ -1,6 +1,6 @@
 # 🎬 Filmax Cinemas — Q3 Ticket Sales Analysis & Excel Dashboard
 
-Filmax Cinema (https://github.com/user-attachments/assets/1b7ffda0-9390-480d-8f90-cf7d284c35fa)
+![Project Overview] (https://github.com/user-attachments/assets/1b7ffda0-9390-480d-8f90-cf7d284c35fa)
 
 
 ## 📌 Project Summary
