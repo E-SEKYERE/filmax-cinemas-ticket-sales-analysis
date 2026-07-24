@@ -1,6 +1,7 @@
 # 🎬 Filmax Cinemas — Q3 Ticket Sales Analysis & Excel Dashboard
 
-<img width="1588" height="948" alt="dashboard_light_mode" src="https://github.com/user-attachments/assets/eca501d7-30d2-41a3-86a3-3bf0e8f7fc8e" />
+Filmax Cinema (https://github.com/user-attachments/assets/1b7ffda0-9390-480d-8f90-cf7d284c35fa)
+
 
 ## 📌 Project Summary
 Filmax Cinemas is a movie theatre chain operating across California, New York, Texas, and Florida, offering Regular, VIP, Student, Couple, and Family ticket categories. Despite strong weekend attendance, management lacked visibility into which movies, branches, and showtimes were actually driving revenue. This project analyses **2,000 Q3 ticket transactions** (July–September) using Excel PivotTables and builds a **dynamic, month-filterable dashboard** (with light and dark mode views) to support scheduling, pricing, and marketing decisions.
