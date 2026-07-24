@@ -1,0 +1,2001 @@
+Sales_ID,Movie_Name,Show_Date,Month,Weekday,Show_Time,Ticket_Category,Tickets_Sold,Ticket_Price,Payment_Method,Cinema_Branch,Total_Revenue
+1354,Barbie,2025-08-17 00:00:00,Aug,Sun,Evening,VIP,4,25,Mobile Wallet,California,100
+1890,Oppenheimer,2025-07-11 00:00:00,Jul,Fri,Late Night,Regular,5,12,Mobile Wallet,New York,60
+386,John Wick 5,2025-09-06 00:00:00,Sep,Sat,Afternoon,VIP,1,25,Card,New York,25
+1406,John Wick 5,2025-08-12 00:00:00,Aug,Tue,Evening,Couple,5,20,Cash,New York,100
+1425,John Wick 5,2025-08-22 00:00:00,Aug,Fri,Evening,Couple,2,20,Card,California,40
+39,Guardians of the Galaxy Vol. 4,2025-07-21 00:00:00,Jul,Mon,Afternoon,Regular,4,12,Mobile Wallet,Texas,48
+1412,Avatar 3,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,2,12,Cash,Texas,24
+1845,Barbie,2025-07-24 00:00:00,Jul,Thu,Afternoon,Regular,1,12,Card,Florida,12
+1285,Fast X,2025-07-08 00:00:00,Jul,Tue,Afternoon,Regular,4,12,Card,Florida,48
+1223,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Afternoon,Regular,5,12,Cash,New York,60
+1471,Oppenheimer,2025-08-23 00:00:00,Aug,Sat,Late Night,Regular,1,12,Card,California,12
+506,Guardians of the Galaxy Vol. 4,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,4,12,Mobile Wallet,Florida,48
+357,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Evening,Family,4,30,Card,New York,120
+774,Guardians of the Galaxy Vol. 4,2025-09-23 00:00:00,Sep,Tue,Evening,Regular,1,12,Cash,California,12
+639,Guardians of the Galaxy Vol. 4,2025-09-16 00:00:00,Sep,Tue,Evening,Family,5,30,Cash,Florida,150
+1153,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Student,2,8,Cash,California,16
+1016,Guardians of the Galaxy Vol. 4,2025-08-11 00:00:00,Aug,Mon,Late Night,Regular,1,12,Cash,California,12
+1098,Guardians of the Galaxy Vol. 4,2025-08-03 00:00:00,Aug,Sun,Late Night,Regular,4,12,Mobile Wallet,California,48
+352,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Family,1,30,Cash,Florida,30
+9,Fast X,2025-09-25 00:00:00,Sep,Thu,Evening,Regular,4,12,Cash,New York,48
+182,Fast X,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,1,12,Card,California,12
+1353,Fast X,2025-08-17 00:00:00,Aug,Sun,Evening,Family,1,30,Mobile Wallet,New York,30
+1724,Avatar 3,2025-09-24 00:00:00,Sep,Wed,Evening,Regular,4,12,Cash,Texas,48
+884,John Wick 5,2025-08-12 00:00:00,Aug,Tue,Evening,Regular,1,12,Cash,New York,12
+958,Guardians of the Galaxy Vol. 4,2025-08-18 00:00:00,Aug,Mon,Evening,Couple,2,20,Mobile Wallet,New York,40
+267,The Flash,2025-07-13 00:00:00,Jul,Sun,Late Night,VIP,1,25,Cash,Texas,25
+1192,Mission Impossible 8,2025-07-09 00:00:00,Jul,Wed,Late Night,Family,3,30,Mobile Wallet,New York,90
+1009,The Flash,2025-09-26 00:00:00,Sep,Fri,Late Night,Student,2,8,Mobile Wallet,Texas,16
+94,Barbie,2025-07-24 00:00:00,Jul,Thu,Afternoon,VIP,3,25,Card,Florida,75
+1041,Oppenheimer,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,2,12,Card,Texas,24
+1244,Fast X,2025-08-02 00:00:00,Aug,Sat,Afternoon,Student,5,8,Mobile Wallet,Florida,40
+1147,Fast X,2025-08-18 00:00:00,Aug,Mon,Afternoon,Couple,1,20,Mobile Wallet,California,20
+163,John Wick 5,2025-08-30 00:00:00,Aug,Sat,Afternoon,Regular,1,12,Mobile Wallet,California,12
+1052,Guardians of the Galaxy Vol. 4,2025-07-20 00:00:00,Jul,Sun,Afternoon,Regular,5,12,Mobile Wallet,Texas,60
+507,John Wick 5,2025-09-13 00:00:00,Sep,Sat,Afternoon,Couple,1,20,Mobile Wallet,California,20
+370,Fast X,2025-07-03 00:00:00,Jul,Thu,Afternoon,Student,4,8,Cash,Florida,32
+1191,Mission Impossible 8,2025-09-21 00:00:00,Sep,Sun,Afternoon,Regular,1,12,Cash,Florida,12
+316,John Wick 5,2025-07-18 00:00:00,Jul,Fri,Morning,Regular,3,12,Cash,New York,36
+1172,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Evening,Regular,1,12,Cash,New York,12
+184,Mission Impossible 8,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,2,12,Cash,Texas,24
+1766,John Wick 5,2025-09-18 00:00:00,Sep,Thu,Evening,Regular,1,12,Cash,California,12
+1073,Avatar 3,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,2,12,Card,California,24
+826,The Flash,2025-07-27 00:00:00,Jul,Sun,Evening,Couple,1,20,Mobile Wallet,California,20
+1446,Guardians of the Galaxy Vol. 4,2025-08-14 00:00:00,Aug,Thu,Evening,VIP,5,25,Cash,New York,125
+50,Barbie,2025-08-30 00:00:00,Aug,Sat,Evening,Regular,3,12,Card,New York,36
+874,Guardians of the Galaxy Vol. 4,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,4,12,Mobile Wallet,New York,48
+749,Guardians of the Galaxy Vol. 4,2025-09-20 00:00:00,Sep,Sat,Evening,Couple,5,20,Mobile Wallet,California,100
+1011,Oppenheimer,2025-08-31 00:00:00,Aug,Sun,Evening,VIP,1,25,Card,Florida,25
+897,Barbie,2025-08-17 00:00:00,Aug,Sun,Evening,VIP,5,25,Card,California,125
+38,Guardians of the Galaxy Vol. 4,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,2,12,Card,Florida,24
+406,Guardians of the Galaxy Vol. 4,2025-08-29 00:00:00,Aug,Fri,Evening,VIP,5,25,Cash,Florida,125
+337,Guardians of the Galaxy Vol. 4,2025-09-08 00:00:00,Sep,Mon,Evening,Regular,2,12,Mobile Wallet,California,24
+912,Guardians of the Galaxy Vol. 4,2025-08-24 00:00:00,Aug,Sun,Morning,Regular,1,12,Card,California,12
+1492,Guardians of the Galaxy Vol. 4,2025-09-27 00:00:00,Sep,Sat,Morning,VIP,5,25,Card,California,125
+736,Guardians of the Galaxy Vol. 4,2025-09-01 00:00:00,Sep,Mon,Afternoon,Student,5,8,Card,Texas,40
+1742,Guardians of the Galaxy Vol. 4,2025-09-28 00:00:00,Sep,Sun,Afternoon,Couple,2,20,Card,Texas,40
+164,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Late Night,Couple,5,20,Cash,California,100
+1987,Guardians of the Galaxy Vol. 4,2025-09-04 00:00:00,Sep,Thu,Late Night,Regular,2,12,Mobile Wallet,California,24
+85,Guardians of the Galaxy Vol. 4,2025-09-12 00:00:00,Sep,Fri,Late Night,VIP,3,25,Cash,New York,75
+1892,Guardians of the Galaxy Vol. 4,2025-08-29 00:00:00,Aug,Fri,Evening,VIP,2,25,Mobile Wallet,California,50
+1518,Guardians of the Galaxy Vol. 4,2025-09-02 00:00:00,Sep,Tue,Evening,Regular,1,12,Card,California,12
+326,Guardians of the Galaxy Vol. 4,2025-07-15 00:00:00,Jul,Tue,Evening,Family,1,30,Card,Texas,30
+792,Guardians of the Galaxy Vol. 4,2025-07-20 00:00:00,Jul,Sun,Evening,Family,1,30,Mobile Wallet,Florida,30
+1532,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Evening,Student,2,8,Cash,California,16
+910,Guardians of the Galaxy Vol. 4,2025-07-24 00:00:00,Jul,Thu,Evening,Regular,2,12,Card,Florida,24
+760,Guardians of the Galaxy Vol. 4,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,3,12,Card,New York,36
+1854,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Evening,Family,4,30,Cash,Florida,120
+225,Avatar 3,2025-08-18 00:00:00,Aug,Mon,Late Night,Regular,1,12,Cash,Texas,12
+31,Oppenheimer,2025-08-25 00:00:00,Aug,Mon,Evening,Regular,4,12,Cash,Florida,48
+1501,Mission Impossible 8,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,2,12,Cash,Florida,24
+1818,Fast X,2025-08-21 00:00:00,Aug,Thu,Late Night,Couple,2,20,Cash,Florida,40
+129,The Flash,2025-09-05 00:00:00,Sep,Fri,Evening,Couple,1,20,Cash,Texas,20
+345,Mission Impossible 8,2025-08-13 00:00:00,Aug,Wed,Morning,Family,2,30,Cash,California,60
+648,Guardians of the Galaxy Vol. 4,2025-08-24 00:00:00,Aug,Sun,Evening,VIP,2,25,Card,New York,50
+1646,Mission Impossible 8,2025-08-02 00:00:00,Aug,Sat,Late Night,Regular,4,12,Card,Texas,48
+426,Oppenheimer,2025-08-09 00:00:00,Aug,Sat,Evening,Family,4,30,Mobile Wallet,New York,120
+1545,John Wick 5,2025-09-13 00:00:00,Sep,Sat,Evening,Couple,1,20,Mobile Wallet,California,20
+488,The Flash,2025-08-01 00:00:00,Aug,Fri,Afternoon,Couple,5,20,Cash,California,100
+422,Avatar 3,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,5,12,Mobile Wallet,Florida,60
+384,Oppenheimer,2025-09-13 00:00:00,Sep,Sat,Afternoon,Regular,4,12,Mobile Wallet,New York,48
+1103,The Flash,2025-09-11 00:00:00,Sep,Thu,Evening,Family,1,30,Cash,Texas,30
+185,Guardians of the Galaxy Vol. 4,2025-08-03 00:00:00,Aug,Sun,Morning,Student,5,8,Mobile Wallet,New York,40
+567,Avatar 3,2025-07-16 00:00:00,Jul,Wed,Late Night,Regular,4,12,Card,New York,48
+230,Oppenheimer,2025-07-22 00:00:00,Jul,Tue,Late Night,Regular,3,12,Card,New York,36
+23,Avatar 3,2025-09-27 00:00:00,Sep,Sat,Afternoon,Family,4,30,Cash,Florida,120
+973,Guardians of the Galaxy Vol. 4,2025-07-19 00:00:00,Jul,Sat,Evening,Student,3,8,Card,Florida,24
+1228,John Wick 5,2025-08-05 00:00:00,Aug,Tue,Afternoon,Regular,4,12,Mobile Wallet,Texas,48
+1252,Barbie,2025-08-01 00:00:00,Aug,Fri,Evening,Regular,3,12,Mobile Wallet,Texas,36
+898,The Flash,2025-07-14 00:00:00,Jul,Mon,Evening,Regular,1,12,Card,New York,12
+750,Avatar 3,2025-09-20 00:00:00,Sep,Sat,Afternoon,VIP,2,25,Mobile Wallet,New York,50
+41,Mission Impossible 8,2025-09-14 00:00:00,Sep,Sun,Morning,Couple,4,20,Card,California,80
+1853,Barbie,2025-08-24 00:00:00,Aug,Sun,Evening,VIP,2,25,Mobile Wallet,Texas,50
+822,The Flash,2025-07-01 00:00:00,Jul,Tue,Evening,Regular,3,12,Cash,New York,36
+177,Mission Impossible 8,2025-07-13 00:00:00,Jul,Sun,Late Night,Regular,1,12,Mobile Wallet,New York,12
+754,Avatar 3,2025-08-10 00:00:00,Aug,Sun,Afternoon,Regular,2,12,Cash,Texas,24
+432,Barbie,2025-07-15 00:00:00,Jul,Tue,Late Night,Couple,5,20,Cash,California,100
+1027,Avatar 3,2025-08-21 00:00:00,Aug,Thu,Morning,Family,2,30,Cash,Florida,60
+777,Guardians of the Galaxy Vol. 4,2025-07-06 00:00:00,Jul,Sun,Morning,Regular,4,12,Card,California,48
+262,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Late Night,VIP,3,25,Cash,New York,75
+722,Guardians of the Galaxy Vol. 4,2025-09-08 00:00:00,Sep,Mon,Morning,Student,5,8,Card,Texas,40
+56,Guardians of the Galaxy Vol. 4,2025-07-20 00:00:00,Jul,Sun,Evening,Student,2,8,Card,Texas,16
+1556,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Late Night,VIP,5,25,Cash,Florida,125
+1835,Guardians of the Galaxy Vol. 4,2025-07-02 00:00:00,Jul,Wed,Evening,Regular,5,12,Card,Texas,60
+631,Guardians of the Galaxy Vol. 4,2025-07-02 00:00:00,Jul,Wed,Evening,VIP,1,25,Card,Texas,25
+974,Mission Impossible 8,2025-09-25 00:00:00,Sep,Thu,Evening,Student,5,8,Card,New York,40
+1478,John Wick 5,2025-07-30 00:00:00,Jul,Wed,Evening,VIP,3,25,Mobile Wallet,California,75
+781,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,1,12,Card,Texas,12
+1740,Mission Impossible 8,2025-07-31 00:00:00,Jul,Thu,Late Night,VIP,3,25,Card,Texas,75
+1448,John Wick 5,2025-07-13 00:00:00,Jul,Sun,Evening,Student,4,8,Mobile Wallet,Texas,32
+1813,Fast X,2025-09-18 00:00:00,Sep,Thu,Afternoon,Regular,5,12,Card,Texas,60
+1443,The Flash,2025-08-10 00:00:00,Aug,Sun,Afternoon,Regular,4,12,Card,California,48
+1775,Fast X,2025-09-14 00:00:00,Sep,Sun,Afternoon,Student,1,8,Cash,New York,8
+1175,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,1,12,Cash,Texas,12
+790,Fast X,2025-07-25 00:00:00,Jul,Fri,Late Night,Family,5,30,Mobile Wallet,Florida,150
+681,John Wick 5,2025-07-24 00:00:00,Jul,Thu,Late Night,Regular,5,12,Cash,New York,60
+1571,Avatar 3,2025-09-25 00:00:00,Sep,Thu,Evening,Regular,4,12,Card,Florida,48
+1679,Barbie,2025-09-13 00:00:00,Sep,Sat,Evening,Couple,5,20,Card,New York,100
+1017,Avatar 3,2025-07-20 00:00:00,Jul,Sun,Evening,Student,3,8,Mobile Wallet,Texas,24
+1857,Oppenheimer,2025-08-02 00:00:00,Aug,Sat,Evening,Regular,3,12,Card,California,36
+1380,Avatar 3,2025-07-28 00:00:00,Jul,Mon,Evening,Student,2,8,Mobile Wallet,Texas,16
+33,The Flash,2025-08-28 00:00:00,Aug,Thu,Evening,Regular,2,12,Card,Texas,24
+1530,The Flash,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,5,12,Cash,California,60
+1723,Fast X,2025-08-15 00:00:00,Aug,Fri,Evening,Family,1,30,Cash,New York,30
+153,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Evening,Student,2,8,Card,California,16
+672,Barbie,2025-07-21 00:00:00,Jul,Mon,Evening,Regular,3,12,Mobile Wallet,Florida,36
+1066,Mission Impossible 8,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,2,12,Cash,California,24
+1748,Guardians of the Galaxy Vol. 4,2025-09-20 00:00:00,Sep,Sat,Evening,Regular,5,12,Cash,California,60
+1682,Avatar 3,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,3,12,Cash,California,36
+1761,John Wick 5,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,2,12,Card,Texas,24
+1515,The Flash,2025-08-02 00:00:00,Aug,Sat,Evening,Couple,2,20,Cash,California,40
+142,Guardians of the Galaxy Vol. 4,2025-09-10 00:00:00,Sep,Wed,Evening,VIP,1,25,Card,Texas,25
+940,Avatar 3,2025-08-02 00:00:00,Aug,Sat,Evening,Regular,2,12,Cash,Texas,24
+1567,Oppenheimer,2025-07-31 00:00:00,Jul,Thu,Evening,VIP,1,25,Card,Florida,25
+1985,Barbie,2025-08-02 00:00:00,Aug,Sat,Evening,Couple,3,20,Cash,Florida,60
+627,Oppenheimer,2025-08-31 00:00:00,Aug,Sun,Evening,Regular,5,12,Cash,Texas,60
+283,Barbie,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,4,12,Cash,Florida,48
+1961,Avatar 3,2025-09-14 00:00:00,Sep,Sun,Evening,VIP,5,25,Cash,Texas,125
+887,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Evening,VIP,4,25,Cash,Florida,100
+436,John Wick 5,2025-07-25 00:00:00,Jul,Fri,Evening,Regular,3,12,Cash,Florida,36
+67,The Flash,2025-09-29 00:00:00,Sep,Mon,Evening,Regular,3,12,Card,New York,36
+1332,Barbie,2025-09-13 00:00:00,Sep,Sat,Evening,Student,4,8,Mobile Wallet,Florida,32
+1294,Guardians of the Galaxy Vol. 4,2025-08-03 00:00:00,Aug,Sun,Evening,VIP,5,25,Card,Florida,125
+637,Guardians of the Galaxy Vol. 4,2025-09-13 00:00:00,Sep,Sat,Evening,Family,3,30,Mobile Wallet,New York,90
+126,John Wick 5,2025-09-07 00:00:00,Sep,Sun,Evening,Student,1,8,Cash,New York,8
+811,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Evening,Regular,5,12,Card,New York,60
+1498,John Wick 5,2025-07-13 00:00:00,Jul,Sun,Evening,Couple,5,20,Mobile Wallet,Texas,100
+451,Barbie,2025-07-04 00:00:00,Jul,Fri,Evening,Regular,5,12,Mobile Wallet,New York,60
+4,Fast X,2025-07-01 00:00:00,Jul,Tue,Evening,Regular,3,12,Mobile Wallet,California,36
+628,Barbie,2025-08-27 00:00:00,Aug,Wed,Evening,Student,4,8,Card,Texas,32
+829,Fast X,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,5,12,Mobile Wallet,California,60
+1520,Oppenheimer,2025-07-06 00:00:00,Jul,Sun,Evening,Regular,1,12,Mobile Wallet,California,12
+1605,The Flash,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,2,12,Cash,New York,24
+1141,Barbie,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,4,12,Cash,Florida,48
+1924,Mission Impossible 8,2025-09-08 00:00:00,Sep,Mon,Evening,Regular,4,12,Cash,New York,48
+1061,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Evening,Regular,2,12,Cash,Texas,24
+1127,The Flash,2025-08-26 00:00:00,Aug,Tue,Evening,Student,5,8,Cash,Texas,40
+840,Oppenheimer,2025-08-01 00:00:00,Aug,Fri,Evening,Regular,5,12,Card,Texas,60
+493,Guardians of the Galaxy Vol. 4,2025-08-26 00:00:00,Aug,Tue,Evening,Student,5,8,Mobile Wallet,Florida,40
+1033,Guardians of the Galaxy Vol. 4,2025-07-24 00:00:00,Jul,Thu,Evening,Student,4,8,Mobile Wallet,Florida,32
+1209,Guardians of the Galaxy Vol. 4,2025-09-17 00:00:00,Sep,Wed,Evening,Regular,4,12,Card,Florida,48
+1862,Barbie,2025-09-01 00:00:00,Sep,Mon,Evening,VIP,4,25,Cash,California,100
+710,John Wick 5,2025-07-16 00:00:00,Jul,Wed,Evening,Regular,5,12,Cash,Texas,60
+720,The Flash,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,3,12,Mobile Wallet,New York,36
+73,Guardians of the Galaxy Vol. 4,2025-09-19 00:00:00,Sep,Fri,Evening,Regular,1,12,Cash,New York,12
+805,Barbie,2025-07-14 00:00:00,Jul,Mon,Evening,VIP,3,25,Card,New York,75
+301,Guardians of the Galaxy Vol. 4,2025-08-03 00:00:00,Aug,Sun,Evening,Couple,5,20,Mobile Wallet,Florida,100
+795,Guardians of the Galaxy Vol. 4,2025-07-06 00:00:00,Jul,Sun,Evening,Regular,3,12,Cash,California,36
+1126,Guardians of the Galaxy Vol. 4,2025-09-09 00:00:00,Sep,Tue,Evening,VIP,2,25,Card,New York,50
+327,Guardians of the Galaxy Vol. 4,2025-08-17 00:00:00,Aug,Sun,Evening,Couple,3,20,Cash,New York,60
+744,Guardians of the Galaxy Vol. 4,2025-09-10 00:00:00,Sep,Wed,Evening,Regular,4,12,Cash,Florida,48
+1539,Guardians of the Galaxy Vol. 4,2025-09-30 00:00:00,Sep,Tue,Evening,Student,2,8,Card,Florida,16
+1094,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Evening,Couple,4,20,Mobile Wallet,Texas,80
+189,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Evening,Student,3,8,Mobile Wallet,California,24
+548,Guardians of the Galaxy Vol. 4,2025-09-05 00:00:00,Sep,Fri,Evening,Regular,2,12,Card,New York,24
+496,Guardians of the Galaxy Vol. 4,2025-07-22 00:00:00,Jul,Tue,Evening,Regular,1,12,Mobile Wallet,New York,12
+1134,Guardians of the Galaxy Vol. 4,2025-09-08 00:00:00,Sep,Mon,Evening,VIP,5,25,Mobile Wallet,Florida,125
+1563,Guardians of the Galaxy Vol. 4,2025-08-13 00:00:00,Aug,Wed,Evening,Regular,2,12,Cash,Texas,24
+1936,Guardians of the Galaxy Vol. 4,2025-09-22 00:00:00,Sep,Mon,Evening,VIP,5,25,Card,Texas,125
+979,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Student,1,8,Mobile Wallet,California,8
+1741,Guardians of the Galaxy Vol. 4,2025-09-17 00:00:00,Sep,Wed,Evening,Family,4,30,Cash,New York,120
+1852,Guardians of the Galaxy Vol. 4,2025-09-15 00:00:00,Sep,Mon,Evening,Regular,4,12,Card,New York,48
+1596,Guardians of the Galaxy Vol. 4,2025-07-31 00:00:00,Jul,Thu,Evening,VIP,3,25,Card,New York,75
+471,Guardians of the Galaxy Vol. 4,2025-09-13 00:00:00,Sep,Sat,Evening,Regular,3,12,Cash,Texas,36
+123,Guardians of the Galaxy Vol. 4,2025-09-20 00:00:00,Sep,Sat,Evening,Family,1,30,Mobile Wallet,New York,30
+1579,Guardians of the Galaxy Vol. 4,2025-09-08 00:00:00,Sep,Mon,Evening,Student,2,8,Cash,California,16
+305,Guardians of the Galaxy Vol. 4,2025-07-21 00:00:00,Jul,Mon,Evening,Family,4,30,Card,New York,120
+1115,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,4,12,Cash,Texas,48
+532,Guardians of the Galaxy Vol. 4,2025-07-21 00:00:00,Jul,Mon,Evening,Couple,1,20,Cash,Florida,20
+1426,Guardians of the Galaxy Vol. 4,2025-08-30 00:00:00,Aug,Sat,Evening,VIP,5,25,Mobile Wallet,Florida,125
+504,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Evening,Family,1,30,Mobile Wallet,Texas,30
+359,Guardians of the Galaxy Vol. 4,2025-07-29 00:00:00,Jul,Tue,Evening,VIP,4,25,Mobile Wallet,Texas,100
+1867,Guardians of the Galaxy Vol. 4,2025-07-09 00:00:00,Jul,Wed,Evening,Regular,5,12,Card,New York,60
+312,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Evening,Couple,1,20,Cash,New York,20
+1999,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Evening,VIP,4,25,Mobile Wallet,California,100
+291,Guardians of the Galaxy Vol. 4,2025-09-28 00:00:00,Sep,Sun,Evening,VIP,1,25,Mobile Wallet,California,25
+1708,Guardians of the Galaxy Vol. 4,2025-07-21 00:00:00,Jul,Mon,Evening,Regular,4,12,Mobile Wallet,Florida,48
+1345,Guardians of the Galaxy Vol. 4,2025-08-21 00:00:00,Aug,Thu,Evening,Regular,2,12,Mobile Wallet,Texas,24
+893,Guardians of the Galaxy Vol. 4,2025-08-23 00:00:00,Aug,Sat,Evening,Student,5,8,Cash,Texas,40
+469,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,3,12,Mobile Wallet,New York,36
+1023,Guardians of the Galaxy Vol. 4,2025-08-20 00:00:00,Aug,Wed,Evening,Student,4,8,Card,Texas,32
+75,Guardians of the Galaxy Vol. 4,2025-08-27 00:00:00,Aug,Wed,Evening,Couple,3,20,Card,Florida,60
+442,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Evening,VIP,4,25,Mobile Wallet,Florida,100
+906,Guardians of the Galaxy Vol. 4,2025-08-30 00:00:00,Aug,Sat,Evening,Regular,2,12,Mobile Wallet,New York,24
+1088,Guardians of the Galaxy Vol. 4,2025-08-08 00:00:00,Aug,Fri,Evening,Regular,4,12,Card,Texas,48
+1264,Guardians of the Galaxy Vol. 4,2025-07-06 00:00:00,Jul,Sun,Evening,Regular,2,12,Cash,Florida,24
+964,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Evening,Family,3,30,Mobile Wallet,Florida,90
+281,Guardians of the Galaxy Vol. 4,2025-08-25 00:00:00,Aug,Mon,Evening,Regular,1,12,Cash,Texas,12
+787,Guardians of the Galaxy Vol. 4,2025-09-19 00:00:00,Sep,Fri,Evening,Family,4,30,Card,New York,120
+814,Guardians of the Galaxy Vol. 4,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,3,12,Mobile Wallet,Florida,36
+1634,Guardians of the Galaxy Vol. 4,2025-08-30 00:00:00,Aug,Sat,Evening,Regular,1,12,Card,Florida,12
+1371,Guardians of the Galaxy Vol. 4,2025-09-29 00:00:00,Sep,Mon,Evening,Regular,4,12,Cash,California,48
+1268,Guardians of the Galaxy Vol. 4,2025-07-21 00:00:00,Jul,Mon,Evening,VIP,3,25,Card,California,75
+967,Guardians of the Galaxy Vol. 4,2025-08-24 00:00:00,Aug,Sun,Evening,Student,1,8,Mobile Wallet,New York,8
+1367,Guardians of the Galaxy Vol. 4,2025-07-16 00:00:00,Jul,Wed,Evening,Regular,2,12,Cash,California,24
+1324,Guardians of the Galaxy Vol. 4,2025-09-22 00:00:00,Sep,Mon,Evening,VIP,4,25,Mobile Wallet,Florida,100
+1142,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Evening,Family,2,30,Card,New York,60
+1603,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,5,12,Card,New York,60
+1756,Guardians of the Galaxy Vol. 4,2025-09-20 00:00:00,Sep,Sat,Evening,Regular,1,12,Mobile Wallet,Florida,12
+518,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Evening,Regular,2,12,Cash,California,24
+1710,Guardians of the Galaxy Vol. 4,2025-09-15 00:00:00,Sep,Mon,Evening,Family,5,30,Cash,Texas,150
+1130,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Couple,1,20,Cash,California,20
+1782,Guardians of the Galaxy Vol. 4,2025-07-24 00:00:00,Jul,Thu,Evening,Regular,2,12,Cash,New York,24
+355,Guardians of the Galaxy Vol. 4,2025-09-19 00:00:00,Sep,Fri,Evening,Student,4,8,Card,California,32
+1499,Guardians of the Galaxy Vol. 4,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,3,12,Cash,California,36
+788,Guardians of the Galaxy Vol. 4,2025-09-30 00:00:00,Sep,Tue,Evening,Regular,1,12,Mobile Wallet,New York,12
+752,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Evening,Student,2,8,Card,New York,16
+1921,Mission Impossible 8,2025-08-07 00:00:00,Aug,Thu,Evening,Family,2,30,Cash,Florida,60
+1964,Avatar 3,2025-08-19 00:00:00,Aug,Tue,Evening,VIP,1,25,Mobile Wallet,Texas,25
+1841,Avatar 3,2025-09-16 00:00:00,Sep,Tue,Evening,VIP,5,25,Mobile Wallet,Florida,125
+48,Fast X,2025-07-26 00:00:00,Jul,Sat,Evening,Student,3,8,Cash,Florida,24
+452,Barbie,2025-09-07 00:00:00,Sep,Sun,Evening,Family,3,30,Cash,New York,90
+154,Mission Impossible 8,2025-08-02 00:00:00,Aug,Sat,Evening,Couple,2,20,Mobile Wallet,Florida,40
+1566,Mission Impossible 8,2025-09-27 00:00:00,Sep,Sat,Evening,Student,4,8,Mobile Wallet,New York,32
+1877,Oppenheimer,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,5,12,Card,Florida,60
+817,Guardians of the Galaxy Vol. 4,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,3,12,Mobile Wallet,Florida,36
+968,Barbie,2025-09-24 00:00:00,Sep,Wed,Evening,VIP,1,25,Mobile Wallet,Florida,25
+1399,The Flash,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,1,12,Mobile Wallet,California,12
+980,Barbie,2025-09-12 00:00:00,Sep,Fri,Evening,Family,2,30,Mobile Wallet,Texas,60
+174,The Flash,2025-09-11 00:00:00,Sep,Thu,Evening,Couple,5,20,Card,New York,100
+1810,Avatar 3,2025-09-05 00:00:00,Sep,Fri,Evening,Regular,3,12,Card,California,36
+1089,John Wick 5,2025-07-08 00:00:00,Jul,Tue,Evening,VIP,1,25,Card,Texas,25
+1001,Barbie,2025-09-27 00:00:00,Sep,Sat,Evening,Student,3,8,Cash,Texas,24
+444,John Wick 5,2025-09-03 00:00:00,Sep,Wed,Evening,Couple,2,20,Mobile Wallet,California,40
+1683,Oppenheimer,2025-07-24 00:00:00,Jul,Thu,Evening,Student,2,8,Card,Florida,16
+625,Oppenheimer,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,4,12,Cash,California,48
+1781,Barbie,2025-08-15 00:00:00,Aug,Fri,Evening,Regular,2,12,Card,Florida,24
+366,Fast X,2025-07-11 00:00:00,Jul,Fri,Evening,Regular,5,12,Card,Texas,60
+404,Guardians of the Galaxy Vol. 4,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,4,12,Cash,New York,48
+1619,Barbie,2025-09-06 00:00:00,Sep,Sat,Evening,Student,1,8,Card,Texas,8
+983,The Flash,2025-08-31 00:00:00,Aug,Sun,Evening,Student,2,8,Card,California,16
+1774,The Flash,2025-09-11 00:00:00,Sep,Thu,Evening,Student,1,8,Cash,Florida,8
+569,Fast X,2025-07-15 00:00:00,Jul,Tue,Evening,Couple,4,20,Cash,Florida,80
+1114,Fast X,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,1,12,Cash,California,12
+1938,Barbie,2025-08-03 00:00:00,Aug,Sun,Evening,Regular,4,12,Mobile Wallet,New York,48
+804,Guardians of the Galaxy Vol. 4,2025-08-22 00:00:00,Aug,Fri,Evening,Family,3,30,Card,California,90
+1051,Avatar 3,2025-08-27 00:00:00,Aug,Wed,Evening,Regular,5,12,Card,California,60
+1186,The Flash,2025-09-19 00:00:00,Sep,Fri,Evening,VIP,2,25,Cash,Florida,50
+1174,Fast X,2025-07-30 00:00:00,Jul,Wed,Evening,Regular,3,12,Card,California,36
+694,The Flash,2025-09-01 00:00:00,Sep,Mon,Evening,Regular,4,12,Mobile Wallet,New York,48
+663,Oppenheimer,2025-09-09 00:00:00,Sep,Tue,Evening,Regular,2,12,Card,New York,24
+854,Mission Impossible 8,2025-07-22 00:00:00,Jul,Tue,Evening,Family,5,30,Card,California,150
+1299,Oppenheimer,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,2,12,Card,California,24
+845,Oppenheimer,2025-08-16 00:00:00,Aug,Sat,Evening,VIP,2,25,Mobile Wallet,Texas,50
+136,Oppenheimer,2025-08-24 00:00:00,Aug,Sun,Evening,Couple,1,20,Cash,Florida,20
+1620,Oppenheimer,2025-08-22 00:00:00,Aug,Fri,Evening,Regular,5,12,Card,California,60
+963,Barbie,2025-07-08 00:00:00,Jul,Tue,Evening,Regular,3,12,Mobile Wallet,New York,36
+957,The Flash,2025-08-20 00:00:00,Aug,Wed,Evening,Student,5,8,Mobile Wallet,New York,40
+1909,Avatar 3,2025-08-29 00:00:00,Aug,Fri,Evening,VIP,1,25,Mobile Wallet,Texas,25
+512,Avatar 3,2025-07-19 00:00:00,Jul,Sat,Evening,Couple,4,20,Cash,New York,80
+921,Oppenheimer,2025-08-01 00:00:00,Aug,Fri,Evening,Regular,1,12,Card,California,12
+1630,Barbie,2025-07-07 00:00:00,Jul,Mon,Evening,VIP,5,25,Mobile Wallet,New York,125
+1969,Guardians of the Galaxy Vol. 4,2025-08-31 00:00:00,Aug,Sun,Evening,VIP,5,25,Mobile Wallet,New York,125
+1326,Guardians of the Galaxy Vol. 4,2025-09-22 00:00:00,Sep,Mon,Evening,Student,4,8,Card,New York,32
+630,Fast X,2025-08-04 00:00:00,Aug,Mon,Evening,Regular,4,12,Cash,California,48
+2,The Flash,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,5,12,Cash,California,60
+1034,Barbie,2025-08-30 00:00:00,Aug,Sat,Evening,Regular,1,12,Mobile Wallet,New York,12
+1409,Fast X,2025-08-22 00:00:00,Aug,Fri,Evening,Regular,3,12,Mobile Wallet,New York,36
+721,Avatar 3,2025-09-22 00:00:00,Sep,Mon,Evening,Couple,3,20,Card,California,60
+400,Guardians of the Galaxy Vol. 4,2025-08-11 00:00:00,Aug,Mon,Evening,VIP,2,25,Cash,Texas,50
+896,The Flash,2025-08-21 00:00:00,Aug,Thu,Evening,Couple,1,20,Mobile Wallet,Florida,20
+1891,Avatar 3,2025-07-22 00:00:00,Jul,Tue,Evening,Student,5,8,Card,New York,40
+1054,Fast X,2025-07-01 00:00:00,Jul,Tue,Evening,Regular,2,12,Mobile Wallet,California,24
+251,Barbie,2025-07-31 00:00:00,Jul,Thu,Evening,Regular,4,12,Cash,California,48
+1125,Barbie,2025-09-23 00:00:00,Sep,Tue,Evening,Student,5,8,Mobile Wallet,Texas,40
+1881,Barbie,2025-08-07 00:00:00,Aug,Thu,Evening,VIP,2,25,Card,Florida,50
+1570,Barbie,2025-09-03 00:00:00,Sep,Wed,Evening,Couple,4,20,Card,New York,80
+908,Mission Impossible 8,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,3,12,Cash,New York,36
+1516,Barbie,2025-07-11 00:00:00,Jul,Fri,Evening,Family,3,30,Mobile Wallet,California,90
+277,Guardians of the Galaxy Vol. 4,2025-08-20 00:00:00,Aug,Wed,Evening,Student,2,8,Cash,New York,16
+1355,Avatar 3,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,2,12,Cash,California,24
+124,Fast X,2025-07-11 00:00:00,Jul,Fri,Evening,Regular,2,12,Card,California,24
+1728,Guardians of the Galaxy Vol. 4,2025-07-02 00:00:00,Jul,Wed,Evening,Regular,3,12,Mobile Wallet,Texas,36
+1696,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,5,12,Cash,Florida,60
+1086,Guardians of the Galaxy Vol. 4,2025-09-27 00:00:00,Sep,Sat,Evening,Student,1,8,Mobile Wallet,California,8
+1065,Barbie,2025-08-24 00:00:00,Aug,Sun,Evening,VIP,3,25,Card,California,75
+1199,Mission Impossible 8,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,4,12,Card,New York,48
+118,Barbie,2025-09-05 00:00:00,Sep,Fri,Evening,VIP,3,25,Cash,Texas,75
+988,The Flash,2025-08-23 00:00:00,Aug,Sat,Evening,VIP,3,25,Mobile Wallet,California,75
+1797,Fast X,2025-08-10 00:00:00,Aug,Sun,Evening,VIP,2,25,Cash,Texas,50
+428,The Flash,2025-08-29 00:00:00,Aug,Fri,Evening,Family,3,30,Mobile Wallet,Florida,90
+956,Mission Impossible 8,2025-07-06 00:00:00,Jul,Sun,Evening,Student,5,8,Mobile Wallet,Texas,40
+1035,Guardians of the Galaxy Vol. 4,2025-07-05 00:00:00,Jul,Sat,Evening,Regular,5,12,Cash,Florida,60
+606,Mission Impossible 8,2025-09-28 00:00:00,Sep,Sun,Evening,VIP,5,25,Card,Texas,125
+1931,John Wick 5,2025-09-06 00:00:00,Sep,Sat,Evening,Family,5,30,Card,Florida,150
+1477,Fast X,2025-09-27 00:00:00,Sep,Sat,Evening,Family,4,30,Card,California,120
+1338,Barbie,2025-07-06 00:00:00,Jul,Sun,Evening,Student,3,8,Mobile Wallet,Florida,24
+152,Mission Impossible 8,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,5,12,Mobile Wallet,Florida,60
+1833,The Flash,2025-07-11 00:00:00,Jul,Fri,Evening,Couple,4,20,Card,New York,80
+209,Barbie,2025-09-15 00:00:00,Sep,Mon,Evening,Regular,3,12,Cash,California,36
+290,John Wick 5,2025-08-31 00:00:00,Aug,Sun,Evening,Regular,4,12,Card,Florida,48
+340,The Flash,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,1,12,Mobile Wallet,California,12
+1719,Avatar 3,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,3,12,Cash,Texas,36
+799,Guardians of the Galaxy Vol. 4,2025-08-31 00:00:00,Aug,Sun,Evening,Family,3,30,Mobile Wallet,Florida,90
+825,John Wick 5,2025-08-31 00:00:00,Aug,Sun,Evening,Regular,5,12,Mobile Wallet,New York,60
+1188,Guardians of the Galaxy Vol. 4,2025-09-12 00:00:00,Sep,Fri,Evening,Regular,5,12,Card,Florida,60
+690,Avatar 3,2025-09-08 00:00:00,Sep,Mon,Evening,Regular,4,12,Mobile Wallet,California,48
+1953,Mission Impossible 8,2025-08-08 00:00:00,Aug,Fri,Evening,Family,3,30,Mobile Wallet,New York,90
+192,Mission Impossible 8,2025-07-26 00:00:00,Jul,Sat,Evening,Family,5,30,Cash,Texas,150
+53,Mission Impossible 8,2025-08-30 00:00:00,Aug,Sat,Evening,Regular,5,12,Card,Texas,60
+295,Avatar 3,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,3,12,Card,Texas,36
+1267,Fast X,2025-08-07 00:00:00,Aug,Thu,Evening,Regular,1,12,Card,California,12
+377,The Flash,2025-08-30 00:00:00,Aug,Sat,Evening,Regular,2,12,Mobile Wallet,Texas,24
+588,Mission Impossible 8,2025-09-27 00:00:00,Sep,Sat,Evening,Student,5,8,Card,New York,40
+1907,Oppenheimer,2025-09-14 00:00:00,Sep,Sun,Evening,VIP,1,25,Mobile Wallet,Texas,25
+1744,Mission Impossible 8,2025-07-03 00:00:00,Jul,Thu,Evening,Regular,4,12,Cash,Texas,48
+1823,The Flash,2025-09-01 00:00:00,Sep,Mon,Evening,Couple,2,20,Cash,New York,40
+143,The Flash,2025-07-27 00:00:00,Jul,Sun,Evening,Student,2,8,Cash,New York,16
+591,Guardians of the Galaxy Vol. 4,2025-09-05 00:00:00,Sep,Fri,Evening,Couple,2,20,Mobile Wallet,Texas,40
+1442,Avatar 3,2025-08-11 00:00:00,Aug,Mon,Evening,VIP,2,25,Cash,Florida,50
+633,Oppenheimer,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,1,12,Card,California,12
+1365,John Wick 5,2025-07-15 00:00:00,Jul,Tue,Evening,Family,5,30,Cash,California,150
+1980,Avatar 3,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,1,12,Cash,Florida,12
+1274,Mission Impossible 8,2025-08-10 00:00:00,Aug,Sun,Evening,VIP,4,25,Cash,New York,100
+1072,Avatar 3,2025-07-26 00:00:00,Jul,Sat,Evening,VIP,4,25,Cash,Florida,100
+346,Fast X,2025-09-21 00:00:00,Sep,Sun,Evening,Student,1,8,Card,California,8
+832,Oppenheimer,2025-09-14 00:00:00,Sep,Sun,Evening,Student,1,8,Mobile Wallet,California,8
+338,Mission Impossible 8,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,1,12,Cash,New York,12
+361,The Flash,2025-07-05 00:00:00,Jul,Sat,Evening,Regular,2,12,Card,California,24
+1025,John Wick 5,2025-09-09 00:00:00,Sep,Tue,Evening,Regular,2,12,Mobile Wallet,California,24
+358,John Wick 5,2025-08-19 00:00:00,Aug,Tue,Evening,Regular,1,12,Mobile Wallet,Florida,12
+1617,Fast X,2025-07-04 00:00:00,Jul,Fri,Evening,VIP,1,25,Mobile Wallet,New York,25
+1830,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Evening,Regular,3,12,Mobile Wallet,Florida,36
+1064,Oppenheimer,2025-09-06 00:00:00,Sep,Sat,Evening,VIP,1,25,Card,California,25
+1755,Oppenheimer,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,3,12,Mobile Wallet,Florida,36
+888,Barbie,2025-07-05 00:00:00,Jul,Sat,Evening,Regular,5,12,Cash,Texas,60
+1449,Barbie,2025-08-05 00:00:00,Aug,Tue,Evening,VIP,3,25,Cash,Texas,75
+715,John Wick 5,2025-08-19 00:00:00,Aug,Tue,Evening,Regular,5,12,Mobile Wallet,New York,60
+1585,Barbie,2025-07-02 00:00:00,Jul,Wed,Morning,Regular,4,12,Mobile Wallet,Florida,48
+1519,The Flash,2025-09-06 00:00:00,Sep,Sat,Late Night,Regular,2,12,Mobile Wallet,New York,24
+1960,Mission Impossible 8,2025-08-10 00:00:00,Aug,Sun,Late Night,Regular,3,12,Cash,New York,36
+1962,Guardians of the Galaxy Vol. 4,2025-08-03 00:00:00,Aug,Sun,Late Night,Regular,4,12,Cash,Florida,48
+539,Oppenheimer,2025-09-15 00:00:00,Sep,Mon,Late Night,Student,5,8,Card,Florida,40
+1640,Avatar 3,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,1,12,Cash,Florida,12
+1377,The Flash,2025-07-27 00:00:00,Jul,Sun,Evening,Student,5,8,Card,California,40
+106,Avatar 3,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,2,12,Cash,Texas,24
+1255,Oppenheimer,2025-07-06 00:00:00,Jul,Sun,Evening,Regular,3,12,Card,New York,36
+1070,Oppenheimer,2025-07-13 00:00:00,Jul,Sun,Evening,Student,1,8,Mobile Wallet,New York,8
+1180,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Evening,Student,5,8,Mobile Wallet,Florida,40
+1395,Oppenheimer,2025-07-20 00:00:00,Jul,Sun,Evening,Family,5,30,Card,Texas,150
+1837,Barbie,2025-09-20 00:00:00,Sep,Sat,Evening,Family,4,30,Card,New York,120
+853,Oppenheimer,2025-07-08 00:00:00,Jul,Tue,Evening,Regular,2,12,Mobile Wallet,Texas,24
+935,John Wick 5,2025-09-05 00:00:00,Sep,Fri,Evening,Student,5,8,Card,New York,40
+1100,Mission Impossible 8,2025-08-06 00:00:00,Aug,Wed,Evening,Regular,1,12,Card,Texas,12
+1242,The Flash,2025-07-20 00:00:00,Jul,Sun,Late Night,Regular,4,12,Cash,California,48
+1727,The Flash,2025-07-19 00:00:00,Jul,Sat,Afternoon,Regular,3,12,Card,California,36
+576,Barbie,2025-08-09 00:00:00,Aug,Sat,Afternoon,VIP,5,25,Mobile Wallet,California,125
+1934,Mission Impossible 8,2025-07-07 00:00:00,Jul,Mon,Late Night,Regular,5,12,Mobile Wallet,California,60
+1135,Mission Impossible 8,2025-09-19 00:00:00,Sep,Fri,Afternoon,Regular,5,12,Cash,Texas,60
+248,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Evening,Couple,3,20,Mobile Wallet,Florida,60
+1197,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Late Night,Family,1,30,Card,New York,30
+587,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Afternoon,Regular,4,12,Mobile Wallet,New York,48
+577,Guardians of the Galaxy Vol. 4,2025-08-17 00:00:00,Aug,Sun,Morning,Family,1,30,Card,Florida,30
+219,Guardians of the Galaxy Vol. 4,2025-09-05 00:00:00,Sep,Fri,Late Night,Couple,4,20,Mobile Wallet,Texas,80
+1639,Guardians of the Galaxy Vol. 4,2025-07-11 00:00:00,Jul,Fri,Afternoon,Regular,1,12,Card,New York,12
+982,John Wick 5,2025-08-12 00:00:00,Aug,Tue,Late Night,Regular,1,12,Card,Texas,12
+1432,Oppenheimer,2025-08-30 00:00:00,Aug,Sat,Afternoon,Family,5,30,Cash,California,150
+523,Barbie,2025-09-14 00:00:00,Sep,Sun,Late Night,Regular,3,12,Cash,Texas,36
+1764,Barbie,2025-08-17 00:00:00,Aug,Sun,Late Night,Regular,4,12,Mobile Wallet,New York,48
+51,Barbie,2025-09-22 00:00:00,Sep,Mon,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+1595,Barbie,2025-07-18 00:00:00,Jul,Fri,Afternoon,Regular,4,12,Mobile Wallet,Texas,48
+110,Barbie,2025-09-18 00:00:00,Sep,Thu,Afternoon,Family,5,30,Cash,Texas,150
+350,Barbie,2025-07-13 00:00:00,Jul,Sun,Late Night,Regular,4,12,Card,Texas,48
+1695,Oppenheimer,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,2,12,Mobile Wallet,Texas,24
+702,John Wick 5,2025-07-13 00:00:00,Jul,Sun,Evening,Family,1,30,Cash,Florida,30
+866,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Evening,VIP,5,25,Mobile Wallet,Texas,125
+835,Guardians of the Galaxy Vol. 4,2025-08-19 00:00:00,Aug,Tue,Evening,Regular,3,12,Mobile Wallet,Florida,36
+1417,Guardians of the Galaxy Vol. 4,2025-08-29 00:00:00,Aug,Fri,Evening,Regular,2,12,Cash,New York,24
+83,Oppenheimer,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,4,12,Mobile Wallet,New York,48
+1770,Oppenheimer,2025-07-28 00:00:00,Jul,Mon,Evening,Regular,3,12,Mobile Wallet,Texas,36
+1706,John Wick 5,2025-09-07 00:00:00,Sep,Sun,Evening,Couple,5,20,Mobile Wallet,New York,100
+206,Oppenheimer,2025-08-10 00:00:00,Aug,Sun,Evening,Family,5,30,Mobile Wallet,Florida,150
+1230,Mission Impossible 8,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,3,12,Cash,Texas,36
+1527,Fast X,2025-08-04 00:00:00,Aug,Mon,Evening,Family,2,30,Card,California,60
+161,Fast X,2025-08-20 00:00:00,Aug,Wed,Evening,Student,4,8,Card,California,32
+1161,John Wick 5,2025-08-03 00:00:00,Aug,Sun,Evening,Regular,2,12,Mobile Wallet,New York,24
+1097,Avatar 3,2025-09-22 00:00:00,Sep,Mon,Evening,Family,1,30,Cash,Texas,30
+810,Oppenheimer,2025-07-19 00:00:00,Jul,Sat,Evening,Student,1,8,Mobile Wallet,New York,8
+1901,The Flash,2025-09-02 00:00:00,Sep,Tue,Evening,Regular,5,12,Card,New York,60
+17,The Flash,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,5,12,Mobile Wallet,California,60
+636,Avatar 3,2025-08-18 00:00:00,Aug,Mon,Afternoon,Student,1,8,Cash,California,8
+1356,The Flash,2025-09-12 00:00:00,Sep,Fri,Evening,Regular,2,12,Cash,California,24
+1185,John Wick 5,2025-08-04 00:00:00,Aug,Mon,Late Night,VIP,1,25,Cash,California,25
+1582,Avatar 3,2025-09-19 00:00:00,Sep,Fri,Morning,Couple,3,20,Cash,Texas,60
+369,Mission Impossible 8,2025-08-13 00:00:00,Aug,Wed,Morning,Regular,3,12,Mobile Wallet,Texas,36
+1773,Guardians of the Galaxy Vol. 4,2025-07-02 00:00:00,Jul,Wed,Late Night,Regular,4,12,Cash,California,48
+79,Fast X,2025-07-19 00:00:00,Jul,Sat,Evening,Family,5,30,Cash,California,150
+667,Barbie,2025-08-29 00:00:00,Aug,Fri,Late Night,Regular,1,12,Card,California,12
+515,Avatar 3,2025-08-16 00:00:00,Aug,Sat,Morning,VIP,5,25,Card,California,125
+397,John Wick 5,2025-07-26 00:00:00,Jul,Sat,Late Night,Regular,5,12,Cash,New York,60
+168,Fast X,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,3,12,Mobile Wallet,Florida,36
+1200,Oppenheimer,2025-07-24 00:00:00,Jul,Thu,Late Night,Regular,3,12,Cash,New York,36
+871,Oppenheimer,2025-09-11 00:00:00,Sep,Thu,Late Night,Couple,5,20,Cash,Florida,100
+1102,Avatar 3,2025-08-13 00:00:00,Aug,Wed,Late Night,Student,2,8,Cash,Florida,16
+1820,Mission Impossible 8,2025-08-09 00:00:00,Aug,Sat,Late Night,Regular,4,12,Card,California,48
+1148,Avatar 3,2025-09-21 00:00:00,Sep,Sun,Late Night,Student,5,8,Mobile Wallet,Texas,40
+1158,Guardians of the Galaxy Vol. 4,2025-09-13 00:00:00,Sep,Sat,Late Night,Regular,2,12,Mobile Wallet,Florida,24
+1547,John Wick 5,2025-08-02 00:00:00,Aug,Sat,Late Night,Regular,2,12,Card,California,24
+1325,Oppenheimer,2025-08-31 00:00:00,Aug,Sun,Late Night,Student,2,8,Mobile Wallet,California,16
+876,Mission Impossible 8,2025-09-08 00:00:00,Sep,Mon,Late Night,Regular,5,12,Card,Texas,60
+64,Guardians of the Galaxy Vol. 4,2025-09-19 00:00:00,Sep,Fri,Late Night,Regular,5,12,Cash,California,60
+1077,Barbie,2025-07-05 00:00:00,Jul,Sat,Late Night,Family,5,30,Card,California,150
+1859,Fast X,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,3,12,Cash,Texas,36
+943,John Wick 5,2025-07-06 00:00:00,Jul,Sun,Late Night,Regular,2,12,Card,New York,24
+773,Guardians of the Galaxy Vol. 4,2025-07-20 00:00:00,Jul,Sun,Late Night,Couple,1,20,Cash,New York,20
+679,Avatar 3,2025-07-20 00:00:00,Jul,Sun,Late Night,Regular,5,12,Card,California,60
+1143,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Late Night,VIP,3,25,Mobile Wallet,Florida,75
+1452,Oppenheimer,2025-07-12 00:00:00,Jul,Sat,Late Night,Student,5,8,Card,California,40
+932,The Flash,2025-08-09 00:00:00,Aug,Sat,Late Night,Student,2,8,Mobile Wallet,Florida,16
+1037,John Wick 5,2025-07-26 00:00:00,Jul,Sat,Late Night,Regular,3,12,Card,Florida,36
+1905,Fast X,2025-08-03 00:00:00,Aug,Sun,Late Night,Couple,2,20,Card,Florida,40
+380,Guardians of the Galaxy Vol. 4,2025-08-25 00:00:00,Aug,Mon,Late Night,Student,5,8,Card,Texas,40
+1868,Oppenheimer,2025-07-26 00:00:00,Jul,Sat,Late Night,Student,1,8,Card,New York,8
+1132,Avatar 3,2025-07-19 00:00:00,Jul,Sat,Late Night,Couple,2,20,Card,New York,40
+287,Guardians of the Galaxy Vol. 4,2025-07-22 00:00:00,Jul,Tue,Late Night,Family,4,30,Cash,California,120
+1229,Barbie,2025-09-12 00:00:00,Sep,Fri,Late Night,Regular,3,12,Card,Florida,36
+894,Oppenheimer,2025-07-17 00:00:00,Jul,Thu,Late Night,Student,4,8,Cash,Florida,32
+1614,Guardians of the Galaxy Vol. 4,2025-09-28 00:00:00,Sep,Sun,Evening,Student,1,8,Card,Florida,8
+1554,The Flash,2025-08-17 00:00:00,Aug,Sun,Afternoon,VIP,2,25,Card,Texas,50
+1013,Barbie,2025-08-18 00:00:00,Aug,Mon,Morning,Regular,2,12,Mobile Wallet,California,24
+1533,Barbie,2025-09-02 00:00:00,Sep,Tue,Late Night,Regular,1,12,Cash,Texas,12
+746,Barbie,2025-08-24 00:00:00,Aug,Sun,Afternoon,Student,5,8,Card,California,40
+718,Barbie,2025-07-16 00:00:00,Jul,Wed,Evening,Family,1,30,Cash,Florida,30
+1124,Barbie,2025-08-10 00:00:00,Aug,Sun,Evening,Regular,5,12,Mobile Wallet,Texas,60
+650,Barbie,2025-08-23 00:00:00,Aug,Sat,Afternoon,Regular,4,12,Card,Florida,48
+846,Barbie,2025-08-20 00:00:00,Aug,Wed,Late Night,Regular,2,12,Mobile Wallet,Texas,24
+1236,Barbie,2025-07-28 00:00:00,Jul,Mon,Afternoon,Regular,4,12,Cash,Florida,48
+476,Barbie,2025-08-30 00:00:00,Aug,Sat,Evening,Couple,4,20,Card,Florida,80
+100,Barbie,2025-08-05 00:00:00,Aug,Tue,Evening,Regular,2,12,Card,Florida,24
+644,Guardians of the Galaxy Vol. 4,2025-08-20 00:00:00,Aug,Wed,Evening,VIP,5,25,Cash,Florida,125
+873,Avatar 3,2025-07-01 00:00:00,Jul,Tue,Evening,Couple,5,20,Mobile Wallet,New York,100
+1986,Barbie,2025-07-12 00:00:00,Jul,Sat,Late Night,Family,2,30,Card,Texas,60
+414,Guardians of the Galaxy Vol. 4,2025-08-19 00:00:00,Aug,Tue,Evening,Regular,4,12,Card,New York,48
+310,Barbie,2025-07-23 00:00:00,Jul,Wed,Evening,Regular,3,12,Cash,Florida,36
+321,John Wick 5,2025-08-14 00:00:00,Aug,Thu,Evening,Family,3,30,Mobile Wallet,Texas,90
+947,Oppenheimer,2025-08-16 00:00:00,Aug,Sat,Evening,VIP,2,25,Card,Texas,50
+1821,Fast X,2025-09-20 00:00:00,Sep,Sat,Evening,Regular,3,12,Cash,Texas,36
+1657,Avatar 3,2025-08-04 00:00:00,Aug,Mon,Morning,Regular,5,12,Cash,New York,60
+433,Oppenheimer,2025-09-09 00:00:00,Sep,Tue,Afternoon,Family,2,30,Cash,Florida,60
+1701,Oppenheimer,2025-08-02 00:00:00,Aug,Sat,Evening,VIP,4,25,Card,New York,100
+1312,Avatar 3,2025-09-15 00:00:00,Sep,Mon,Morning,Student,4,8,Mobile Wallet,Texas,32
+150,John Wick 5,2025-09-19 00:00:00,Sep,Fri,Evening,Couple,5,20,Mobile Wallet,New York,100
+1702,Barbie,2025-07-02 00:00:00,Jul,Wed,Afternoon,Student,1,8,Mobile Wallet,New York,8
+1316,The Flash,2025-08-24 00:00:00,Aug,Sun,Evening,Student,4,8,Cash,California,32
+1368,Barbie,2025-08-21 00:00:00,Aug,Thu,Afternoon,Regular,1,12,Mobile Wallet,California,12
+1528,Guardians of the Galaxy Vol. 4,2025-08-23 00:00:00,Aug,Sat,Afternoon,Student,4,8,Cash,Texas,32
+1205,Oppenheimer,2025-08-23 00:00:00,Aug,Sat,Evening,Student,3,8,Mobile Wallet,Florida,24
+931,Fast X,2025-07-27 00:00:00,Jul,Sun,Afternoon,VIP,5,25,Mobile Wallet,New York,125
+1214,Barbie,2025-07-03 00:00:00,Jul,Thu,Late Night,Student,2,8,Cash,Texas,16
+437,John Wick 5,2025-07-26 00:00:00,Jul,Sat,Afternoon,Regular,2,12,Card,Texas,24
+1778,Mission Impossible 8,2025-08-07 00:00:00,Aug,Thu,Evening,VIP,2,25,Card,Florida,50
+1387,Guardians of the Galaxy Vol. 4,2025-09-23 00:00:00,Sep,Tue,Evening,Regular,4,12,Cash,New York,48
+201,Fast X,2025-07-20 00:00:00,Jul,Sun,Evening,Family,5,30,Mobile Wallet,Texas,150
+379,Avatar 3,2025-07-19 00:00:00,Jul,Sat,Evening,Regular,4,12,Cash,New York,48
+223,Barbie,2025-08-29 00:00:00,Aug,Fri,Afternoon,Regular,5,12,Card,California,60
+1050,Guardians of the Galaxy Vol. 4,2025-07-27 00:00:00,Jul,Sun,Late Night,Regular,1,12,Mobile Wallet,New York,12
+252,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Evening,Family,1,30,Mobile Wallet,New York,30
+490,Oppenheimer,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,1,12,Cash,Florida,12
+178,Mission Impossible 8,2025-07-02 00:00:00,Jul,Wed,Late Night,VIP,5,25,Mobile Wallet,New York,125
+1734,The Flash,2025-07-21 00:00:00,Jul,Mon,Morning,VIP,5,25,Cash,California,125
+499,Guardians of the Galaxy Vol. 4,2025-08-18 00:00:00,Aug,Mon,Evening,Family,4,30,Cash,Texas,120
+1222,Avatar 3,2025-09-13 00:00:00,Sep,Sat,Late Night,Regular,1,12,Card,Florida,12
+1737,Oppenheimer,2025-07-21 00:00:00,Jul,Mon,Late Night,Student,1,8,Card,California,8
+519,John Wick 5,2025-07-29 00:00:00,Jul,Tue,Late Night,Student,5,8,Mobile Wallet,Florida,40
+1116,Fast X,2025-09-23 00:00:00,Sep,Tue,Late Night,Couple,1,20,Cash,New York,20
+1201,Oppenheimer,2025-07-27 00:00:00,Jul,Sun,Late Night,VIP,4,25,Cash,California,100
+796,Fast X,2025-08-07 00:00:00,Aug,Thu,Late Night,VIP,2,25,Card,California,50
+263,Oppenheimer,2025-08-07 00:00:00,Aug,Thu,Afternoon,Couple,2,20,Cash,New York,40
+354,John Wick 5,2025-09-15 00:00:00,Sep,Mon,Late Night,Couple,5,20,Cash,Texas,100
+905,Mission Impossible 8,2025-07-19 00:00:00,Jul,Sat,Late Night,VIP,4,25,Mobile Wallet,New York,100
+1131,Avatar 3,2025-07-05 00:00:00,Jul,Sat,Late Night,Couple,2,20,Mobile Wallet,California,40
+1548,Fast X,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,1,12,Cash,Texas,12
+885,John Wick 5,2025-09-27 00:00:00,Sep,Sat,Late Night,Regular,2,12,Mobile Wallet,California,24
+1626,Fast X,2025-07-04 00:00:00,Jul,Fri,Afternoon,Regular,3,12,Mobile Wallet,California,36
+1382,The Flash,2025-09-01 00:00:00,Sep,Mon,Late Night,Regular,1,12,Cash,California,12
+84,John Wick 5,2025-08-26 00:00:00,Aug,Tue,Afternoon,Family,4,30,Mobile Wallet,California,120
+1496,Oppenheimer,2025-09-20 00:00:00,Sep,Sat,Morning,Regular,1,12,Card,California,12
+1133,Barbie,2025-09-20 00:00:00,Sep,Sat,Afternoon,Family,4,30,Card,Texas,120
+351,The Flash,2025-07-25 00:00:00,Jul,Fri,Late Night,VIP,1,25,Card,Florida,25
+654,Oppenheimer,2025-07-17 00:00:00,Jul,Thu,Morning,Regular,1,12,Cash,Florida,12
+978,John Wick 5,2025-08-26 00:00:00,Aug,Tue,Morning,Regular,3,12,Cash,Florida,36
+1090,Avatar 3,2025-07-13 00:00:00,Jul,Sun,Late Night,Regular,3,12,Card,California,36
+1941,Fast X,2025-08-09 00:00:00,Aug,Sat,Late Night,Student,2,8,Cash,California,16
+173,Mission Impossible 8,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,4,12,Card,California,48
+1238,John Wick 5,2025-09-12 00:00:00,Sep,Fri,Evening,Family,5,30,Card,New York,150
+1401,Mission Impossible 8,2025-08-26 00:00:00,Aug,Tue,Late Night,Regular,2,12,Cash,Texas,24
+22,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Evening,VIP,4,25,Mobile Wallet,Florida,100
+430,The Flash,2025-07-28 00:00:00,Jul,Mon,Evening,Couple,2,20,Cash,Texas,40
+483,Oppenheimer,2025-09-17 00:00:00,Sep,Wed,Morning,Family,4,30,Mobile Wallet,Florida,120
+1651,Mission Impossible 8,2025-07-07 00:00:00,Jul,Mon,Afternoon,Student,2,8,Cash,New York,16
+767,Oppenheimer,2025-08-08 00:00:00,Aug,Fri,Afternoon,VIP,4,25,Card,Florida,100
+1649,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Morning,VIP,5,25,Card,Florida,125
+463,Barbie,2025-07-17 00:00:00,Jul,Thu,Evening,VIP,5,25,Card,California,125
+236,The Flash,2025-09-22 00:00:00,Sep,Mon,Late Night,VIP,3,25,Mobile Wallet,California,75
+1336,Barbie,2025-08-09 00:00:00,Aug,Sat,Morning,Student,3,8,Cash,New York,24
+1798,Avatar 3,2025-08-23 00:00:00,Aug,Sat,Late Night,Regular,5,12,Mobile Wallet,Florida,60
+1453,John Wick 5,2025-08-29 00:00:00,Aug,Fri,Late Night,Student,5,8,Card,Florida,40
+1581,The Flash,2025-08-02 00:00:00,Aug,Sat,Evening,Regular,5,12,Card,Texas,60
+294,Avatar 3,2025-07-16 00:00:00,Jul,Wed,Late Night,VIP,4,25,Card,Texas,100
+880,Oppenheimer,2025-07-29 00:00:00,Jul,Tue,Late Night,Regular,2,12,Cash,New York,24
+616,Mission Impossible 8,2025-08-28 00:00:00,Aug,Thu,Late Night,Regular,1,12,Mobile Wallet,Florida,12
+141,John Wick 5,2025-07-22 00:00:00,Jul,Tue,Late Night,Couple,2,20,Mobile Wallet,California,40
+1535,Mission Impossible 8,2025-07-04 00:00:00,Jul,Fri,Late Night,Regular,1,12,Mobile Wallet,Florida,12
+859,Avatar 3,2025-08-30 00:00:00,Aug,Sat,Morning,Regular,2,12,Mobile Wallet,California,24
+621,The Flash,2025-09-03 00:00:00,Sep,Wed,Evening,Student,2,8,Card,Texas,16
+745,Mission Impossible 8,2025-07-26 00:00:00,Jul,Sat,Morning,VIP,1,25,Cash,California,25
+272,John Wick 5,2025-08-19 00:00:00,Aug,Tue,Morning,Regular,3,12,Cash,California,36
+25,The Flash,2025-07-01 00:00:00,Jul,Tue,Morning,Regular,3,12,Mobile Wallet,Florida,36
+895,The Flash,2025-08-06 00:00:00,Aug,Wed,Evening,Regular,3,12,Mobile Wallet,Florida,36
+827,Mission Impossible 8,2025-09-04 00:00:00,Sep,Thu,Afternoon,Student,2,8,Mobile Wallet,Florida,16
+1307,John Wick 5,2025-07-03 00:00:00,Jul,Thu,Afternoon,Regular,2,12,Card,Florida,24
+917,Avatar 3,2025-07-23 00:00:00,Jul,Wed,Evening,Student,2,8,Card,New York,16
+241,Avatar 3,2025-07-14 00:00:00,Jul,Mon,Evening,Student,4,8,Card,Texas,32
+1504,Mission Impossible 8,2025-09-30 00:00:00,Sep,Tue,Evening,Regular,2,12,Card,California,24
+1392,Barbie,2025-08-23 00:00:00,Aug,Sat,Evening,Couple,2,20,Mobile Wallet,New York,40
+634,Barbie,2025-09-05 00:00:00,Sep,Fri,Evening,Regular,2,12,Card,Texas,24
+1671,Barbie,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,2,12,Mobile Wallet,Florida,24
+1888,Barbie,2025-08-14 00:00:00,Aug,Thu,Evening,VIP,3,25,Card,Florida,75
+1168,Barbie,2025-08-05 00:00:00,Aug,Tue,Evening,Regular,1,12,Cash,Florida,12
+1543,Barbie,2025-09-05 00:00:00,Sep,Fri,Evening,Regular,1,12,Mobile Wallet,California,12
+1656,Barbie,2025-07-08 00:00:00,Jul,Tue,Evening,Regular,1,12,Mobile Wallet,New York,12
+1482,Barbie,2025-08-23 00:00:00,Aug,Sat,Evening,VIP,5,25,Cash,Texas,125
+1372,Barbie,2025-09-20 00:00:00,Sep,Sat,Evening,VIP,3,25,Cash,Texas,75
+285,Avatar 3,2025-09-02 00:00:00,Sep,Tue,Evening,Regular,3,12,Card,New York,36
+542,Avatar 3,2025-08-30 00:00:00,Aug,Sat,Evening,Student,4,8,Card,Florida,32
+1613,John Wick 5,2025-08-07 00:00:00,Aug,Thu,Evening,Regular,4,12,Card,Texas,48
+1237,Guardians of the Galaxy Vol. 4,2025-09-09 00:00:00,Sep,Tue,Evening,Regular,5,12,Mobile Wallet,New York,60
+434,John Wick 5,2025-07-14 00:00:00,Jul,Mon,Evening,Regular,1,12,Cash,Florida,12
+1522,Guardians of the Galaxy Vol. 4,2025-07-11 00:00:00,Jul,Fri,Evening,Regular,5,12,Mobile Wallet,Florida,60
+21,Barbie,2025-08-11 00:00:00,Aug,Mon,Evening,Family,4,30,Mobile Wallet,Florida,120
+764,Avatar 3,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,1,12,Cash,Florida,12
+1874,Barbie,2025-08-02 00:00:00,Aug,Sat,Evening,Couple,2,20,Card,Texas,40
+928,The Flash,2025-07-27 00:00:00,Jul,Sun,Evening,Family,2,30,Cash,Florida,60
+1850,Avatar 3,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,1,12,Cash,Florida,12
+735,Avatar 3,2025-07-31 00:00:00,Jul,Thu,Evening,Family,4,30,Cash,Florida,120
+611,Oppenheimer,2025-08-10 00:00:00,Aug,Sun,Evening,Couple,2,20,Mobile Wallet,New York,40
+609,The Flash,2025-08-24 00:00:00,Aug,Sun,Evening,Student,3,8,Mobile Wallet,Texas,24
+196,Avatar 3,2025-07-17 00:00:00,Jul,Thu,Evening,Regular,3,12,Card,Texas,36
+1485,Fast X,2025-08-13 00:00:00,Aug,Wed,Evening,VIP,2,25,Cash,California,50
+1388,The Flash,2025-09-21 00:00:00,Sep,Sun,Evening,VIP,1,25,Mobile Wallet,California,25
+1082,Oppenheimer,2025-08-11 00:00:00,Aug,Mon,Evening,Couple,3,20,Card,California,60
+1705,Mission Impossible 8,2025-09-13 00:00:00,Sep,Sat,Evening,Family,4,30,Card,New York,120
+1460,Mission Impossible 8,2025-08-18 00:00:00,Aug,Mon,Evening,VIP,5,25,Mobile Wallet,Texas,125
+376,The Flash,2025-08-20 00:00:00,Aug,Wed,Evening,Regular,1,12,Card,California,12
+556,John Wick 5,2025-08-31 00:00:00,Aug,Sun,Evening,Family,5,30,Mobile Wallet,California,150
+16,Oppenheimer,2025-09-16 00:00:00,Sep,Tue,Evening,Regular,2,12,Card,Texas,24
+1752,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Evening,Family,4,30,Cash,Florida,120
+1861,Barbie,2025-08-17 00:00:00,Aug,Sun,Evening,Couple,3,20,Card,Texas,60
+113,John Wick 5,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,5,12,Mobile Wallet,New York,60
+776,Oppenheimer,2025-08-19 00:00:00,Aug,Tue,Evening,Regular,2,12,Cash,California,24
+1302,The Flash,2025-08-19 00:00:00,Aug,Tue,Evening,Family,3,30,Card,California,90
+924,Fast X,2025-09-13 00:00:00,Sep,Sat,Evening,Regular,1,12,Mobile Wallet,California,12
+239,Mission Impossible 8,2025-08-03 00:00:00,Aug,Sun,Evening,Regular,4,12,Card,Texas,48
+315,Mission Impossible 8,2025-08-14 00:00:00,Aug,Thu,Evening,Family,4,30,Mobile Wallet,Florida,120
+914,Avatar 3,2025-07-25 00:00:00,Jul,Fri,Evening,Family,4,30,Card,Florida,120
+1970,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,2,12,Card,Florida,24
+708,John Wick 5,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,2,12,Cash,California,24
+389,Guardians of the Galaxy Vol. 4,2025-07-14 00:00:00,Jul,Mon,Evening,Student,4,8,Card,New York,32
+114,Barbie,2025-09-04 00:00:00,Sep,Thu,Evening,Couple,5,20,Card,Texas,100
+1648,The Flash,2025-07-28 00:00:00,Jul,Mon,Evening,Regular,4,12,Card,Texas,48
+1329,Barbie,2025-08-03 00:00:00,Aug,Sun,Evening,Regular,2,12,Mobile Wallet,New York,24
+1735,Barbie,2025-08-31 00:00:00,Aug,Sun,Evening,Regular,1,12,Cash,California,12
+1465,Barbie,2025-08-18 00:00:00,Aug,Mon,Evening,Regular,2,12,Mobile Wallet,California,24
+830,Barbie,2025-08-27 00:00:00,Aug,Wed,Evening,Regular,1,12,Cash,New York,12
+3,Barbie,2025-08-26 00:00:00,Aug,Tue,Evening,Family,5,30,Cash,Florida,150
+526,Barbie,2025-09-13 00:00:00,Sep,Sat,Evening,Regular,4,12,Mobile Wallet,Florida,48
+809,Barbie,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,5,12,Cash,California,60
+1745,Barbie,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,2,12,Mobile Wallet,New York,24
+1439,John Wick 5,2025-08-05 00:00:00,Aug,Tue,Evening,Family,1,30,Cash,New York,30
+1552,Oppenheimer,2025-07-02 00:00:00,Jul,Wed,Evening,Regular,1,12,Cash,Texas,12
+1071,Oppenheimer,2025-09-02 00:00:00,Sep,Tue,Evening,Student,5,8,Mobile Wallet,New York,40
+1087,Guardians of the Galaxy Vol. 4,2025-07-01 00:00:00,Jul,Tue,Evening,Regular,3,12,Cash,California,36
+1003,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Afternoon,Regular,3,12,Cash,Texas,36
+996,Oppenheimer,2025-08-03 00:00:00,Aug,Sun,Morning,Couple,4,20,Card,New York,80
+954,The Flash,2025-09-21 00:00:00,Sep,Sun,Afternoon,Regular,2,12,Card,New York,24
+657,Fast X,2025-08-23 00:00:00,Aug,Sat,Evening,Couple,5,20,Mobile Wallet,Texas,100
+1598,Oppenheimer,2025-09-22 00:00:00,Sep,Mon,Evening,VIP,2,25,Mobile Wallet,Florida,50
+183,Barbie,2025-07-07 00:00:00,Jul,Mon,Evening,Regular,4,12,Cash,New York,48
+1218,Avatar 3,2025-07-17 00:00:00,Jul,Thu,Late Night,Regular,4,12,Card,Texas,48
+705,Oppenheimer,2025-07-15 00:00:00,Jul,Tue,Late Night,Student,5,8,Cash,New York,40
+1373,John Wick 5,2025-08-07 00:00:00,Aug,Thu,Late Night,Regular,3,12,Card,California,36
+1190,John Wick 5,2025-07-06 00:00:00,Jul,Sun,Afternoon,Student,4,8,Cash,Florida,32
+938,Oppenheimer,2025-09-27 00:00:00,Sep,Sat,Morning,VIP,2,25,Card,California,50
+1663,The Flash,2025-09-13 00:00:00,Sep,Sat,Afternoon,Regular,3,12,Card,New York,36
+842,John Wick 5,2025-09-10 00:00:00,Sep,Wed,Morning,Student,4,8,Mobile Wallet,New York,32
+517,John Wick 5,2025-08-05 00:00:00,Aug,Tue,Evening,Regular,1,12,Cash,Texas,12
+402,The Flash,2025-07-25 00:00:00,Jul,Fri,Late Night,Regular,2,12,Cash,New York,24
+1466,Barbie,2025-08-30 00:00:00,Aug,Sat,Afternoon,Student,1,8,Cash,Texas,8
+1922,Oppenheimer,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,2,12,Card,New York,24
+1897,Barbie,2025-07-24 00:00:00,Jul,Thu,Evening,Regular,2,12,Card,Texas,24
+1950,Fast X,2025-09-23 00:00:00,Sep,Tue,Evening,Regular,2,12,Cash,New York,24
+1306,Fast X,2025-09-06 00:00:00,Sep,Sat,Morning,Regular,1,12,Mobile Wallet,New York,12
+169,Fast X,2025-08-02 00:00:00,Aug,Sat,Afternoon,Student,5,8,Card,California,40
+1157,Avatar 3,2025-09-30 00:00:00,Sep,Tue,Late Night,Family,2,30,Mobile Wallet,California,60
+1314,Oppenheimer,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,5,12,Card,Florida,60
+1509,John Wick 5,2025-07-10 00:00:00,Jul,Thu,Evening,Couple,4,20,Cash,New York,80
+103,Avatar 3,2025-08-29 00:00:00,Aug,Fri,Evening,Regular,4,12,Cash,Texas,48
+1470,Guardians of the Galaxy Vol. 4,2025-09-16 00:00:00,Sep,Tue,Evening,Regular,5,12,Cash,California,60
+383,The Flash,2025-09-03 00:00:00,Sep,Wed,Evening,Family,3,30,Mobile Wallet,California,90
+274,John Wick 5,2025-07-05 00:00:00,Jul,Sat,Evening,Student,2,8,Cash,Florida,16
+1589,Fast X,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,3,12,Card,California,36
+1280,The Flash,2025-09-06 00:00:00,Sep,Sat,Evening,Student,1,8,Card,New York,8
+1716,John Wick 5,2025-09-18 00:00:00,Sep,Thu,Evening,Regular,2,12,Card,Florida,24
+808,Guardians of the Galaxy Vol. 4,2025-07-07 00:00:00,Jul,Mon,Evening,Regular,1,12,Card,New York,12
+435,The Flash,2025-07-19 00:00:00,Jul,Sat,Afternoon,Family,4,30,Card,New York,120
+1303,Fast X,2025-08-02 00:00:00,Aug,Sat,Morning,VIP,3,25,Cash,Texas,75
+801,Guardians of the Galaxy Vol. 4,2025-09-06 00:00:00,Sep,Sat,Late Night,Student,3,8,Mobile Wallet,New York,24
+1203,The Flash,2025-08-13 00:00:00,Aug,Wed,Late Night,Regular,5,12,Cash,Texas,60
+198,The Flash,2025-09-06 00:00:00,Sep,Sat,Late Night,Couple,3,20,Mobile Wallet,California,60
+994,The Flash,2025-08-01 00:00:00,Aug,Fri,Afternoon,Regular,5,12,Card,Texas,60
+288,Oppenheimer,2025-09-12 00:00:00,Sep,Fri,Morning,Regular,3,12,Mobile Wallet,California,36
+203,Fast X,2025-07-09 00:00:00,Jul,Wed,Evening,Regular,5,12,Cash,Texas,60
+965,Fast X,2025-09-22 00:00:00,Sep,Mon,Afternoon,Couple,4,20,Mobile Wallet,Texas,80
+878,Avatar 3,2025-08-09 00:00:00,Aug,Sat,Late Night,Regular,3,12,Card,California,36
+104,The Flash,2025-08-20 00:00:00,Aug,Wed,Afternoon,Student,1,8,Cash,California,8
+216,Oppenheimer,2025-08-16 00:00:00,Aug,Sat,Afternoon,Regular,5,12,Card,New York,60
+70,Barbie,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,2,12,Mobile Wallet,New York,24
+536,Barbie,2025-07-05 00:00:00,Jul,Sat,Evening,Couple,3,20,Mobile Wallet,Texas,60
+1259,John Wick 5,2025-09-07 00:00:00,Sep,Sun,Morning,Regular,5,12,Card,Florida,60
+1930,Mission Impossible 8,2025-08-03 00:00:00,Aug,Sun,Afternoon,Regular,2,12,Card,Florida,24
+862,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Late Night,Regular,5,12,Mobile Wallet,Texas,60
+7,Oppenheimer,2025-09-21 00:00:00,Sep,Sun,Late Night,Regular,4,12,Mobile Wallet,California,48
+1213,Avatar 3,2025-09-10 00:00:00,Sep,Wed,Afternoon,Regular,5,12,Mobile Wallet,California,60
+782,Mission Impossible 8,2025-09-18 00:00:00,Sep,Thu,Afternoon,Couple,5,20,Cash,California,100
+289,Guardians of the Galaxy Vol. 4,2025-07-17 00:00:00,Jul,Thu,Morning,Regular,5,12,Mobile Wallet,Texas,60
+860,Fast X,2025-09-29 00:00:00,Sep,Mon,Evening,Regular,4,12,Cash,New York,48
+1557,Avatar 3,2025-07-06 00:00:00,Jul,Sun,Morning,Regular,3,12,Cash,Texas,36
+759,Guardians of the Galaxy Vol. 4,2025-08-08 00:00:00,Aug,Fri,Afternoon,Student,5,8,Cash,California,40
+1558,Mission Impossible 8,2025-09-11 00:00:00,Sep,Thu,Morning,Regular,4,12,Cash,California,48
+1463,Oppenheimer,2025-09-01 00:00:00,Sep,Mon,Late Night,VIP,4,25,Card,New York,100
+1173,Mission Impossible 8,2025-08-15 00:00:00,Aug,Fri,Evening,Regular,3,12,Cash,California,36
+199,Oppenheimer,2025-07-06 00:00:00,Jul,Sun,Evening,VIP,4,25,Cash,Florida,100
+1196,Oppenheimer,2025-09-29 00:00:00,Sep,Mon,Evening,VIP,2,25,Cash,California,50
+34,Avatar 3,2025-09-09 00:00:00,Sep,Tue,Evening,Family,5,30,Mobile Wallet,California,150
+1601,John Wick 5,2025-07-29 00:00:00,Jul,Tue,Evening,Regular,2,12,Cash,Texas,24
+1225,Guardians of the Galaxy Vol. 4,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,4,12,Card,California,48
+1398,Fast X,2025-07-12 00:00:00,Jul,Sat,Evening,Couple,3,20,Card,New York,60
+1164,Barbie,2025-09-27 00:00:00,Sep,Sat,Evening,VIP,2,25,Card,California,50
+1379,Barbie,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,5,12,Cash,California,60
+622,Avatar 3,2025-07-01 00:00:00,Jul,Tue,Evening,Couple,5,20,Cash,Texas,100
+985,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Late Night,VIP,1,25,Mobile Wallet,New York,25
+562,Mission Impossible 8,2025-08-21 00:00:00,Aug,Thu,Late Night,Student,3,8,Cash,Texas,24
+615,Barbie,2025-08-28 00:00:00,Aug,Thu,Afternoon,Regular,3,12,Mobile Wallet,California,36
+789,John Wick 5,2025-07-06 00:00:00,Jul,Sun,Afternoon,Family,2,30,Card,California,60
+1176,Fast X,2025-09-29 00:00:00,Sep,Mon,Afternoon,Regular,2,12,Mobile Wallet,New York,24
+1233,Oppenheimer,2025-08-13 00:00:00,Aug,Wed,Evening,Regular,4,12,Card,New York,48
+1249,Avatar 3,2025-08-21 00:00:00,Aug,Thu,Evening,Couple,5,20,Mobile Wallet,Florida,100
+58,Guardians of the Galaxy Vol. 4,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,4,12,Cash,Texas,48
+513,Fast X,2025-08-12 00:00:00,Aug,Tue,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+1290,Guardians of the Galaxy Vol. 4,2025-09-10 00:00:00,Sep,Wed,Late Night,Regular,5,12,Cash,Texas,60
+1513,Oppenheimer,2025-07-03 00:00:00,Jul,Thu,Morning,Family,5,30,Cash,Texas,150
+1849,Guardians of the Galaxy Vol. 4,2025-09-25 00:00:00,Sep,Thu,Morning,Student,2,8,Card,Florida,16
+729,Oppenheimer,2025-08-30 00:00:00,Aug,Sat,Evening,Regular,5,12,Card,New York,60
+624,Avatar 3,2025-09-11 00:00:00,Sep,Thu,Late Night,Family,1,30,Cash,California,30
+1636,Fast X,2025-09-21 00:00:00,Sep,Sun,Late Night,Regular,2,12,Card,New York,24
+180,Mission Impossible 8,2025-07-06 00:00:00,Jul,Sun,Late Night,VIP,4,25,Mobile Wallet,New York,100
+1015,Oppenheimer,2025-07-13 00:00:00,Jul,Sun,Late Night,VIP,1,25,Mobile Wallet,California,25
+1966,Guardians of the Galaxy Vol. 4,2025-09-01 00:00:00,Sep,Mon,Late Night,Student,3,8,Card,Texas,24
+160,The Flash,2025-09-19 00:00:00,Sep,Fri,Morning,Student,5,8,Mobile Wallet,Texas,40
+1658,Mission Impossible 8,2025-09-05 00:00:00,Sep,Fri,Late Night,VIP,3,25,Cash,Florida,75
+1642,Guardians of the Galaxy Vol. 4,2025-09-26 00:00:00,Sep,Fri,Evening,Family,3,30,Mobile Wallet,Florida,90
+700,Mission Impossible 8,2025-07-15 00:00:00,Jul,Tue,Afternoon,Student,1,8,Card,New York,8
+186,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Evening,Family,5,30,Card,California,150
+1044,Guardians of the Galaxy Vol. 4,2025-07-18 00:00:00,Jul,Fri,Evening,Regular,3,12,Card,Texas,36
+1169,Mission Impossible 8,2025-08-10 00:00:00,Aug,Sun,Evening,Student,4,8,Cash,Texas,32
+618,John Wick 5,2025-09-09 00:00:00,Sep,Tue,Evening,Regular,5,12,Mobile Wallet,New York,60
+629,Fast X,2025-08-17 00:00:00,Aug,Sun,Afternoon,Regular,1,12,Card,Texas,12
+392,Mission Impossible 8,2025-09-28 00:00:00,Sep,Sun,Afternoon,Regular,4,12,Mobile Wallet,California,48
+1561,Mission Impossible 8,2025-08-24 00:00:00,Aug,Sun,Afternoon,Regular,3,12,Mobile Wallet,New York,36
+861,The Flash,2025-07-18 00:00:00,Jul,Fri,Evening,Couple,1,20,Mobile Wallet,Florida,20
+1221,Barbie,2025-08-21 00:00:00,Aug,Thu,Evening,VIP,2,25,Cash,Texas,50
+1576,Barbie,2025-07-11 00:00:00,Jul,Fri,Evening,Regular,5,12,Mobile Wallet,Florida,60
+116,Barbie,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,4,12,Card,Texas,48
+1239,Barbie,2025-08-23 00:00:00,Aug,Sat,Evening,VIP,4,25,Card,California,100
+1483,Barbie,2025-08-26 00:00:00,Aug,Tue,Evening,Regular,2,12,Cash,New York,24
+1411,Barbie,2025-09-26 00:00:00,Sep,Fri,Late Night,Regular,3,12,Cash,California,36
+270,Barbie,2025-08-12 00:00:00,Aug,Tue,Late Night,VIP,3,25,Cash,Florida,75
+1145,Barbie,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,3,12,Mobile Wallet,California,36
+946,Barbie,2025-08-11 00:00:00,Aug,Mon,Afternoon,Regular,3,12,Card,Texas,36
+585,Barbie,2025-08-31 00:00:00,Aug,Sun,Evening,VIP,4,25,Card,Texas,100
+261,Guardians of the Galaxy Vol. 4,2025-07-14 00:00:00,Jul,Mon,Morning,Student,2,8,Mobile Wallet,New York,16
+144,John Wick 5,2025-08-11 00:00:00,Aug,Mon,Morning,Regular,5,12,Card,California,60
+6,John Wick 5,2025-07-24 00:00:00,Jul,Thu,Evening,Student,5,8,Cash,Texas,40
+1243,Fast X,2025-08-28 00:00:00,Aug,Thu,Late Night,VIP,3,25,Card,New York,75
+1802,Oppenheimer,2025-08-22 00:00:00,Aug,Fri,Late Night,Family,4,30,Mobile Wallet,Florida,120
+1247,Barbie,2025-08-23 00:00:00,Aug,Sat,Late Night,VIP,4,25,Mobile Wallet,New York,100
+1434,The Flash,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,5,12,Mobile Wallet,California,60
+1291,Guardians of the Galaxy Vol. 4,2025-09-29 00:00:00,Sep,Mon,Evening,Regular,1,12,Card,New York,12
+487,Mission Impossible 8,2025-07-27 00:00:00,Jul,Sun,Afternoon,Regular,5,12,Cash,New York,60
+1796,Avatar 3,2025-07-16 00:00:00,Jul,Wed,Afternoon,Student,2,8,Cash,New York,16
+1865,The Flash,2025-07-13 00:00:00,Jul,Sun,Late Night,Regular,5,12,Card,Florida,60
+962,Guardians of the Galaxy Vol. 4,2025-07-30 00:00:00,Jul,Wed,Morning,Regular,2,12,Card,California,24
+558,Barbie,2025-08-10 00:00:00,Aug,Sun,Evening,Regular,5,12,Cash,New York,60
+1624,The Flash,2025-08-31 00:00:00,Aug,Sun,Evening,Couple,5,20,Card,New York,100
+1198,Mission Impossible 8,2025-09-07 00:00:00,Sep,Sun,Evening,Couple,5,20,Mobile Wallet,New York,100
+677,The Flash,2025-08-21 00:00:00,Aug,Thu,Evening,Regular,2,12,Cash,Florida,24
+1339,Barbie,2025-07-30 00:00:00,Jul,Wed,Evening,VIP,2,25,Card,Florida,50
+405,John Wick 5,2025-08-17 00:00:00,Aug,Sun,Evening,Student,3,8,Mobile Wallet,New York,24
+1362,Barbie,2025-09-11 00:00:00,Sep,Thu,Evening,Regular,4,12,Cash,New York,48
+1295,The Flash,2025-08-20 00:00:00,Aug,Wed,Evening,Family,3,30,Cash,New York,90
+1416,The Flash,2025-08-05 00:00:00,Aug,Tue,Evening,VIP,4,25,Card,New York,100
+806,The Flash,2025-08-10 00:00:00,Aug,Sun,Evening,Family,4,30,Card,Florida,120
+1801,The Flash,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,2,12,Card,Texas,24
+1081,Mission Impossible 8,2025-09-25 00:00:00,Sep,Thu,Evening,Student,2,8,Card,Texas,16
+222,Mission Impossible 8,2025-09-23 00:00:00,Sep,Tue,Evening,VIP,2,25,Card,California,50
+1310,The Flash,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,4,12,Cash,Florida,48
+1231,The Flash,2025-08-16 00:00:00,Aug,Sat,Evening,VIP,4,25,Cash,New York,100
+2000,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,4,12,Mobile Wallet,Texas,48
+703,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,4,12,Cash,Florida,48
+1524,Oppenheimer,2025-09-23 00:00:00,Sep,Tue,Evening,Regular,5,12,Card,New York,60
+998,The Flash,2025-09-25 00:00:00,Sep,Thu,Evening,Regular,5,12,Mobile Wallet,California,60
+420,Barbie,2025-09-19 00:00:00,Sep,Fri,Evening,Regular,1,12,Cash,Florida,12
+742,Barbie,2025-07-14 00:00:00,Jul,Mon,Evening,Regular,2,12,Mobile Wallet,New York,24
+458,John Wick 5,2025-07-19 00:00:00,Jul,Sat,Evening,VIP,2,25,Cash,Florida,50
+1553,Fast X,2025-08-07 00:00:00,Aug,Thu,Evening,VIP,4,25,Card,Florida,100
+911,Mission Impossible 8,2025-07-25 00:00:00,Jul,Fri,Evening,Regular,1,12,Card,Florida,12
+284,Fast X,2025-08-02 00:00:00,Aug,Sat,Evening,Regular,1,12,Card,California,12
+334,Mission Impossible 8,2025-09-14 00:00:00,Sep,Sun,Evening,Student,3,8,Mobile Wallet,Florida,24
+502,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Evening,Student,3,8,Card,Texas,24
+1711,Oppenheimer,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,2,12,Cash,Florida,24
+1030,Oppenheimer,2025-07-10 00:00:00,Jul,Thu,Evening,VIP,5,25,Card,Florida,125
+1012,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,4,12,Mobile Wallet,Texas,48
+812,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Evening,VIP,4,25,Card,Texas,100
+1676,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,1,12,Mobile Wallet,Florida,12
+1272,Barbie,2025-09-25 00:00:00,Sep,Thu,Evening,Regular,2,12,Card,New York,24
+1804,John Wick 5,2025-09-02 00:00:00,Sep,Tue,Evening,Family,5,30,Cash,New York,150
+1408,Oppenheimer,2025-08-24 00:00:00,Aug,Sun,Evening,Family,5,30,Cash,New York,150
+1627,Guardians of the Galaxy Vol. 4,2025-07-10 00:00:00,Jul,Thu,Evening,Regular,4,12,Card,New York,48
+573,Guardians of the Galaxy Vol. 4,2025-07-08 00:00:00,Jul,Tue,Evening,Regular,4,12,Cash,New York,48
+1805,Oppenheimer,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,2,12,Mobile Wallet,New York,24
+527,Mission Impossible 8,2025-07-16 00:00:00,Jul,Wed,Evening,Regular,3,12,Cash,New York,36
+302,Guardians of the Galaxy Vol. 4,2025-09-30 00:00:00,Sep,Tue,Evening,VIP,1,25,Card,California,25
+1647,Fast X,2025-09-24 00:00:00,Sep,Wed,Evening,Regular,1,12,Card,Texas,12
+1955,Mission Impossible 8,2025-09-18 00:00:00,Sep,Thu,Evening,Regular,5,12,Card,Florida,60
+725,Guardians of the Galaxy Vol. 4,2025-08-10 00:00:00,Aug,Sun,Evening,Regular,5,12,Card,Florida,60
+1450,The Flash,2025-09-20 00:00:00,Sep,Sat,Evening,Regular,4,12,Mobile Wallet,Florida,48
+1421,Guardians of the Galaxy Vol. 4,2025-08-17 00:00:00,Aug,Sun,Evening,Student,2,8,Card,California,16
+43,Avatar 3,2025-09-21 00:00:00,Sep,Sun,Evening,VIP,5,25,Mobile Wallet,Florida,125
+1947,Guardians of the Galaxy Vol. 4,2025-07-10 00:00:00,Jul,Thu,Evening,Student,3,8,Cash,California,24
+1803,Mission Impossible 8,2025-09-21 00:00:00,Sep,Sun,Evening,Couple,2,20,Card,Florida,40
+71,Avatar 3,2025-08-09 00:00:00,Aug,Sat,Evening,Student,2,8,Mobile Wallet,California,16
+1040,Mission Impossible 8,2025-07-09 00:00:00,Jul,Wed,Evening,VIP,1,25,Mobile Wallet,Florida,25
+456,Mission Impossible 8,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,1,12,Card,Texas,12
+843,Guardians of the Galaxy Vol. 4,2025-09-06 00:00:00,Sep,Sat,Evening,Family,4,30,Mobile Wallet,California,120
+200,Mission Impossible 8,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,3,12,Card,California,36
+1840,Guardians of the Galaxy Vol. 4,2025-08-11 00:00:00,Aug,Mon,Evening,Student,4,8,Mobile Wallet,New York,32
+1060,The Flash,2025-08-30 00:00:00,Aug,Sat,Evening,Family,5,30,Cash,Texas,150
+188,Fast X,2025-08-02 00:00:00,Aug,Sat,Evening,Student,4,8,Mobile Wallet,Texas,32
+769,The Flash,2025-07-12 00:00:00,Jul,Sat,Evening,VIP,1,25,Card,Florida,25
+1337,Mission Impossible 8,2025-08-21 00:00:00,Aug,Thu,Evening,Family,2,30,Card,Florida,60
+1889,Fast X,2025-07-28 00:00:00,Jul,Mon,Evening,VIP,3,25,Mobile Wallet,California,75
+1454,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,5,12,Mobile Wallet,New York,60
+524,Fast X,2025-09-11 00:00:00,Sep,Thu,Evening,Regular,4,12,Cash,New York,48
+684,The Flash,2025-08-21 00:00:00,Aug,Thu,Evening,Regular,3,12,Card,Texas,36
+1632,Mission Impossible 8,2025-08-06 00:00:00,Aug,Wed,Evening,Regular,5,12,Mobile Wallet,Texas,60
+286,Mission Impossible 8,2025-09-15 00:00:00,Sep,Mon,Evening,Regular,3,12,Cash,California,36
+1424,Fast X,2025-09-25 00:00:00,Sep,Thu,Evening,Regular,4,12,Cash,California,48
+1685,Fast X,2025-09-22 00:00:00,Sep,Mon,Evening,Student,3,8,Mobile Wallet,California,24
+1311,Mission Impossible 8,2025-08-13 00:00:00,Aug,Wed,Evening,Student,5,8,Cash,New York,40
+1270,Avatar 3,2025-09-09 00:00:00,Sep,Tue,Evening,Student,5,8,Mobile Wallet,California,40
+1473,Guardians of the Galaxy Vol. 4,2025-08-10 00:00:00,Aug,Sun,Evening,VIP,1,25,Cash,California,25
+1958,Mission Impossible 8,2025-07-17 00:00:00,Jul,Thu,Evening,Regular,3,12,Card,Texas,36
+545,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,2,12,Card,New York,24
+807,John Wick 5,2025-07-25 00:00:00,Jul,Fri,Evening,Student,3,8,Cash,California,24
+117,Guardians of the Galaxy Vol. 4,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,2,12,Card,New York,24
+560,Barbie,2025-09-03 00:00:00,Sep,Wed,Evening,VIP,1,25,Card,Texas,25
+1644,Avatar 3,2025-08-05 00:00:00,Aug,Tue,Evening,Regular,4,12,Cash,Texas,48
+1282,Fast X,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,3,12,Cash,Florida,36
+1057,John Wick 5,2025-08-15 00:00:00,Aug,Fri,Evening,VIP,2,25,Mobile Wallet,Texas,50
+364,Avatar 3,2025-08-31 00:00:00,Aug,Sun,Evening,Regular,2,12,Mobile Wallet,Texas,24
+738,Oppenheimer,2025-07-26 00:00:00,Jul,Sat,Evening,VIP,2,25,Card,Florida,50
+613,The Flash,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,4,12,Card,Texas,48
+424,Mission Impossible 8,2025-07-16 00:00:00,Jul,Wed,Evening,Regular,4,12,Mobile Wallet,California,48
+1507,John Wick 5,2025-09-21 00:00:00,Sep,Sun,Evening,Family,4,30,Card,California,120
+1842,Barbie,2025-09-26 00:00:00,Sep,Fri,Evening,Regular,3,12,Cash,Texas,36
+335,Barbie,2025-08-01 00:00:00,Aug,Fri,Evening,Regular,5,12,Card,New York,60
+704,John Wick 5,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,5,12,Cash,Texas,60
+603,The Flash,2025-08-26 00:00:00,Aug,Tue,Evening,Student,5,8,Cash,Texas,40
+1783,John Wick 5,2025-09-15 00:00:00,Sep,Mon,Evening,Regular,4,12,Card,New York,48
+1309,Guardians of the Galaxy Vol. 4,2025-07-05 00:00:00,Jul,Sat,Evening,Regular,3,12,Card,Florida,36
+214,Fast X,2025-09-28 00:00:00,Sep,Sun,Evening,Family,3,30,Card,Texas,90
+481,The Flash,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,2,12,Card,Texas,24
+102,Avatar 3,2025-08-30 00:00:00,Aug,Sat,Evening,VIP,4,25,Cash,Florida,100
+598,Fast X,2025-09-20 00:00:00,Sep,Sat,Evening,Regular,3,12,Mobile Wallet,California,36
+1574,Barbie,2025-08-24 00:00:00,Aug,Sun,Evening,Family,4,30,Card,Texas,120
+233,The Flash,2025-08-16 00:00:00,Aug,Sat,Evening,Family,4,30,Card,New York,120
+1183,John Wick 5,2025-08-13 00:00:00,Aug,Wed,Evening,Regular,1,12,Cash,New York,12
+1709,John Wick 5,2025-08-05 00:00:00,Aug,Tue,Evening,Regular,3,12,Mobile Wallet,New York,36
+1659,Guardians of the Galaxy Vol. 4,2025-07-19 00:00:00,Jul,Sat,Evening,VIP,2,25,Cash,New York,50
+1128,Avatar 3,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,2,12,Cash,New York,24
+748,Fast X,2025-07-02 00:00:00,Jul,Wed,Evening,Regular,1,12,Cash,New York,12
+1653,Avatar 3,2025-07-21 00:00:00,Jul,Mon,Evening,Couple,5,20,Mobile Wallet,New York,100
+1914,Barbie,2025-08-09 00:00:00,Aug,Sat,Evening,Family,1,30,Card,New York,30
+907,Avatar 3,2025-08-30 00:00:00,Aug,Sat,Evening,Family,5,30,Cash,New York,150
+1638,Oppenheimer,2025-08-14 00:00:00,Aug,Thu,Evening,Regular,2,12,Cash,New York,24
+1366,Barbie,2025-09-14 00:00:00,Sep,Sun,Evening,VIP,2,25,Mobile Wallet,New York,50
+1665,Mission Impossible 8,2025-08-16 00:00:00,Aug,Sat,Evening,VIP,5,25,Mobile Wallet,New York,125
+1419,Oppenheimer,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,4,12,Card,New York,48
+130,The Flash,2025-08-02 00:00:00,Aug,Sat,Evening,Regular,2,12,Cash,New York,24
+1606,Fast X,2025-07-18 00:00:00,Jul,Fri,Evening,Regular,2,12,Card,New York,24
+296,The Flash,2025-08-15 00:00:00,Aug,Fri,Evening,Regular,3,12,Card,New York,36
+1357,The Flash,2025-07-31 00:00:00,Jul,Thu,Evening,Student,2,8,Cash,New York,16
+1149,Mission Impossible 8,2025-09-13 00:00:00,Sep,Sat,Evening,Student,3,8,Mobile Wallet,New York,24
+1389,Fast X,2025-07-19 00:00:00,Jul,Sat,Evening,Regular,5,12,Cash,New York,60
+1008,Oppenheimer,2025-08-05 00:00:00,Aug,Tue,Evening,Regular,5,12,Mobile Wallet,New York,60
+551,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,2,12,Card,New York,24
+1241,Oppenheimer,2025-07-21 00:00:00,Jul,Mon,Evening,Regular,4,12,Cash,New York,48
+534,Guardians of the Galaxy Vol. 4,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,1,12,Mobile Wallet,New York,12
+1712,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Evening,Student,2,8,Mobile Wallet,New York,16
+1825,Oppenheimer,2025-09-03 00:00:00,Sep,Wed,Evening,Regular,3,12,Mobile Wallet,New York,36
+28,Avatar 3,2025-09-06 00:00:00,Sep,Sat,Evening,Family,1,30,Cash,New York,30
+306,Oppenheimer,2025-08-27 00:00:00,Aug,Wed,Evening,Regular,4,12,Cash,New York,48
+1226,Barbie,2025-08-03 00:00:00,Aug,Sun,Evening,Couple,2,20,Card,New York,40
+1076,Oppenheimer,2025-07-22 00:00:00,Jul,Tue,Evening,Couple,4,20,Mobile Wallet,New York,80
+904,Fast X,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,3,12,Card,New York,36
+1846,Fast X,2025-08-23 00:00:00,Aug,Sat,Evening,Student,3,8,Cash,New York,24
+20,Mission Impossible 8,2025-09-20 00:00:00,Sep,Sat,Evening,Student,4,8,Card,New York,32
+961,Guardians of the Galaxy Vol. 4,2025-08-12 00:00:00,Aug,Tue,Evening,Regular,4,12,Cash,New York,48
+1429,Barbie,2025-08-15 00:00:00,Aug,Fri,Evening,Couple,4,20,Mobile Wallet,New York,80
+1150,Guardians of the Galaxy Vol. 4,2025-07-11 00:00:00,Jul,Fri,Evening,Regular,4,12,Card,New York,48
+1445,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Evening,Family,4,30,Cash,New York,120
+156,Avatar 3,2025-07-19 00:00:00,Jul,Sat,Evening,Regular,4,12,Cash,New York,48
+1940,Fast X,2025-09-11 00:00:00,Sep,Thu,Evening,Regular,3,12,Cash,New York,36
+1410,Avatar 3,2025-07-19 00:00:00,Jul,Sat,Evening,Regular,5,12,Cash,New York,60
+1791,Oppenheimer,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,4,12,Card,New York,48
+1882,Avatar 3,2025-07-08 00:00:00,Jul,Tue,Evening,Student,3,8,Cash,New York,24
+1171,John Wick 5,2025-07-14 00:00:00,Jul,Mon,Evening,Student,4,8,Mobile Wallet,New York,32
+579,Avatar 3,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,2,12,Card,New York,24
+322,Oppenheimer,2025-07-12 00:00:00,Jul,Sat,Evening,Student,1,8,Card,New York,8
+1010,John Wick 5,2025-07-08 00:00:00,Jul,Tue,Evening,Regular,4,12,Mobile Wallet,New York,48
+1717,John Wick 5,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,1,12,Cash,New York,12
+1555,The Flash,2025-08-08 00:00:00,Aug,Fri,Evening,Regular,1,12,Card,New York,12
+975,The Flash,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,3,12,Cash,New York,36
+1084,The Flash,2025-07-26 00:00:00,Jul,Sat,Evening,VIP,3,25,Mobile Wallet,New York,75
+1990,Oppenheimer,2025-08-31 00:00:00,Aug,Sun,Evening,Couple,2,20,Card,New York,40
+1396,Barbie,2025-09-25 00:00:00,Sep,Thu,Evening,Family,3,30,Cash,New York,90
+46,The Flash,2025-08-22 00:00:00,Aug,Fri,Evening,Student,2,8,Mobile Wallet,New York,16
+210,Oppenheimer,2025-08-23 00:00:00,Aug,Sat,Evening,Family,1,30,Cash,New York,30
+535,Mission Impossible 8,2025-09-04 00:00:00,Sep,Thu,Evening,Student,2,8,Card,New York,16
+87,Barbie,2025-09-25 00:00:00,Sep,Thu,Evening,Regular,3,12,Cash,New York,36
+1692,Barbie,2025-07-27 00:00:00,Jul,Sun,Evening,VIP,3,25,Cash,New York,75
+1652,Barbie,2025-07-03 00:00:00,Jul,Thu,Evening,Regular,1,12,Cash,New York,12
+1594,The Flash,2025-08-12 00:00:00,Aug,Tue,Evening,VIP,5,25,Mobile Wallet,New York,125
+522,Fast X,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,2,12,Card,New York,24
+264,Guardians of the Galaxy Vol. 4,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,3,12,Cash,New York,36
+1404,Barbie,2025-09-20 00:00:00,Sep,Sat,Evening,Regular,2,12,Mobile Wallet,New York,24
+1106,The Flash,2025-07-07 00:00:00,Jul,Mon,Evening,Regular,5,12,Cash,New York,60
+927,Oppenheimer,2025-07-12 00:00:00,Jul,Sat,Evening,Couple,2,20,Card,New York,40
+467,John Wick 5,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,2,12,Card,New York,24
+35,Barbie,2025-08-16 00:00:00,Aug,Sat,Evening,VIP,4,25,Card,New York,100
+706,Oppenheimer,2025-07-16 00:00:00,Jul,Wed,Evening,Couple,4,20,Cash,New York,80
+109,Barbie,2025-08-31 00:00:00,Aug,Sun,Evening,Regular,1,12,Card,New York,12
+778,John Wick 5,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,4,12,Mobile Wallet,New York,48
+1163,Avatar 3,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,3,12,Card,New York,36
+474,The Flash,2025-07-10 00:00:00,Jul,Thu,Evening,Student,5,8,Card,New York,40
+448,Barbie,2025-07-02 00:00:00,Jul,Wed,Evening,Regular,2,12,Card,New York,24
+1587,Guardians of the Galaxy Vol. 4,2025-07-11 00:00:00,Jul,Fri,Evening,Regular,4,12,Cash,New York,48
+944,Oppenheimer,2025-07-05 00:00:00,Jul,Sat,Evening,Student,2,8,Card,New York,16
+1182,John Wick 5,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,5,12,Mobile Wallet,New York,60
+1776,John Wick 5,2025-07-09 00:00:00,Jul,Wed,Evening,Family,1,30,Cash,New York,30
+226,Avatar 3,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,2,12,Mobile Wallet,New York,24
+78,The Flash,2025-07-14 00:00:00,Jul,Mon,Evening,Regular,4,12,Cash,New York,48
+1512,Fast X,2025-09-02 00:00:00,Sep,Tue,Evening,Regular,1,12,Cash,New York,12
+1026,Barbie,2025-08-12 00:00:00,Aug,Tue,Evening,Regular,2,12,Cash,New York,24
+1871,Fast X,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,5,12,Card,New York,60
+1207,Oppenheimer,2025-07-27 00:00:00,Jul,Sun,Evening,Couple,4,20,Mobile Wallet,New York,80
+44,John Wick 5,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,2,12,Cash,New York,24
+1436,Avatar 3,2025-08-04 00:00:00,Aug,Mon,Evening,Regular,2,12,Mobile Wallet,New York,24
+1028,Mission Impossible 8,2025-07-28 00:00:00,Jul,Mon,Evening,VIP,5,25,Card,New York,125
+951,Mission Impossible 8,2025-08-28 00:00:00,Aug,Thu,Evening,Couple,4,20,Cash,New York,80
+250,Mission Impossible 8,2025-07-10 00:00:00,Jul,Thu,Evening,Regular,5,12,Card,New York,60
+934,Guardians of the Galaxy Vol. 4,2025-07-21 00:00:00,Jul,Mon,Evening,VIP,1,25,Cash,New York,25
+1726,Barbie,2025-09-01 00:00:00,Sep,Mon,Evening,Family,5,30,Card,New York,150
+1893,Oppenheimer,2025-07-02 00:00:00,Jul,Wed,Evening,Student,1,8,Mobile Wallet,New York,8
+1319,Avatar 3,2025-09-07 00:00:00,Sep,Sun,Evening,Couple,4,20,Mobile Wallet,New York,80
+1074,Mission Impossible 8,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,2,12,Card,New York,24
+120,Oppenheimer,2025-08-16 00:00:00,Aug,Sat,Evening,Couple,1,20,Card,New York,20
+98,The Flash,2025-08-17 00:00:00,Aug,Sun,Evening,VIP,2,25,Mobile Wallet,New York,50
+939,Barbie,2025-09-19 00:00:00,Sep,Fri,Evening,Family,1,30,Mobile Wallet,New York,30
+457,Barbie,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,1,12,Card,New York,12
+13,Mission Impossible 8,2025-07-18 00:00:00,Jul,Fri,Evening,Family,4,30,Cash,New York,120
+1575,John Wick 5,2025-08-08 00:00:00,Aug,Fri,Evening,Couple,4,20,Mobile Wallet,New York,80
+101,Fast X,2025-07-19 00:00:00,Jul,Sat,Evening,Family,4,30,Card,New York,120
+224,The Flash,2025-08-02 00:00:00,Aug,Sat,Evening,Regular,1,12,Cash,New York,12
+333,The Flash,2025-08-24 00:00:00,Aug,Sun,Evening,VIP,2,25,Card,New York,50
+1506,Mission Impossible 8,2025-08-06 00:00:00,Aug,Wed,Evening,VIP,1,25,Card,New York,25
+1271,Avatar 3,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,3,12,Mobile Wallet,New York,36
+90,Avatar 3,2025-08-05 00:00:00,Aug,Tue,Evening,Regular,3,12,Mobile Wallet,New York,36
+1300,Avatar 3,2025-09-19 00:00:00,Sep,Fri,Evening,Couple,2,20,Card,New York,40
+395,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Evening,Couple,2,20,Mobile Wallet,New York,40
+1078,Guardians of the Galaxy Vol. 4,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,4,12,Mobile Wallet,New York,48
+1349,John Wick 5,2025-09-10 00:00:00,Sep,Wed,Evening,Regular,4,12,Mobile Wallet,New York,48
+394,John Wick 5,2025-08-13 00:00:00,Aug,Wed,Evening,Regular,4,12,Card,New York,48
+851,Fast X,2025-08-06 00:00:00,Aug,Wed,Evening,Student,5,8,Cash,New York,40
+1359,The Flash,2025-08-16 00:00:00,Aug,Sat,Evening,Couple,3,20,Mobile Wallet,New York,60
+1730,Barbie,2025-07-20 00:00:00,Jul,Sun,Evening,VIP,5,25,Mobile Wallet,New York,125
+1320,Mission Impossible 8,2025-09-07 00:00:00,Sep,Sun,Evening,Student,5,8,Card,New York,40
+1428,Mission Impossible 8,2025-09-06 00:00:00,Sep,Sat,Evening,VIP,2,25,Mobile Wallet,New York,50
+237,Barbie,2025-09-28 00:00:00,Sep,Sun,Evening,Couple,4,20,Cash,New York,80
+1795,John Wick 5,2025-07-24 00:00:00,Jul,Thu,Evening,Regular,3,12,Card,New York,36
+678,John Wick 5,2025-07-06 00:00:00,Jul,Sun,Evening,Regular,1,12,Mobile Wallet,New York,12
+1313,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Evening,Student,2,8,Mobile Wallet,New York,16
+1121,Avatar 3,2025-08-14 00:00:00,Aug,Thu,Evening,Regular,2,12,Cash,New York,24
+1637,Guardians of the Galaxy Vol. 4,2025-08-05 00:00:00,Aug,Tue,Evening,Family,4,30,Card,New York,120
+1079,Barbie,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,1,12,Card,New York,12
+111,John Wick 5,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,1,12,Card,New York,12
+1108,Barbie,2025-08-10 00:00:00,Aug,Sun,Evening,Regular,5,12,Card,New York,60
+275,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Evening,Family,3,30,Card,New York,90
+1155,John Wick 5,2025-08-25 00:00:00,Aug,Mon,Evening,Regular,2,12,Cash,New York,24
+922,Fast X,2025-09-02 00:00:00,Sep,Tue,Evening,Student,4,8,Card,New York,32
+1212,The Flash,2025-08-08 00:00:00,Aug,Fri,Evening,Student,1,8,Cash,New York,8
+89,The Flash,2025-07-23 00:00:00,Jul,Wed,Evening,Couple,3,20,Cash,Florida,60
+96,Barbie,2025-08-01 00:00:00,Aug,Fri,Evening,Student,3,8,Card,Texas,24
+1067,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,2,12,Mobile Wallet,Florida,24
+572,Mission Impossible 8,2025-09-04 00:00:00,Sep,Thu,Evening,Family,3,30,Cash,California,90
+564,Fast X,2025-08-19 00:00:00,Aug,Tue,Evening,Regular,3,12,Cash,California,36
+658,Mission Impossible 8,2025-07-07 00:00:00,Jul,Mon,Evening,Couple,1,20,Cash,Texas,20
+883,Mission Impossible 8,2025-07-31 00:00:00,Jul,Thu,Evening,Regular,3,12,Cash,New York,36
+1666,Barbie,2025-09-16 00:00:00,Sep,Tue,Evening,Regular,5,12,Mobile Wallet,Florida,60
+441,Guardians of the Galaxy Vol. 4,2025-09-20 00:00:00,Sep,Sat,Evening,VIP,2,25,Mobile Wallet,California,50
+220,Fast X,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,3,12,Mobile Wallet,California,36
+107,Barbie,2025-08-16 00:00:00,Aug,Sat,Evening,Couple,4,20,Mobile Wallet,New York,80
+60,Oppenheimer,2025-07-02 00:00:00,Jul,Wed,Evening,VIP,2,25,Mobile Wallet,California,50
+385,Oppenheimer,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,5,12,Card,Texas,60
+1599,John Wick 5,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,5,12,Mobile Wallet,Texas,60
+501,Fast X,2025-07-15 00:00:00,Jul,Tue,Evening,Couple,2,20,Mobile Wallet,Texas,40
+686,Barbie,2025-09-17 00:00:00,Sep,Wed,Evening,Regular,2,12,Card,New York,24
+1572,John Wick 5,2025-08-22 00:00:00,Aug,Fri,Evening,VIP,2,25,Mobile Wallet,California,50
+1779,John Wick 5,2025-08-16 00:00:00,Aug,Sat,Evening,Student,5,8,Cash,California,40
+1047,Mission Impossible 8,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,4,12,Cash,New York,48
+1670,The Flash,2025-08-07 00:00:00,Aug,Thu,Evening,Regular,5,12,Card,Florida,60
+1253,John Wick 5,2025-09-24 00:00:00,Sep,Wed,Evening,VIP,5,25,Card,California,125
+1989,Mission Impossible 8,2025-09-08 00:00:00,Sep,Mon,Evening,Regular,5,12,Card,California,60
+1308,John Wick 5,2025-08-27 00:00:00,Aug,Wed,Evening,Regular,2,12,Mobile Wallet,California,24
+462,Oppenheimer,2025-07-02 00:00:00,Jul,Wed,Evening,Couple,2,20,Card,California,40
+147,Mission Impossible 8,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,4,12,Mobile Wallet,California,48
+314,Fast X,2025-07-24 00:00:00,Jul,Thu,Evening,Student,2,8,Cash,California,16
+770,Guardians of the Galaxy Vol. 4,2025-09-06 00:00:00,Sep,Sat,Evening,Student,3,8,Mobile Wallet,California,24
+1832,Oppenheimer,2025-07-18 00:00:00,Jul,Fri,Evening,Couple,3,20,Cash,California,60
+1193,Oppenheimer,2025-08-30 00:00:00,Aug,Sat,Evening,Family,2,30,Cash,California,60
+1305,Avatar 3,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,4,12,Card,Florida,48
+599,The Flash,2025-08-18 00:00:00,Aug,Mon,Evening,Regular,5,12,Mobile Wallet,Texas,60
+47,John Wick 5,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,4,12,Card,Florida,48
+1179,Fast X,2025-07-20 00:00:00,Jul,Sun,Evening,Couple,4,20,Mobile Wallet,Florida,80
+660,Avatar 3,2025-09-14 00:00:00,Sep,Sun,Evening,Student,3,8,Cash,Florida,24
+1394,Barbie,2025-07-22 00:00:00,Jul,Tue,Evening,Regular,2,12,Cash,California,24
+696,The Flash,2025-07-08 00:00:00,Jul,Tue,Evening,VIP,5,25,Card,New York,125
+1007,The Flash,2025-07-10 00:00:00,Jul,Thu,Evening,Family,3,30,Mobile Wallet,California,90
+1502,Barbie,2025-07-22 00:00:00,Jul,Tue,Evening,Couple,4,20,Card,Florida,80
+1997,Avatar 3,2025-07-04 00:00:00,Jul,Fri,Evening,Regular,2,12,Mobile Wallet,Texas,24
+918,The Flash,2025-09-24 00:00:00,Sep,Wed,Evening,Couple,3,20,Mobile Wallet,California,60
+1848,John Wick 5,2025-09-02 00:00:00,Sep,Tue,Evening,VIP,1,25,Mobile Wallet,California,25
+1493,Fast X,2025-09-27 00:00:00,Sep,Sat,Evening,Couple,3,20,Cash,Texas,60
+1219,Oppenheimer,2025-09-25 00:00:00,Sep,Thu,Evening,Student,4,8,Cash,New York,32
+328,Fast X,2025-09-04 00:00:00,Sep,Thu,Evening,Regular,4,12,Cash,New York,48
+1491,Guardians of the Galaxy Vol. 4,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,1,12,Cash,New York,12
+30,The Flash,2025-07-26 00:00:00,Jul,Sat,Late Night,Student,1,8,Mobile Wallet,New York,8
+1784,Barbie,2025-07-27 00:00:00,Jul,Sun,Late Night,Couple,4,20,Cash,New York,80
+981,The Flash,2025-07-12 00:00:00,Jul,Sat,Morning,Regular,2,12,Mobile Wallet,New York,24
+1800,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Morning,VIP,3,25,Card,New York,75
+693,Oppenheimer,2025-09-07 00:00:00,Sep,Sun,Late Night,Regular,1,12,Mobile Wallet,New York,12
+1700,John Wick 5,2025-07-26 00:00:00,Jul,Sat,Morning,Regular,5,12,Card,New York,60
+495,Oppenheimer,2025-07-28 00:00:00,Jul,Mon,Morning,VIP,2,25,Cash,New York,50
+1187,John Wick 5,2025-09-16 00:00:00,Sep,Tue,Evening,Regular,2,12,Mobile Wallet,New York,24
+65,Fast X,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,3,12,Card,New York,36
+374,John Wick 5,2025-08-17 00:00:00,Aug,Sun,Late Night,Regular,3,12,Card,New York,36
+1484,Guardians of the Galaxy Vol. 4,2025-08-19 00:00:00,Aug,Tue,Morning,Family,5,30,Card,New York,150
+1475,John Wick 5,2025-07-20 00:00:00,Jul,Sun,Morning,Couple,5,20,Cash,New York,100
+193,Guardians of the Galaxy Vol. 4,2025-08-31 00:00:00,Aug,Sun,Afternoon,Student,3,8,Cash,New York,24
+165,Avatar 3,2025-08-02 00:00:00,Aug,Sat,Afternoon,Regular,4,12,Mobile Wallet,New York,48
+1669,Fast X,2025-08-01 00:00:00,Aug,Fri,Late Night,Regular,4,12,Card,New York,48
+1461,Oppenheimer,2025-09-17 00:00:00,Sep,Wed,Late Night,Regular,3,12,Card,New York,36
+1588,Guardians of the Galaxy Vol. 4,2025-07-03 00:00:00,Jul,Thu,Late Night,Student,4,8,Cash,New York,32
+1144,Fast X,2025-09-21 00:00:00,Sep,Sun,Morning,VIP,4,25,Cash,New York,100
+45,The Flash,2025-09-22 00:00:00,Sep,Mon,Late Night,Couple,1,20,Cash,New York,20
+671,Guardians of the Galaxy Vol. 4,2025-07-02 00:00:00,Jul,Wed,Evening,VIP,2,25,Card,New York,50
+1170,Mission Impossible 8,2025-09-06 00:00:00,Sep,Sat,Late Night,Regular,1,12,Mobile Wallet,New York,12
+260,Mission Impossible 8,2025-07-06 00:00:00,Jul,Sun,Evening,Regular,2,12,Card,New York,24
+614,Avatar 3,2025-07-25 00:00:00,Jul,Fri,Late Night,Student,3,8,Cash,New York,24
+1731,Barbie,2025-08-09 00:00:00,Aug,Sat,Afternoon,Regular,4,12,Cash,New York,48
+412,John Wick 5,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,2,12,Card,New York,24
+1738,Fast X,2025-09-30 00:00:00,Sep,Tue,Morning,Student,2,8,Cash,New York,16
+1807,The Flash,2025-08-22 00:00:00,Aug,Fri,Afternoon,Regular,3,12,Cash,New York,36
+687,Barbie,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,1,12,Card,New York,12
+15,John Wick 5,2025-08-05 00:00:00,Aug,Tue,Afternoon,VIP,3,25,Card,New York,75
+837,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Afternoon,Family,3,30,Card,New York,90
+1713,Oppenheimer,2025-07-18 00:00:00,Jul,Fri,Morning,Student,1,8,Cash,New York,8
+1621,Oppenheimer,2025-09-11 00:00:00,Sep,Thu,Afternoon,Student,2,8,Cash,New York,16
+802,Barbie,2025-09-06 00:00:00,Sep,Sat,Afternoon,Family,2,30,Cash,New York,60
+407,Barbie,2025-08-10 00:00:00,Aug,Sun,Afternoon,Regular,2,12,Mobile Wallet,New York,24
+1151,Oppenheimer,2025-08-30 00:00:00,Aug,Sat,Morning,VIP,5,25,Cash,New York,125
+63,Oppenheimer,2025-08-13 00:00:00,Aug,Wed,Evening,Couple,1,20,Card,New York,20
+1925,Avatar 3,2025-09-19 00:00:00,Sep,Fri,Afternoon,Family,2,30,Mobile Wallet,New York,60
+1864,Barbie,2025-09-30 00:00:00,Sep,Tue,Late Night,Regular,4,12,Cash,New York,48
+479,Guardians of the Galaxy Vol. 4,2025-08-31 00:00:00,Aug,Sun,Afternoon,Regular,3,12,Mobile Wallet,New York,36
+1301,Fast X,2025-09-20 00:00:00,Sep,Sat,Afternoon,Regular,5,12,Mobile Wallet,New York,60
+612,Avatar 3,2025-07-06 00:00:00,Jul,Sun,Late Night,Regular,2,12,Cash,New York,24
+329,John Wick 5,2025-09-10 00:00:00,Sep,Wed,Evening,VIP,5,25,Card,New York,125
+1479,Barbie,2025-08-21 00:00:00,Aug,Thu,Late Night,Regular,5,12,Card,New York,60
+1733,Fast X,2025-09-08 00:00:00,Sep,Mon,Morning,Regular,1,12,Cash,New York,12
+594,The Flash,2025-09-15 00:00:00,Sep,Mon,Late Night,VIP,1,25,Cash,New York,25
+1978,Mission Impossible 8,2025-07-10 00:00:00,Jul,Thu,Late Night,VIP,3,25,Cash,New York,75
+668,The Flash,2025-09-20 00:00:00,Sep,Sat,Late Night,Student,3,8,Mobile Wallet,New York,24
+1822,Fast X,2025-09-07 00:00:00,Sep,Sun,Afternoon,Regular,5,12,Cash,New York,60
+1610,Mission Impossible 8,2025-07-18 00:00:00,Jul,Fri,Late Night,Family,3,30,Card,New York,90
+453,Barbie,2025-08-14 00:00:00,Aug,Thu,Afternoon,VIP,4,25,Card,New York,100
+1413,Oppenheimer,2025-09-21 00:00:00,Sep,Sun,Afternoon,Regular,3,12,Cash,New York,36
+1122,Mission Impossible 8,2025-09-03 00:00:00,Sep,Wed,Morning,Regular,2,12,Cash,New York,24
+1167,Oppenheimer,2025-08-02 00:00:00,Aug,Sat,Afternoon,Family,3,30,Card,New York,90
+242,Fast X,2025-09-24 00:00:00,Sep,Wed,Evening,Regular,1,12,Mobile Wallet,New York,12
+1808,Oppenheimer,2025-07-31 00:00:00,Jul,Thu,Late Night,Regular,2,12,Mobile Wallet,New York,24
+1283,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Morning,Couple,1,20,Card,New York,20
+990,John Wick 5,2025-09-05 00:00:00,Sep,Fri,Late Night,Couple,4,20,Cash,New York,80
+336,John Wick 5,2025-08-03 00:00:00,Aug,Sun,Late Night,Regular,4,12,Cash,New York,48
+732,Guardians of the Galaxy Vol. 4,2025-09-05 00:00:00,Sep,Fri,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+1611,Oppenheimer,2025-07-19 00:00:00,Jul,Sat,Evening,VIP,5,25,Card,New York,125
+971,John Wick 5,2025-07-27 00:00:00,Jul,Sun,Late Night,Regular,1,12,Card,New York,12
+645,John Wick 5,2025-09-27 00:00:00,Sep,Sat,Morning,Regular,3,12,Cash,New York,36
+1856,Avatar 3,2025-08-17 00:00:00,Aug,Sun,Morning,Regular,3,12,Cash,New York,36
+1984,Mission Impossible 8,2025-07-03 00:00:00,Jul,Thu,Afternoon,Regular,3,12,Card,New York,36
+1393,John Wick 5,2025-07-03 00:00:00,Jul,Thu,Afternoon,Couple,3,20,Mobile Wallet,New York,60
+1293,The Flash,2025-07-12 00:00:00,Jul,Sat,Morning,Regular,2,12,Mobile Wallet,New York,24
+1899,John Wick 5,2025-09-12 00:00:00,Sep,Fri,Evening,VIP,4,25,Card,New York,100
+52,Barbie,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,5,12,Cash,New York,60
+1156,Guardians of the Galaxy Vol. 4,2025-07-22 00:00:00,Jul,Tue,Evening,VIP,1,25,Mobile Wallet,New York,25
+617,Guardians of the Galaxy Vol. 4,2025-08-27 00:00:00,Aug,Wed,Afternoon,Regular,5,12,Card,New York,60
+1597,The Flash,2025-07-03 00:00:00,Jul,Thu,Late Night,Regular,2,12,Mobile Wallet,New York,24
+27,Barbie,2025-09-04 00:00:00,Sep,Thu,Evening,Student,4,8,Mobile Wallet,New York,32
+1347,Mission Impossible 8,2025-09-20 00:00:00,Sep,Sat,Afternoon,Regular,1,12,Cash,New York,12
+1181,Barbie,2025-08-21 00:00:00,Aug,Thu,Morning,Regular,4,12,Mobile Wallet,New York,48
+1004,Guardians of the Galaxy Vol. 4,2025-07-05 00:00:00,Jul,Sat,Late Night,VIP,5,25,Card,New York,125
+1476,John Wick 5,2025-08-10 00:00:00,Aug,Sun,Evening,Couple,4,20,Cash,New York,80
+1038,Fast X,2025-09-20 00:00:00,Sep,Sat,Late Night,Family,2,30,Card,New York,60
+1468,Barbie,2025-08-25 00:00:00,Aug,Mon,Afternoon,Student,4,8,Card,New York,32
+1981,Oppenheimer,2025-07-19 00:00:00,Jul,Sat,Afternoon,Couple,1,20,Card,New York,20
+363,Guardians of the Galaxy Vol. 4,2025-07-04 00:00:00,Jul,Fri,Evening,Regular,1,12,Card,New York,12
+919,The Flash,2025-08-30 00:00:00,Aug,Sat,Late Night,Regular,3,12,Card,New York,36
+1177,Fast X,2025-09-13 00:00:00,Sep,Sat,Afternoon,Student,3,8,Cash,New York,24
+976,Avatar 3,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,4,12,Mobile Wallet,New York,48
+1906,Avatar 3,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,4,12,Mobile Wallet,New York,48
+1031,Fast X,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,4,12,Card,New York,48
+1655,Avatar 3,2025-08-09 00:00:00,Aug,Sat,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+1607,Avatar 3,2025-07-11 00:00:00,Jul,Fri,Afternoon,Couple,2,20,Card,New York,40
+1949,The Flash,2025-08-22 00:00:00,Aug,Fri,Morning,Regular,4,12,Mobile Wallet,New York,48
+1374,Avatar 3,2025-07-27 00:00:00,Jul,Sun,Evening,Student,2,8,Mobile Wallet,New York,16
+865,The Flash,2025-08-12 00:00:00,Aug,Tue,Afternoon,Regular,5,12,Cash,New York,60
+76,Avatar 3,2025-08-25 00:00:00,Aug,Mon,Evening,Couple,4,20,Mobile Wallet,New York,80
+1948,Avatar 3,2025-09-16 00:00:00,Sep,Tue,Evening,VIP,5,25,Cash,New York,125
+596,The Flash,2025-09-07 00:00:00,Sep,Sun,Late Night,Student,3,8,Mobile Wallet,New York,24
+1352,John Wick 5,2025-08-04 00:00:00,Aug,Mon,Afternoon,Regular,2,12,Card,New York,24
+317,Mission Impossible 8,2025-08-06 00:00:00,Aug,Wed,Afternoon,Regular,1,12,Cash,New York,12
+1994,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Morning,Regular,2,12,Mobile Wallet,New York,24
+431,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Late Night,VIP,4,25,Card,New York,100
+1263,Fast X,2025-07-05 00:00:00,Jul,Sat,Morning,Regular,1,12,Card,New York,12
+1430,Fast X,2025-07-27 00:00:00,Jul,Sun,Afternoon,VIP,4,25,Card,New York,100
+425,John Wick 5,2025-07-04 00:00:00,Jul,Fri,Evening,Regular,5,12,Cash,New York,60
+555,Guardians of the Galaxy Vol. 4,2025-08-22 00:00:00,Aug,Fri,Morning,Regular,3,12,Mobile Wallet,New York,36
+945,Oppenheimer,2025-08-31 00:00:00,Aug,Sun,Late Night,Student,4,8,Card,New York,32
+655,Barbie,2025-07-06 00:00:00,Jul,Sun,Evening,Student,4,8,Mobile Wallet,New York,32
+1732,Mission Impossible 8,2025-07-18 00:00:00,Jul,Fri,Late Night,Family,4,30,Card,New York,120
+1456,Oppenheimer,2025-08-19 00:00:00,Aug,Tue,Late Night,Regular,5,12,Cash,New York,60
+1762,Fast X,2025-09-07 00:00:00,Sep,Sun,Afternoon,Student,5,8,Cash,New York,40
+1684,Guardians of the Galaxy Vol. 4,2025-09-02 00:00:00,Sep,Tue,Afternoon,Regular,2,12,Mobile Wallet,New York,24
+1162,Oppenheimer,2025-07-18 00:00:00,Jul,Fri,Morning,Regular,5,12,Card,New York,60
+1725,Avatar 3,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,4,12,Cash,New York,48
+1383,Mission Impossible 8,2025-07-15 00:00:00,Jul,Tue,Evening,Regular,3,12,Cash,New York,36
+549,Avatar 3,2025-09-17 00:00:00,Sep,Wed,Afternoon,Regular,4,12,Cash,New York,48
+119,John Wick 5,2025-07-07 00:00:00,Jul,Mon,Morning,Regular,3,12,Card,New York,36
+1916,Avatar 3,2025-09-13 00:00:00,Sep,Sat,Afternoon,Regular,5,12,Mobile Wallet,New York,60
+844,Fast X,2025-08-10 00:00:00,Aug,Sun,Evening,Family,2,30,Card,New York,60
+1814,Oppenheimer,2025-08-27 00:00:00,Aug,Wed,Morning,VIP,1,25,Card,New York,25
+461,Avatar 3,2025-09-13 00:00:00,Sep,Sat,Late Night,Family,5,30,Card,New York,150
+325,Barbie,2025-09-26 00:00:00,Sep,Fri,Evening,Couple,4,20,Mobile Wallet,New York,80
+1407,Avatar 3,2025-08-20 00:00:00,Aug,Wed,Afternoon,Couple,2,20,Card,New York,40
+850,Barbie,2025-08-12 00:00:00,Aug,Tue,Afternoon,Regular,3,12,Mobile Wallet,New York,36
+1322,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Afternoon,Regular,5,12,Card,New York,60
+1227,Fast X,2025-09-01 00:00:00,Sep,Mon,Morning,Regular,4,12,Mobile Wallet,New York,48
+69,The Flash,2025-08-14 00:00:00,Aug,Thu,Afternoon,Regular,4,12,Card,New York,48
+1622,Avatar 3,2025-07-29 00:00:00,Jul,Tue,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+952,The Flash,2025-08-22 00:00:00,Aug,Fri,Evening,Student,1,8,Cash,New York,8
+1262,Mission Impossible 8,2025-08-17 00:00:00,Aug,Sun,Late Night,VIP,5,25,Cash,New York,125
+1536,Avatar 3,2025-07-06 00:00:00,Jul,Sun,Evening,Regular,3,12,Cash,New York,36
+1323,Oppenheimer,2025-08-01 00:00:00,Aug,Fri,Evening,Student,5,8,Cash,New York,40
+408,John Wick 5,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,5,12,Mobile Wallet,New York,60
+1580,Mission Impossible 8,2025-08-30 00:00:00,Aug,Sat,Morning,Regular,5,12,Cash,New York,60
+925,Guardians of the Galaxy Vol. 4,2025-09-16 00:00:00,Sep,Tue,Afternoon,Regular,4,12,Mobile Wallet,New York,48
+1578,Avatar 3,2025-08-18 00:00:00,Aug,Mon,Evening,Regular,1,12,Mobile Wallet,New York,12
+733,Guardians of the Galaxy Vol. 4,2025-07-07 00:00:00,Jul,Mon,Late Night,Regular,4,12,Card,New York,48
+246,Barbie,2025-08-04 00:00:00,Aug,Mon,Afternoon,VIP,3,25,Cash,New York,75
+1973,Mission Impossible 8,2025-09-26 00:00:00,Sep,Fri,Evening,Regular,3,12,Cash,New York,36
+1641,The Flash,2025-09-24 00:00:00,Sep,Wed,Afternoon,Regular,2,12,Mobile Wallet,New York,24
+1592,Mission Impossible 8,2025-07-17 00:00:00,Jul,Thu,Evening,Regular,1,12,Mobile Wallet,New York,12
+1870,Avatar 3,2025-08-09 00:00:00,Aug,Sat,Afternoon,Regular,5,12,Card,New York,60
+391,Mission Impossible 8,2025-09-14 00:00:00,Sep,Sun,Afternoon,Regular,2,12,Cash,New York,24
+1942,John Wick 5,2025-09-20 00:00:00,Sep,Sat,Afternoon,Couple,5,20,Card,New York,100
+1668,Guardians of the Galaxy Vol. 4,2025-09-14 00:00:00,Sep,Sun,Late Night,Regular,4,12,Mobile Wallet,New York,48
+68,Guardians of the Galaxy Vol. 4,2025-07-10 00:00:00,Jul,Thu,Morning,Regular,5,12,Cash,New York,60
+674,Barbie,2025-09-12 00:00:00,Sep,Fri,Evening,Regular,2,12,Card,New York,24
+1195,Avatar 3,2025-07-31 00:00:00,Jul,Thu,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+1154,Avatar 3,2025-08-12 00:00:00,Aug,Tue,Morning,Regular,4,12,Card,New York,48
+1344,Guardians of the Galaxy Vol. 4,2025-08-07 00:00:00,Aug,Thu,Afternoon,Regular,3,12,Mobile Wallet,New York,36
+477,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Late Night,Regular,5,12,Card,New York,60
+1956,Guardians of the Galaxy Vol. 4,2025-07-27 00:00:00,Jul,Sun,Afternoon,Couple,5,20,Card,New York,100
+977,John Wick 5,2025-08-15 00:00:00,Aug,Fri,Late Night,Couple,5,20,Card,New York,100
+1000,Mission Impossible 8,2025-08-31 00:00:00,Aug,Sun,Late Night,Couple,1,20,Cash,New York,20
+372,John Wick 5,2025-07-12 00:00:00,Jul,Sat,Late Night,Couple,4,20,Card,New York,80
+378,Guardians of the Galaxy Vol. 4,2025-08-01 00:00:00,Aug,Fri,Late Night,Student,4,8,Card,New York,32
+489,Guardians of the Galaxy Vol. 4,2025-09-10 00:00:00,Sep,Wed,Late Night,VIP,3,25,Cash,New York,75
+1510,The Flash,2025-09-06 00:00:00,Sep,Sat,Morning,Regular,5,12,Mobile Wallet,New York,60
+1248,Barbie,2025-09-28 00:00:00,Sep,Sun,Morning,Regular,3,12,Cash,New York,36
+1437,Barbie,2025-07-17 00:00:00,Jul,Thu,Morning,Regular,4,12,Card,New York,48
+525,Avatar 3,2025-09-01 00:00:00,Sep,Mon,Evening,Couple,1,20,Mobile Wallet,New York,20
+1376,Oppenheimer,2025-08-09 00:00:00,Aug,Sat,Morning,Student,2,8,Mobile Wallet,New York,16
+1039,Guardians of the Galaxy Vol. 4,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,5,12,Cash,New York,60
+24,John Wick 5,2025-09-27 00:00:00,Sep,Sat,Morning,Regular,1,12,Cash,New York,12
+1631,Fast X,2025-07-19 00:00:00,Jul,Sat,Late Night,Student,1,8,Cash,New York,8
+77,The Flash,2025-07-10 00:00:00,Jul,Thu,Late Night,Regular,1,12,Card,New York,12
+813,Guardians of the Galaxy Vol. 4,2025-07-09 00:00:00,Jul,Wed,Morning,Student,3,8,Card,New York,24
+470,The Flash,2025-09-21 00:00:00,Sep,Sun,Late Night,VIP,3,25,Card,New York,75
+541,Fast X,2025-07-26 00:00:00,Jul,Sat,Morning,Student,1,8,Mobile Wallet,New York,8
+1993,Mission Impossible 8,2025-07-14 00:00:00,Jul,Mon,Late Night,Student,2,8,Cash,New York,16
+999,John Wick 5,2025-08-12 00:00:00,Aug,Tue,Afternoon,Regular,5,12,Card,New York,60
+1643,Oppenheimer,2025-08-24 00:00:00,Aug,Sun,Morning,Regular,5,12,Mobile Wallet,New York,60
+1315,Barbie,2025-08-16 00:00:00,Aug,Sat,Evening,Regular,4,12,Card,New York,48
+955,Mission Impossible 8,2025-07-03 00:00:00,Jul,Thu,Afternoon,Family,3,30,Card,New York,90
+232,The Flash,2025-07-05 00:00:00,Jul,Sat,Morning,Regular,3,12,Cash,New York,36
+1754,Fast X,2025-09-21 00:00:00,Sep,Sun,Morning,Student,4,8,Mobile Wallet,New York,32
+1564,Avatar 3,2025-09-20 00:00:00,Sep,Sat,Late Night,Regular,1,12,Card,New York,12
+1042,Avatar 3,2025-08-23 00:00:00,Aug,Sat,Late Night,Family,5,30,Cash,New York,150
+1217,Barbie,2025-09-02 00:00:00,Sep,Tue,Evening,Regular,5,12,Card,New York,60
+993,Avatar 3,2025-08-03 00:00:00,Aug,Sun,Afternoon,VIP,2,25,Card,New York,50
+1403,Guardians of the Galaxy Vol. 4,2025-08-29 00:00:00,Aug,Fri,Late Night,Family,1,30,Card,New York,30
+115,Fast X,2025-07-05 00:00:00,Jul,Sat,Morning,Student,1,8,Cash,New York,8
+848,Avatar 3,2025-09-28 00:00:00,Sep,Sun,Late Night,Regular,2,12,Mobile Wallet,New York,24
+155,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Late Night,Regular,2,12,Mobile Wallet,New York,24
+231,Barbie,2025-09-11 00:00:00,Sep,Thu,Afternoon,Student,1,8,Cash,New York,8
+309,John Wick 5,2025-07-11 00:00:00,Jul,Fri,Evening,Regular,2,12,Cash,New York,24
+245,Fast X,2025-07-28 00:00:00,Jul,Mon,Late Night,Couple,3,20,Mobile Wallet,Florida,60
+699,Avatar 3,2025-07-03 00:00:00,Jul,Thu,Late Night,Student,4,8,Cash,Texas,32
+1913,Avatar 3,2025-09-01 00:00:00,Sep,Mon,Morning,Regular,4,12,Card,New York,48
+552,The Flash,2025-08-17 00:00:00,Aug,Sun,Morning,Regular,1,12,Mobile Wallet,Florida,12
+215,Mission Impossible 8,2025-09-19 00:00:00,Sep,Fri,Afternoon,Student,3,8,Card,New York,24
+1210,Oppenheimer,2025-09-02 00:00:00,Sep,Tue,Morning,VIP,2,25,Mobile Wallet,Florida,50
+656,Oppenheimer,2025-09-27 00:00:00,Sep,Sat,Morning,Regular,1,12,Card,California,12
+88,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Morning,Student,2,8,Mobile Wallet,Florida,16
+419,John Wick 5,2025-07-08 00:00:00,Jul,Tue,Morning,Regular,5,12,Mobile Wallet,California,60
+697,Fast X,2025-07-09 00:00:00,Jul,Wed,Late Night,Student,1,8,Cash,California,8
+1080,Guardians of the Galaxy Vol. 4,2025-09-27 00:00:00,Sep,Sat,Evening,Family,1,30,Card,Texas,30
+440,Mission Impossible 8,2025-09-16 00:00:00,Sep,Tue,Evening,Regular,3,12,Cash,New York,36
+1165,Oppenheimer,2025-08-20 00:00:00,Aug,Wed,Morning,Regular,1,12,Cash,Florida,12
+1926,Oppenheimer,2025-07-30 00:00:00,Jul,Wed,Late Night,Regular,1,12,Card,Texas,12
+135,Fast X,2025-08-01 00:00:00,Aug,Fri,Evening,Student,2,8,Card,New York,16
+1759,Fast X,2025-08-19 00:00:00,Aug,Tue,Evening,Regular,3,12,Cash,New York,36
+1753,Avatar 3,2025-09-02 00:00:00,Sep,Tue,Morning,Regular,2,12,Cash,Florida,24
+1995,Oppenheimer,2025-07-27 00:00:00,Jul,Sun,Afternoon,Regular,4,12,Cash,Texas,48
+1414,John Wick 5,2025-08-04 00:00:00,Aug,Mon,Late Night,Regular,2,12,Mobile Wallet,California,24
+1951,The Flash,2025-08-06 00:00:00,Aug,Wed,Morning,Regular,5,12,Card,New York,60
+942,Oppenheimer,2025-09-17 00:00:00,Sep,Wed,Evening,VIP,2,25,Mobile Wallet,New York,50
+737,The Flash,2025-08-08 00:00:00,Aug,Fri,Evening,Family,5,30,Cash,New York,150
+1006,Oppenheimer,2025-08-10 00:00:00,Aug,Sun,Morning,Couple,4,20,Mobile Wallet,Texas,80
+1068,Fast X,2025-08-05 00:00:00,Aug,Tue,Morning,Family,3,30,Mobile Wallet,California,90
+234,The Flash,2025-07-01 00:00:00,Jul,Tue,Evening,Couple,3,20,Card,Texas,60
+793,Oppenheimer,2025-07-27 00:00:00,Jul,Sun,Morning,VIP,3,25,Cash,New York,75
+1334,John Wick 5,2025-08-31 00:00:00,Aug,Sun,Late Night,Regular,2,12,Card,New York,24
+557,John Wick 5,2025-09-21 00:00:00,Sep,Sun,Late Night,VIP,2,25,Card,Florida,50
+207,John Wick 5,2025-07-17 00:00:00,Jul,Thu,Evening,Regular,5,12,Cash,New York,60
+640,John Wick 5,2025-09-08 00:00:00,Sep,Mon,Late Night,Student,5,8,Mobile Wallet,New York,40
+387,Mission Impossible 8,2025-09-26 00:00:00,Sep,Fri,Afternoon,Regular,2,12,Card,New York,24
+1809,The Flash,2025-09-14 00:00:00,Sep,Sun,Morning,Regular,3,12,Cash,New York,36
+540,Avatar 3,2025-07-24 00:00:00,Jul,Thu,Evening,Student,5,8,Cash,New York,40
+32,Guardians of the Galaxy Vol. 4,2025-09-23 00:00:00,Sep,Tue,Morning,VIP,2,25,Card,Florida,50
+936,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Morning,Regular,3,12,Mobile Wallet,New York,36
+1851,Mission Impossible 8,2025-07-31 00:00:00,Jul,Thu,Late Night,Regular,5,12,Card,Florida,60
+949,Barbie,2025-09-21 00:00:00,Sep,Sun,Afternoon,Regular,2,12,Cash,Texas,24
+11,Mission Impossible 8,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,2,12,Card,Florida,24
+257,Fast X,2025-08-04 00:00:00,Aug,Mon,Evening,VIP,3,25,Cash,California,75
+1673,John Wick 5,2025-09-13 00:00:00,Sep,Sat,Evening,Student,3,8,Card,Florida,24
+1184,The Flash,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,1,12,Card,California,12
+1860,Guardians of the Galaxy Vol. 4,2025-09-28 00:00:00,Sep,Sun,Morning,Couple,3,20,Card,California,60
+5,Mission Impossible 8,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,4,12,Card,New York,48
+1963,Avatar 3,2025-09-01 00:00:00,Sep,Mon,Morning,Regular,3,12,Card,New York,36
+1559,Fast X,2025-08-24 00:00:00,Aug,Sun,Afternoon,Regular,4,12,Mobile Wallet,New York,48
+484,Barbie,2025-09-13 00:00:00,Sep,Sat,Late Night,Regular,3,12,Mobile Wallet,New York,36
+1573,Barbie,2025-07-25 00:00:00,Jul,Fri,Late Night,Couple,5,20,Card,Texas,100
+1747,The Flash,2025-08-02 00:00:00,Aug,Sat,Late Night,Student,1,8,Mobile Wallet,California,8
+608,John Wick 5,2025-07-27 00:00:00,Jul,Sun,Morning,Regular,2,12,Mobile Wallet,New York,24
+131,The Flash,2025-07-01 00:00:00,Jul,Tue,Morning,Regular,1,12,Mobile Wallet,New York,12
+1279,Oppenheimer,2025-07-13 00:00:00,Jul,Sun,Late Night,Regular,1,12,Cash,California,12
+875,Avatar 3,2025-07-14 00:00:00,Jul,Mon,Late Night,Student,5,8,Mobile Wallet,California,40
+768,John Wick 5,2025-07-05 00:00:00,Jul,Sat,Evening,Regular,3,12,Mobile Wallet,California,36
+1537,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Morning,Regular,3,12,Cash,New York,36
+602,John Wick 5,2025-09-26 00:00:00,Sep,Fri,Morning,Regular,1,12,Mobile Wallet,New York,12
+828,Avatar 3,2025-08-18 00:00:00,Aug,Mon,Morning,Regular,4,12,Mobile Wallet,New York,48
+1318,John Wick 5,2025-07-20 00:00:00,Jul,Sun,Afternoon,Regular,2,12,Cash,New York,24
+727,Mission Impossible 8,2025-09-06 00:00:00,Sep,Sat,Late Night,Regular,5,12,Cash,Florida,60
+1469,The Flash,2025-09-29 00:00:00,Sep,Mon,Evening,Couple,2,20,Cash,New York,40
+815,The Flash,2025-09-15 00:00:00,Sep,Mon,Late Night,VIP,3,25,Card,New York,75
+300,John Wick 5,2025-08-31 00:00:00,Aug,Sun,Late Night,Regular,1,12,Card,New York,12
+755,Avatar 3,2025-08-10 00:00:00,Aug,Sun,Late Night,Family,3,30,Cash,New York,90
+1788,The Flash,2025-08-31 00:00:00,Aug,Sun,Morning,Regular,4,12,Mobile Wallet,New York,48
+1256,Avatar 3,2025-09-11 00:00:00,Sep,Thu,Afternoon,Regular,2,12,Card,New York,24
+565,The Flash,2025-07-10 00:00:00,Jul,Thu,Afternoon,Regular,2,12,Mobile Wallet,New York,24
+500,The Flash,2025-08-05 00:00:00,Aug,Tue,Late Night,Regular,1,12,Card,New York,12
+669,Oppenheimer,2025-07-13 00:00:00,Jul,Sun,Morning,Student,1,8,Cash,New York,8
+743,Avatar 3,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,4,12,Card,New York,48
+14,Mission Impossible 8,2025-08-21 00:00:00,Aug,Thu,Late Night,Regular,5,12,Cash,New York,60
+1660,John Wick 5,2025-09-06 00:00:00,Sep,Sat,Evening,Family,5,30,Card,New York,150
+381,John Wick 5,2025-09-07 00:00:00,Sep,Sun,Afternoon,Couple,3,20,Cash,California,60
+375,Guardians of the Galaxy Vol. 4,2025-07-19 00:00:00,Jul,Sat,Afternoon,Student,3,8,Cash,California,24
+1194,John Wick 5,2025-08-12 00:00:00,Aug,Tue,Morning,Regular,2,12,Cash,California,24
+438,John Wick 5,2025-08-31 00:00:00,Aug,Sun,Evening,Regular,3,12,Mobile Wallet,New York,36
+304,Barbie,2025-07-13 00:00:00,Jul,Sun,Morning,Regular,1,12,Cash,New York,12
+1261,Fast X,2025-08-10 00:00:00,Aug,Sun,Late Night,Regular,3,12,Card,California,36
+1817,Avatar 3,2025-08-02 00:00:00,Aug,Sat,Evening,Regular,4,12,Mobile Wallet,California,48
+1019,John Wick 5,2025-09-19 00:00:00,Sep,Fri,Late Night,Regular,5,12,Card,Florida,60
+870,Barbie,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,1,12,Cash,Florida,12
+1481,Mission Impossible 8,2025-09-20 00:00:00,Sep,Sat,Afternoon,Regular,2,12,Card,California,24
+1254,Avatar 3,2025-08-07 00:00:00,Aug,Thu,Evening,Regular,3,12,Mobile Wallet,Texas,36
+1866,Avatar 3,2025-09-14 00:00:00,Sep,Sun,Late Night,Regular,4,12,Mobile Wallet,California,48
+1384,The Flash,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,2,12,Mobile Wallet,Texas,24
+280,Avatar 3,2025-08-15 00:00:00,Aug,Fri,Evening,Regular,4,12,Card,California,48
+1503,Barbie,2025-08-13 00:00:00,Aug,Wed,Morning,Family,4,30,Mobile Wallet,California,120
+877,Avatar 3,2025-09-08 00:00:00,Sep,Mon,Afternoon,Regular,5,12,Cash,California,60
+1159,The Flash,2025-09-02 00:00:00,Sep,Tue,Late Night,Couple,4,20,Mobile Wallet,California,80
+238,Barbie,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,4,12,Mobile Wallet,Florida,48
+179,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Evening,Student,5,8,Mobile Wallet,Florida,40
+1789,Oppenheimer,2025-09-05 00:00:00,Sep,Fri,Afternoon,Regular,2,12,Card,California,24
+1750,Fast X,2025-09-30 00:00:00,Sep,Tue,Afternoon,Couple,4,20,Cash,New York,80
+1919,Mission Impossible 8,2025-07-02 00:00:00,Jul,Wed,Late Night,Student,5,8,Cash,Florida,40
+1046,Mission Impossible 8,2025-07-28 00:00:00,Jul,Mon,Evening,Student,1,8,Mobile Wallet,Texas,8
+1968,John Wick 5,2025-09-21 00:00:00,Sep,Sun,Late Night,Regular,1,12,Mobile Wallet,Florida,12
+1873,Mission Impossible 8,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,5,12,Card,California,60
+689,Fast X,2025-07-29 00:00:00,Jul,Tue,Morning,Regular,2,12,Card,Florida,24
+1415,Avatar 3,2025-07-11 00:00:00,Jul,Fri,Morning,Student,2,8,Mobile Wallet,Florida,16
+371,The Flash,2025-07-04 00:00:00,Jul,Fri,Late Night,Student,2,8,Mobile Wallet,California,16
+1069,Oppenheimer,2025-08-27 00:00:00,Aug,Wed,Late Night,Regular,1,12,Card,California,12
+530,Avatar 3,2025-09-24 00:00:00,Sep,Wed,Morning,Family,4,30,Cash,California,120
+1361,Barbie,2025-09-27 00:00:00,Sep,Sat,Afternoon,Student,1,8,Mobile Wallet,California,8
+1096,Avatar 3,2025-07-12 00:00:00,Jul,Sat,Late Night,Student,5,8,Cash,Florida,40
+423,Barbie,2025-09-21 00:00:00,Sep,Sun,Morning,Student,2,8,Cash,Texas,16
+227,Oppenheimer,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,5,12,Mobile Wallet,Florida,60
+920,John Wick 5,2025-07-26 00:00:00,Jul,Sat,Afternoon,Regular,3,12,Cash,New York,36
+1623,Barbie,2025-08-04 00:00:00,Aug,Mon,Late Night,Regular,4,12,Cash,New York,48
+554,The Flash,2025-08-17 00:00:00,Aug,Sun,Late Night,Family,3,30,Card,California,90
+610,John Wick 5,2025-07-06 00:00:00,Jul,Sun,Late Night,Regular,3,12,Mobile Wallet,Florida,36
+1920,Guardians of the Galaxy Vol. 4,2025-08-11 00:00:00,Aug,Mon,Evening,Couple,3,20,Mobile Wallet,Florida,60
+1266,Mission Impossible 8,2025-09-16 00:00:00,Sep,Tue,Late Night,Regular,5,12,Cash,New York,60
+99,Barbie,2025-08-15 00:00:00,Aug,Fri,Afternoon,Student,1,8,Card,Florida,8
+1768,Guardians of the Galaxy Vol. 4,2025-08-31 00:00:00,Aug,Sun,Morning,Regular,4,12,Cash,California,48
+1458,The Flash,2025-08-14 00:00:00,Aug,Thu,Morning,Student,1,8,Cash,New York,8
+798,Fast X,2025-09-11 00:00:00,Sep,Thu,Late Night,VIP,3,25,Cash,Florida,75
+991,Avatar 3,2025-09-29 00:00:00,Sep,Mon,Afternoon,Regular,2,12,Mobile Wallet,California,24
+1777,Avatar 3,2025-08-11 00:00:00,Aug,Mon,Morning,Couple,4,20,Mobile Wallet,Texas,80
+1672,Oppenheimer,2025-08-17 00:00:00,Aug,Sun,Afternoon,Regular,5,12,Card,California,60
+726,Oppenheimer,2025-08-03 00:00:00,Aug,Sun,Afternoon,Regular,4,12,Cash,New York,48
+1455,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Evening,Family,5,30,Cash,New York,150
+398,Barbie,2025-09-18 00:00:00,Sep,Thu,Evening,Regular,5,12,Card,Florida,60
+849,Fast X,2025-07-15 00:00:00,Jul,Tue,Morning,VIP,4,25,Cash,Texas,100
+1363,Guardians of the Galaxy Vol. 4,2025-08-30 00:00:00,Aug,Sat,Late Night,Student,5,8,Cash,Florida,40
+937,Barbie,2025-09-20 00:00:00,Sep,Sat,Late Night,Student,5,8,Card,California,40
+166,Guardians of the Galaxy Vol. 4,2025-09-02 00:00:00,Sep,Tue,Evening,Family,4,30,Cash,Florida,120
+348,The Flash,2025-08-12 00:00:00,Aug,Tue,Afternoon,Regular,2,12,Mobile Wallet,California,24
+1829,Barbie,2025-09-23 00:00:00,Sep,Tue,Morning,Couple,4,20,Cash,Texas,80
+900,Mission Impossible 8,2025-07-06 00:00:00,Jul,Sun,Afternoon,Regular,2,12,Card,Florida,24
+213,Oppenheimer,2025-07-05 00:00:00,Jul,Sat,Afternoon,Regular,4,12,Cash,California,48
+421,Avatar 3,2025-07-03 00:00:00,Jul,Thu,Morning,Regular,3,12,Cash,Florida,36
+134,Oppenheimer,2025-07-04 00:00:00,Jul,Fri,Morning,VIP,4,25,Cash,New York,100
+592,John Wick 5,2025-08-02 00:00:00,Aug,Sat,Afternoon,Couple,5,20,Card,New York,100
+948,John Wick 5,2025-07-13 00:00:00,Jul,Sun,Afternoon,VIP,2,25,Cash,California,50
+1048,Guardians of the Galaxy Vol. 4,2025-08-24 00:00:00,Aug,Sun,Afternoon,Regular,5,12,Card,Florida,60
+857,Mission Impossible 8,2025-08-10 00:00:00,Aug,Sun,Afternoon,Regular,5,12,Card,California,60
+571,Barbie,2025-09-01 00:00:00,Sep,Mon,Afternoon,Regular,1,12,Mobile Wallet,Texas,12
+157,Fast X,2025-07-27 00:00:00,Jul,Sun,Late Night,Regular,4,12,Card,California,48
+1562,The Flash,2025-09-28 00:00:00,Sep,Sun,Late Night,Couple,1,20,Card,Texas,20
+1838,The Flash,2025-08-25 00:00:00,Aug,Mon,Afternoon,Regular,1,12,Mobile Wallet,California,12
+1689,Guardians of the Galaxy Vol. 4,2025-08-10 00:00:00,Aug,Sun,Afternoon,Regular,3,12,Card,Florida,36
+1542,Fast X,2025-09-01 00:00:00,Sep,Mon,Afternoon,Couple,4,20,Card,Texas,80
+1517,Fast X,2025-09-10 00:00:00,Sep,Wed,Evening,Regular,3,12,Cash,New York,36
+1420,Guardians of the Galaxy Vol. 4,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,4,12,Cash,Florida,48
+780,Mission Impossible 8,2025-07-16 00:00:00,Jul,Wed,Evening,Regular,2,12,Cash,New York,24
+1105,Barbie,2025-08-18 00:00:00,Aug,Mon,Afternoon,Regular,3,12,Cash,Florida,36
+1451,John Wick 5,2025-07-16 00:00:00,Jul,Wed,Late Night,Regular,2,12,Card,California,24
+1140,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,5,12,Card,California,60
+1896,Fast X,2025-08-04 00:00:00,Aug,Mon,Afternoon,Couple,2,20,Cash,Florida,40
+1296,Avatar 3,2025-07-15 00:00:00,Jul,Tue,Late Night,Regular,2,12,Mobile Wallet,Florida,24
+821,Fast X,2025-08-09 00:00:00,Aug,Sat,Late Night,Family,1,30,Mobile Wallet,Florida,30
+418,Avatar 3,2025-09-15 00:00:00,Sep,Mon,Afternoon,Regular,4,12,Cash,Florida,48
+1898,Mission Impossible 8,2025-08-12 00:00:00,Aug,Tue,Morning,Couple,1,20,Cash,Texas,20
+1327,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Evening,Couple,1,20,Mobile Wallet,Florida,20
+108,The Flash,2025-08-13 00:00:00,Aug,Wed,Evening,Family,2,30,Card,Texas,60
+559,John Wick 5,2025-08-17 00:00:00,Aug,Sun,Late Night,Regular,4,12,Mobile Wallet,California,48
+368,Avatar 3,2025-09-08 00:00:00,Sep,Mon,Morning,VIP,5,25,Mobile Wallet,California,125
+1055,Guardians of the Galaxy Vol. 4,2025-09-09 00:00:00,Sep,Tue,Evening,Student,1,8,Mobile Wallet,New York,8
+417,Oppenheimer,2025-09-09 00:00:00,Sep,Tue,Afternoon,Regular,5,12,Card,California,60
+373,Avatar 3,2025-09-13 00:00:00,Sep,Sat,Late Night,Student,3,8,Cash,Florida,24
+1944,Barbie,2025-07-12 00:00:00,Jul,Sat,Afternoon,Regular,2,12,Cash,Florida,24
+247,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Morning,Regular,5,12,Mobile Wallet,Florida,60
+1511,Fast X,2025-08-16 00:00:00,Aug,Sat,Afternoon,Regular,3,12,Cash,Texas,36
+731,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Evening,Student,4,8,Mobile Wallet,New York,32
+1423,Mission Impossible 8,2025-09-12 00:00:00,Sep,Fri,Evening,Student,5,8,Card,Florida,40
+619,Fast X,2025-07-06 00:00:00,Jul,Sun,Evening,Couple,1,20,Cash,California,20
+218,Oppenheimer,2025-09-10 00:00:00,Sep,Wed,Morning,Regular,3,12,Mobile Wallet,Texas,36
+57,John Wick 5,2025-08-04 00:00:00,Aug,Mon,Afternoon,Regular,3,12,Cash,Florida,36
+1534,Oppenheimer,2025-08-22 00:00:00,Aug,Fri,Afternoon,Regular,2,12,Mobile Wallet,New York,24
+1746,Avatar 3,2025-08-08 00:00:00,Aug,Fri,Evening,Regular,3,12,Cash,Texas,36
+459,Mission Impossible 8,2025-07-24 00:00:00,Jul,Thu,Morning,Regular,5,12,Card,New York,60
+1386,The Flash,2025-07-24 00:00:00,Jul,Thu,Afternoon,Couple,2,20,Card,California,40
+584,Avatar 3,2025-09-03 00:00:00,Sep,Wed,Afternoon,Regular,4,12,Mobile Wallet,Texas,48
+1284,Guardians of the Galaxy Vol. 4,2025-09-14 00:00:00,Sep,Sun,Afternoon,Couple,4,20,Card,New York,80
+511,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Late Night,Regular,1,12,Mobile Wallet,New York,12
+701,Avatar 3,2025-08-30 00:00:00,Aug,Sat,Morning,VIP,3,25,Mobile Wallet,California,75
+170,Barbie,2025-07-16 00:00:00,Jul,Wed,Late Night,Regular,3,12,Card,Florida,36
+581,Barbie,2025-07-13 00:00:00,Jul,Sun,Afternoon,Regular,2,12,Cash,Florida,24
+1935,Fast X,2025-07-05 00:00:00,Jul,Sat,Morning,Regular,4,12,Card,Florida,48
+1278,Fast X,2025-09-03 00:00:00,Sep,Wed,Late Night,Regular,2,12,Mobile Wallet,New York,24
+574,Avatar 3,2025-09-01 00:00:00,Sep,Mon,Morning,Regular,3,12,Cash,New York,36
+40,Mission Impossible 8,2025-07-01 00:00:00,Jul,Tue,Evening,Regular,5,12,Card,California,60
+664,Barbie,2025-07-26 00:00:00,Jul,Sat,Evening,Student,5,8,Card,Texas,40
+339,The Flash,2025-07-27 00:00:00,Jul,Sun,Late Night,Regular,2,12,Mobile Wallet,California,24
+1118,Oppenheimer,2025-09-17 00:00:00,Sep,Wed,Afternoon,Regular,1,12,Mobile Wallet,Florida,12
+933,Guardians of the Galaxy Vol. 4,2025-09-12 00:00:00,Sep,Fri,Morning,Regular,5,12,Mobile Wallet,Florida,60
+521,John Wick 5,2025-09-24 00:00:00,Sep,Wed,Morning,Student,4,8,Cash,California,32
+72,Avatar 3,2025-09-10 00:00:00,Sep,Wed,Evening,VIP,4,25,Cash,California,100
+1932,The Flash,2025-08-23 00:00:00,Aug,Sat,Morning,Regular,1,12,Cash,Texas,12
+382,Barbie,2025-07-06 00:00:00,Jul,Sun,Morning,Couple,3,20,Card,New York,60
+1886,Barbie,2025-07-07 00:00:00,Jul,Mon,Afternoon,Family,4,30,Card,Texas,120
+347,Mission Impossible 8,2025-07-26 00:00:00,Jul,Sat,Evening,Student,5,8,Cash,New York,40
+575,Fast X,2025-08-02 00:00:00,Aug,Sat,Morning,Regular,4,12,Cash,California,48
+1474,Avatar 3,2025-08-11 00:00:00,Aug,Mon,Late Night,Student,4,8,Card,New York,32
+475,Mission Impossible 8,2025-07-25 00:00:00,Jul,Fri,Late Night,VIP,3,25,Card,Texas,75
+601,Oppenheimer,2025-08-03 00:00:00,Aug,Sun,Afternoon,VIP,2,25,Card,California,50
+311,John Wick 5,2025-07-07 00:00:00,Jul,Mon,Afternoon,VIP,4,25,Card,Texas,100
+1486,Fast X,2025-08-10 00:00:00,Aug,Sun,Morning,VIP,3,25,Mobile Wallet,California,75
+1521,Barbie,2025-08-21 00:00:00,Aug,Thu,Evening,Regular,4,12,Mobile Wallet,Texas,48
+323,The Flash,2025-09-27 00:00:00,Sep,Sat,Afternoon,VIP,4,25,Card,Florida,100
+146,Fast X,2025-09-20 00:00:00,Sep,Sat,Late Night,Couple,5,20,Cash,New York,100
+653,Fast X,2025-09-03 00:00:00,Sep,Wed,Late Night,Regular,3,12,Cash,Texas,36
+682,Oppenheimer,2025-08-03 00:00:00,Aug,Sun,Evening,Couple,2,20,Mobile Wallet,Texas,40
+343,Mission Impossible 8,2025-07-14 00:00:00,Jul,Mon,Morning,Regular,1,12,Cash,Texas,12
+707,The Flash,2025-07-29 00:00:00,Jul,Tue,Morning,Regular,2,12,Mobile Wallet,California,24
+415,Mission Impossible 8,2025-09-09 00:00:00,Sep,Tue,Afternoon,VIP,3,25,Mobile Wallet,Texas,75
+1767,Barbie,2025-08-03 00:00:00,Aug,Sun,Late Night,VIP,4,25,Mobile Wallet,California,100
+662,Mission Impossible 8,2025-08-31 00:00:00,Aug,Sun,Afternoon,Couple,1,20,Cash,Texas,20
+1281,Avatar 3,2025-08-12 00:00:00,Aug,Tue,Late Night,Regular,3,12,Mobile Wallet,California,36
+972,Fast X,2025-09-20 00:00:00,Sep,Sat,Afternoon,Regular,4,12,Card,California,48
+1029,Oppenheimer,2025-08-13 00:00:00,Aug,Wed,Evening,Student,1,8,Mobile Wallet,Florida,8
+1844,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Afternoon,Regular,4,12,Cash,California,48
+1904,Oppenheimer,2025-08-05 00:00:00,Aug,Tue,Morning,Regular,3,12,Cash,California,36
+137,Guardians of the Galaxy Vol. 4,2025-07-06 00:00:00,Jul,Sun,Afternoon,Regular,3,12,Mobile Wallet,California,36
+1202,Avatar 3,2025-07-06 00:00:00,Jul,Sun,Morning,VIP,4,25,Mobile Wallet,Florida,100
+680,Avatar 3,2025-07-27 00:00:00,Jul,Sun,Evening,VIP,5,25,Mobile Wallet,New York,125
+867,Oppenheimer,2025-09-07 00:00:00,Sep,Sun,Late Night,VIP,1,25,Card,California,25
+140,Guardians of the Galaxy Vol. 4,2025-09-14 00:00:00,Sep,Sun,Afternoon,Couple,3,20,Mobile Wallet,Texas,60
+37,The Flash,2025-08-31 00:00:00,Aug,Sun,Afternoon,Regular,5,12,Card,Florida,60
+1444,Mission Impossible 8,2025-07-29 00:00:00,Jul,Tue,Late Night,Family,3,30,Mobile Wallet,California,90
+92,The Flash,2025-08-21 00:00:00,Aug,Thu,Late Night,Family,3,30,Cash,Florida,90
+1945,Oppenheimer,2025-09-19 00:00:00,Sep,Fri,Morning,Regular,2,12,Cash,New York,24
+1109,Barbie,2025-07-05 00:00:00,Jul,Sat,Morning,VIP,1,25,Cash,New York,25
+1903,Guardians of the Galaxy Vol. 4,2025-08-04 00:00:00,Aug,Mon,Late Night,Family,5,30,Card,Texas,150
+1954,The Flash,2025-09-13 00:00:00,Sep,Sat,Evening,Regular,1,12,Cash,California,12
+1834,Mission Impossible 8,2025-08-12 00:00:00,Aug,Tue,Afternoon,Regular,1,12,Cash,Texas,12
+1988,The Flash,2025-08-19 00:00:00,Aug,Tue,Morning,Regular,4,12,Card,Florida,48
+626,Avatar 3,2025-09-10 00:00:00,Sep,Wed,Afternoon,Family,5,30,Mobile Wallet,Florida,150
+1590,John Wick 5,2025-08-17 00:00:00,Aug,Sun,Late Night,Regular,5,12,Card,California,60
+1043,Fast X,2025-07-08 00:00:00,Jul,Tue,Morning,Regular,4,12,Cash,Florida,48
+1687,The Flash,2025-09-26 00:00:00,Sep,Fri,Morning,Family,1,30,Cash,New York,30
+984,Oppenheimer,2025-08-10 00:00:00,Aug,Sun,Evening,Couple,2,20,Mobile Wallet,Texas,40
+941,The Flash,2025-07-13 00:00:00,Jul,Sun,Morning,Regular,3,12,Card,Florida,36
+930,Guardians of the Galaxy Vol. 4,2025-09-04 00:00:00,Sep,Thu,Late Night,Regular,1,12,Cash,New York,12
+353,Guardians of the Galaxy Vol. 4,2025-08-10 00:00:00,Aug,Sun,Evening,VIP,4,25,Card,Florida,100
+649,John Wick 5,2025-08-06 00:00:00,Aug,Wed,Evening,Regular,1,12,Cash,Texas,12
+785,Avatar 3,2025-07-25 00:00:00,Jul,Fri,Afternoon,Couple,2,20,Card,Texas,40
+1900,Avatar 3,2025-07-30 00:00:00,Jul,Wed,Morning,Couple,1,20,Card,New York,20
+1618,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Afternoon,Couple,1,20,Card,Florida,20
+330,John Wick 5,2025-09-20 00:00:00,Sep,Sat,Afternoon,Regular,5,12,Cash,California,60
+688,Oppenheimer,2025-08-03 00:00:00,Aug,Sun,Afternoon,Regular,4,12,Cash,Florida,48
+868,Barbie,2025-08-02 00:00:00,Aug,Sat,Afternoon,Student,3,8,Mobile Wallet,Texas,24
+841,Fast X,2025-08-09 00:00:00,Aug,Sat,Morning,Regular,1,12,Card,New York,12
+1529,Barbie,2025-09-23 00:00:00,Sep,Tue,Late Night,Family,4,30,Mobile Wallet,California,120
+1785,Mission Impossible 8,2025-08-07 00:00:00,Aug,Thu,Afternoon,Couple,2,20,Card,California,40
+1053,Mission Impossible 8,2025-09-09 00:00:00,Sep,Tue,Late Night,Regular,2,12,Cash,Florida,24
+1358,Mission Impossible 8,2025-09-25 00:00:00,Sep,Thu,Evening,Regular,1,12,Card,California,12
+1206,Barbie,2025-08-16 00:00:00,Aug,Sat,Afternoon,Couple,2,20,Mobile Wallet,New York,40
+1351,The Flash,2025-08-10 00:00:00,Aug,Sun,Late Night,Regular,3,12,Card,Texas,36
+1257,Barbie,2025-07-26 00:00:00,Jul,Sat,Afternoon,Student,5,8,Mobile Wallet,California,40
+1328,Oppenheimer,2025-07-25 00:00:00,Jul,Fri,Evening,VIP,1,25,Cash,New York,25
+1381,Barbie,2025-07-23 00:00:00,Jul,Wed,Morning,Regular,4,12,Mobile Wallet,New York,48
+1965,Oppenheimer,2025-07-17 00:00:00,Jul,Thu,Afternoon,Regular,2,12,Mobile Wallet,New York,24
+460,Mission Impossible 8,2025-09-23 00:00:00,Sep,Tue,Afternoon,Regular,5,12,Card,New York,60
+1633,John Wick 5,2025-07-15 00:00:00,Jul,Tue,Evening,Regular,3,12,Card,California,36
+586,Fast X,2025-07-07 00:00:00,Jul,Mon,Afternoon,VIP,3,25,Mobile Wallet,Florida,75
+447,Mission Impossible 8,2025-09-07 00:00:00,Sep,Sun,Morning,Regular,4,12,Cash,New York,48
+211,Fast X,2025-09-04 00:00:00,Sep,Thu,Morning,Student,1,8,Card,California,8
+620,Mission Impossible 8,2025-08-03 00:00:00,Aug,Sun,Evening,Regular,5,12,Cash,Florida,60
+176,Barbie,2025-08-17 00:00:00,Aug,Sun,Evening,Couple,4,20,Mobile Wallet,New York,80
+652,John Wick 5,2025-09-05 00:00:00,Sep,Fri,Morning,Regular,5,12,Mobile Wallet,California,60
+159,Guardians of the Galaxy Vol. 4,2025-07-19 00:00:00,Jul,Sat,Afternoon,Regular,4,12,Cash,California,48
+638,Fast X,2025-09-21 00:00:00,Sep,Sun,Afternoon,Student,1,8,Cash,New York,8
+568,John Wick 5,2025-09-28 00:00:00,Sep,Sun,Afternoon,Regular,4,12,Card,New York,48
+1625,Barbie,2025-09-05 00:00:00,Sep,Fri,Late Night,Regular,3,12,Cash,New York,36
+1152,Oppenheimer,2025-07-07 00:00:00,Jul,Mon,Afternoon,Regular,3,12,Mobile Wallet,New York,36
+520,Avatar 3,2025-09-04 00:00:00,Sep,Thu,Morning,Student,3,8,Mobile Wallet,Texas,24
+1816,Mission Impossible 8,2025-09-24 00:00:00,Sep,Wed,Late Night,VIP,2,25,Card,California,50
+1811,Avatar 3,2025-07-01 00:00:00,Jul,Tue,Afternoon,Student,5,8,Mobile Wallet,Texas,40
+1815,The Flash,2025-08-07 00:00:00,Aug,Thu,Morning,Regular,5,12,Cash,New York,60
+960,Fast X,2025-09-10 00:00:00,Sep,Wed,Morning,Couple,3,20,Cash,Texas,60
+244,Guardians of the Galaxy Vol. 4,2025-08-26 00:00:00,Aug,Tue,Afternoon,Family,3,30,Card,New York,90
+890,Guardians of the Galaxy Vol. 4,2025-09-25 00:00:00,Sep,Thu,Evening,Couple,1,20,Card,California,20
+803,Guardians of the Galaxy Vol. 4,2025-09-01 00:00:00,Sep,Mon,Late Night,Family,5,30,Mobile Wallet,Texas,150
+485,Oppenheimer,2025-07-26 00:00:00,Jul,Sat,Evening,Regular,5,12,Mobile Wallet,New York,60
+293,Guardians of the Galaxy Vol. 4,2025-08-25 00:00:00,Aug,Mon,Evening,Regular,2,12,Card,California,24
+1875,Avatar 3,2025-08-25 00:00:00,Aug,Mon,Late Night,Regular,1,12,Card,Texas,12
+1760,Mission Impossible 8,2025-09-06 00:00:00,Sep,Sat,Evening,Couple,3,20,Card,New York,60
+399,John Wick 5,2025-08-28 00:00:00,Aug,Thu,Evening,VIP,1,25,Card,Texas,25
+566,Avatar 3,2025-09-28 00:00:00,Sep,Sun,Late Night,Regular,4,12,Card,California,48
+1549,Oppenheimer,2025-07-27 00:00:00,Jul,Sun,Morning,Regular,3,12,Cash,Florida,36
+909,Fast X,2025-08-05 00:00:00,Aug,Tue,Late Night,Regular,1,12,Mobile Wallet,Texas,12
+1346,Mission Impossible 8,2025-08-06 00:00:00,Aug,Wed,Afternoon,Student,4,8,Card,Florida,32
+1208,Barbie,2025-09-14 00:00:00,Sep,Sun,Evening,Student,1,8,Mobile Wallet,California,8
+593,Oppenheimer,2025-09-13 00:00:00,Sep,Sat,Evening,VIP,1,25,Cash,Texas,25
+1251,Fast X,2025-07-04 00:00:00,Jul,Fri,Evening,VIP,5,25,Cash,California,125
+786,Guardians of the Galaxy Vol. 4,2025-09-24 00:00:00,Sep,Wed,Late Night,Regular,2,12,Mobile Wallet,California,24
+1110,Mission Impossible 8,2025-07-24 00:00:00,Jul,Thu,Afternoon,VIP,1,25,Cash,California,25
+388,Fast X,2025-07-08 00:00:00,Jul,Tue,Late Night,VIP,1,25,Cash,California,25
+1093,John Wick 5,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,2,12,Card,New York,24
+1022,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Afternoon,Regular,5,12,Mobile Wallet,Florida,60
+1583,Oppenheimer,2025-09-22 00:00:00,Sep,Mon,Late Night,Regular,5,12,Card,California,60
+1333,Fast X,2025-07-12 00:00:00,Jul,Sat,Afternoon,Regular,2,12,Card,Florida,24
+800,Mission Impossible 8,2025-07-03 00:00:00,Jul,Thu,Morning,Regular,5,12,Card,Florida,60
+864,Avatar 3,2025-09-01 00:00:00,Sep,Mon,Evening,VIP,2,25,Mobile Wallet,Texas,50
+766,Mission Impossible 8,2025-09-07 00:00:00,Sep,Sun,Late Night,Family,1,30,Cash,Texas,30
+256,Mission Impossible 8,2025-07-21 00:00:00,Jul,Mon,Late Night,VIP,5,25,Cash,California,125
+605,Fast X,2025-07-19 00:00:00,Jul,Sat,Evening,Regular,3,12,Card,Texas,36
+765,Oppenheimer,2025-08-29 00:00:00,Aug,Fri,Morning,Regular,4,12,Cash,California,48
+121,John Wick 5,2025-07-19 00:00:00,Jul,Sat,Late Night,Couple,2,20,Card,Texas,40
+583,The Flash,2025-09-21 00:00:00,Sep,Sun,Afternoon,VIP,5,25,Mobile Wallet,California,125
+149,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Afternoon,Regular,5,12,Mobile Wallet,Texas,60
+1758,Guardians of the Galaxy Vol. 4,2025-08-07 00:00:00,Aug,Thu,Afternoon,Regular,1,12,Cash,Florida,12
+719,John Wick 5,2025-07-08 00:00:00,Jul,Tue,Evening,Couple,5,20,Card,Texas,100
+1604,Guardians of the Galaxy Vol. 4,2025-08-30 00:00:00,Aug,Sat,Late Night,Regular,5,12,Mobile Wallet,Florida,60
+390,Guardians of the Galaxy Vol. 4,2025-08-06 00:00:00,Aug,Wed,Afternoon,Student,3,8,Card,Florida,24
+1831,Avatar 3,2025-07-01 00:00:00,Jul,Tue,Late Night,Regular,3,12,Cash,New York,36
+1721,Barbie,2025-07-09 00:00:00,Jul,Wed,Evening,Regular,1,12,Card,New York,12
+1275,Fast X,2025-09-15 00:00:00,Sep,Mon,Late Night,Couple,2,20,Card,Florida,40
+59,Mission Impossible 8,2025-08-17 00:00:00,Aug,Sun,Afternoon,Student,2,8,Cash,California,16
+1786,John Wick 5,2025-07-24 00:00:00,Jul,Thu,Afternoon,Regular,2,12,Card,Florida,24
+537,John Wick 5,2025-07-04 00:00:00,Jul,Fri,Evening,Student,2,8,Mobile Wallet,New York,16
+739,Oppenheimer,2025-09-25 00:00:00,Sep,Thu,Late Night,Family,3,30,Card,New York,90
+271,Barbie,2025-07-27 00:00:00,Jul,Sun,Morning,Regular,4,12,Card,California,48
+547,Oppenheimer,2025-09-03 00:00:00,Sep,Wed,Late Night,Regular,5,12,Mobile Wallet,Florida,60
+365,Fast X,2025-09-13 00:00:00,Sep,Sat,Late Night,VIP,1,25,Mobile Wallet,New York,25
+1489,Guardians of the Galaxy Vol. 4,2025-09-20 00:00:00,Sep,Sat,Afternoon,Regular,5,12,Mobile Wallet,Florida,60
+546,John Wick 5,2025-07-05 00:00:00,Jul,Sat,Morning,Regular,2,12,Cash,Florida,24
+509,John Wick 5,2025-08-14 00:00:00,Aug,Thu,Late Night,Couple,4,20,Mobile Wallet,Florida,80
+570,Fast X,2025-08-31 00:00:00,Aug,Sun,Morning,Family,3,30,Card,Texas,90
+1341,Fast X,2025-07-12 00:00:00,Jul,Sat,Evening,Couple,5,20,Cash,Florida,100
+298,Fast X,2025-08-21 00:00:00,Aug,Thu,Evening,Regular,5,12,Card,New York,60
+268,John Wick 5,2025-09-04 00:00:00,Sep,Thu,Late Night,Student,4,8,Cash,Florida,32
+751,John Wick 5,2025-08-26 00:00:00,Aug,Tue,Late Night,Regular,4,12,Card,California,48
+1586,Avatar 3,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,4,12,Mobile Wallet,Florida,48
+723,The Flash,2025-09-21 00:00:00,Sep,Sun,Late Night,Student,5,8,Cash,Texas,40
+1136,Mission Impossible 8,2025-08-07 00:00:00,Aug,Thu,Evening,VIP,2,25,Card,California,50
+1544,Oppenheimer,2025-09-25 00:00:00,Sep,Thu,Afternoon,Regular,3,12,Mobile Wallet,California,36
+1819,Avatar 3,2025-08-19 00:00:00,Aug,Tue,Evening,Couple,1,20,Card,Texas,20
+401,John Wick 5,2025-09-23 00:00:00,Sep,Tue,Morning,Regular,2,12,Mobile Wallet,Texas,24
+1739,Fast X,2025-08-18 00:00:00,Aug,Mon,Evening,Student,3,8,Mobile Wallet,Texas,24
+1276,John Wick 5,2025-08-20 00:00:00,Aug,Wed,Afternoon,Couple,1,20,Mobile Wallet,New York,20
+1979,Mission Impossible 8,2025-09-13 00:00:00,Sep,Sat,Morning,Regular,4,12,Mobile Wallet,Texas,48
+1104,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Afternoon,Regular,5,12,Cash,California,60
+775,Avatar 3,2025-07-26 00:00:00,Jul,Sat,Late Night,VIP,3,25,Card,California,75
+724,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,2,12,Mobile Wallet,New York,24
+1591,The Flash,2025-09-18 00:00:00,Sep,Thu,Morning,Family,4,30,Card,California,120
+1568,The Flash,2025-09-10 00:00:00,Sep,Wed,Evening,Student,4,8,Cash,California,32
+217,The Flash,2025-07-05 00:00:00,Jul,Sat,Afternoon,Couple,2,20,Cash,Texas,40
+1697,Guardians of the Galaxy Vol. 4,2025-08-29 00:00:00,Aug,Fri,Afternoon,Family,3,30,Cash,New York,90
+1472,Avatar 3,2025-09-15 00:00:00,Sep,Mon,Evening,Student,4,8,Cash,Florida,32
+1977,Fast X,2025-08-02 00:00:00,Aug,Sat,Morning,Regular,3,12,Cash,California,36
+1370,Avatar 3,2025-08-22 00:00:00,Aug,Fri,Morning,Student,2,8,Card,New York,16
+741,Fast X,2025-09-12 00:00:00,Sep,Fri,Afternoon,Regular,1,12,Mobile Wallet,California,12
+202,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Afternoon,Regular,1,12,Cash,Texas,12
+1189,Mission Impossible 8,2025-08-12 00:00:00,Aug,Tue,Afternoon,Couple,4,20,Mobile Wallet,Texas,80
+18,John Wick 5,2025-08-09 00:00:00,Aug,Sat,Afternoon,Couple,3,20,Card,Texas,60
+1736,John Wick 5,2025-07-21 00:00:00,Jul,Mon,Afternoon,Regular,5,12,Cash,Florida,60
+1792,Barbie,2025-09-14 00:00:00,Sep,Sun,Afternoon,Regular,1,12,Card,Florida,12
+480,The Flash,2025-08-09 00:00:00,Aug,Sat,Morning,Student,3,8,Mobile Wallet,Texas,24
+80,The Flash,2025-08-16 00:00:00,Aug,Sat,Late Night,Student,2,8,Cash,California,16
+1240,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Evening,VIP,2,25,Cash,Texas,50
+1440,Mission Impossible 8,2025-07-21 00:00:00,Jul,Mon,Morning,Family,5,30,Cash,New York,150
+717,Mission Impossible 8,2025-08-17 00:00:00,Aug,Sun,Afternoon,VIP,3,25,Mobile Wallet,New York,75
+728,Mission Impossible 8,2025-07-13 00:00:00,Jul,Sun,Morning,Regular,4,12,Cash,Texas,48
+712,Avatar 3,2025-07-20 00:00:00,Jul,Sun,Evening,VIP,2,25,Card,New York,50
+1933,Guardians of the Galaxy Vol. 4,2025-09-11 00:00:00,Sep,Thu,Morning,VIP,3,25,Mobile Wallet,Texas,75
+886,Oppenheimer,2025-08-19 00:00:00,Aug,Tue,Morning,Family,2,30,Mobile Wallet,Texas,60
+753,Avatar 3,2025-09-10 00:00:00,Sep,Wed,Evening,Regular,3,12,Mobile Wallet,California,36
+1234,Guardians of the Galaxy Vol. 4,2025-07-06 00:00:00,Jul,Sun,Late Night,Regular,3,12,Cash,Texas,36
+1330,Oppenheimer,2025-09-24 00:00:00,Sep,Wed,Late Night,Student,5,8,Mobile Wallet,Texas,40
+1297,Mission Impossible 8,2025-09-12 00:00:00,Sep,Fri,Afternoon,VIP,4,25,Mobile Wallet,California,100
+1769,Fast X,2025-07-02 00:00:00,Jul,Wed,Evening,Regular,2,12,Card,Texas,24
+1340,Barbie,2025-07-06 00:00:00,Jul,Sun,Morning,Student,5,8,Cash,New York,40
+10,Avatar 3,2025-07-10 00:00:00,Jul,Thu,Morning,Regular,2,12,Card,California,24
+1540,Oppenheimer,2025-07-26 00:00:00,Jul,Sat,Morning,Regular,2,12,Card,New York,24
+122,Oppenheimer,2025-09-18 00:00:00,Sep,Thu,Late Night,VIP,2,25,Card,New York,50
+1277,Guardians of the Galaxy Vol. 4,2025-07-29 00:00:00,Jul,Tue,Morning,Couple,2,20,Cash,California,40
+1688,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Afternoon,Regular,1,12,Card,California,12
+632,The Flash,2025-08-05 00:00:00,Aug,Tue,Evening,Student,2,8,Cash,New York,16
+1441,Guardians of the Galaxy Vol. 4,2025-08-04 00:00:00,Aug,Mon,Evening,Regular,2,12,Cash,Florida,24
+1292,Oppenheimer,2025-09-13 00:00:00,Sep,Sat,Late Night,Couple,4,20,Card,New York,80
+824,Fast X,2025-08-31 00:00:00,Aug,Sun,Late Night,Regular,2,12,Card,New York,24
+1847,John Wick 5,2025-08-01 00:00:00,Aug,Fri,Late Night,Family,1,30,Cash,Florida,30
+1876,John Wick 5,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,1,12,Card,New York,12
+1107,Oppenheimer,2025-07-28 00:00:00,Jul,Mon,Afternoon,Student,1,8,Cash,New York,8
+1975,Avatar 3,2025-09-07 00:00:00,Sep,Sun,Afternoon,Regular,3,12,Card,Texas,36
+249,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Late Night,VIP,5,25,Cash,Texas,125
+472,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Afternoon,Family,2,30,Card,California,60
+341,Mission Impossible 8,2025-08-23 00:00:00,Aug,Sat,Afternoon,Student,2,8,Mobile Wallet,Florida,16
+491,John Wick 5,2025-09-02 00:00:00,Sep,Tue,Evening,Regular,4,12,Card,Texas,48
+563,Fast X,2025-08-13 00:00:00,Aug,Wed,Late Night,Regular,3,12,Cash,New York,36
+1032,John Wick 5,2025-08-08 00:00:00,Aug,Fri,Late Night,Regular,1,12,Card,California,12
+1959,Oppenheimer,2025-09-06 00:00:00,Sep,Sat,Morning,Regular,4,12,Cash,California,48
+953,Oppenheimer,2025-09-17 00:00:00,Sep,Wed,Afternoon,Student,4,8,Cash,New York,32
+892,Fast X,2025-08-04 00:00:00,Aug,Mon,Evening,Student,5,8,Mobile Wallet,California,40
+823,Barbie,2025-07-26 00:00:00,Jul,Sat,Morning,VIP,3,25,Mobile Wallet,Florida,75
+915,The Flash,2025-09-17 00:00:00,Sep,Wed,Morning,Regular,4,12,Card,Texas,48
+360,Mission Impossible 8,2025-09-14 00:00:00,Sep,Sun,Morning,Regular,3,12,Cash,Florida,36
+282,The Flash,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,2,12,Mobile Wallet,Florida,24
+580,Avatar 3,2025-07-15 00:00:00,Jul,Tue,Afternoon,VIP,3,25,Mobile Wallet,Texas,75
+833,Mission Impossible 8,2025-07-16 00:00:00,Jul,Wed,Morning,Regular,3,12,Cash,New York,36
+1600,Oppenheimer,2025-08-21 00:00:00,Aug,Thu,Morning,Student,2,8,Mobile Wallet,Florida,16
+1974,John Wick 5,2025-08-04 00:00:00,Aug,Mon,Evening,Student,2,8,Mobile Wallet,Texas,16
+1342,John Wick 5,2025-07-06 00:00:00,Jul,Sun,Afternoon,VIP,1,25,Card,Texas,25
+1915,John Wick 5,2025-07-26 00:00:00,Jul,Sat,Morning,Family,2,30,Mobile Wallet,Florida,60
+863,Avatar 3,2025-07-18 00:00:00,Jul,Fri,Evening,Family,2,30,Mobile Wallet,Florida,60
+695,Avatar 3,2025-09-25 00:00:00,Sep,Thu,Late Night,Family,1,30,Card,New York,30
+54,The Flash,2025-09-02 00:00:00,Sep,Tue,Late Night,Family,3,30,Card,Florida,90
+1246,John Wick 5,2025-08-24 00:00:00,Aug,Sun,Afternoon,Regular,3,12,Cash,California,36
+1715,Barbie,2025-07-27 00:00:00,Jul,Sun,Morning,Family,4,30,Mobile Wallet,Texas,120
+1321,John Wick 5,2025-08-16 00:00:00,Aug,Sat,Late Night,VIP,2,25,Mobile Wallet,Texas,50
+881,Oppenheimer,2025-08-08 00:00:00,Aug,Fri,Afternoon,Regular,2,12,Cash,Texas,24
+1680,Avatar 3,2025-08-10 00:00:00,Aug,Sun,Morning,Regular,2,12,Card,California,24
+1497,John Wick 5,2025-09-29 00:00:00,Sep,Mon,Afternoon,Couple,5,20,Cash,Florida,100
+1250,The Flash,2025-08-09 00:00:00,Aug,Sat,Morning,VIP,3,25,Card,Texas,75
+1635,Oppenheimer,2025-07-12 00:00:00,Jul,Sat,Late Night,Regular,4,12,Cash,Florida,48
+181,Oppenheimer,2025-09-14 00:00:00,Sep,Sun,Late Night,Regular,1,12,Cash,Texas,12
+1083,Oppenheimer,2025-07-26 00:00:00,Jul,Sat,Late Night,Regular,2,12,Mobile Wallet,California,24
+784,The Flash,2025-07-29 00:00:00,Jul,Tue,Afternoon,Student,3,8,Card,Florida,24
+1390,Guardians of the Galaxy Vol. 4,2025-08-05 00:00:00,Aug,Tue,Afternoon,Student,1,8,Card,Florida,8
+171,John Wick 5,2025-09-28 00:00:00,Sep,Sun,Evening,Student,3,8,Mobile Wallet,California,24
+582,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Evening,Couple,3,20,Cash,California,60
+1058,Fast X,2025-07-05 00:00:00,Jul,Sat,Late Night,Regular,3,12,Cash,Florida,36
+1123,Mission Impossible 8,2025-08-30 00:00:00,Aug,Sat,Afternoon,Regular,3,12,Cash,Florida,36
+692,Barbie,2025-09-06 00:00:00,Sep,Sat,Morning,VIP,5,25,Cash,California,125
+691,Avatar 3,2025-09-06 00:00:00,Sep,Sat,Late Night,VIP,4,25,Card,California,100
+1400,Oppenheimer,2025-08-20 00:00:00,Aug,Wed,Late Night,VIP,4,25,Mobile Wallet,California,100
+1616,Mission Impossible 8,2025-07-25 00:00:00,Jul,Fri,Evening,Regular,5,12,Card,New York,60
+872,John Wick 5,2025-08-24 00:00:00,Aug,Sun,Afternoon,Family,1,30,Card,Florida,30
+132,Oppenheimer,2025-08-02 00:00:00,Aug,Sat,Morning,Regular,2,12,Cash,New York,24
+1021,Fast X,2025-09-06 00:00:00,Sep,Sat,Afternoon,Regular,2,12,Card,Texas,24
+819,The Flash,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,3,12,Mobile Wallet,Florida,36
+187,Avatar 3,2025-09-14 00:00:00,Sep,Sun,Morning,Couple,3,20,Cash,Texas,60
+1113,John Wick 5,2025-07-05 00:00:00,Jul,Sat,Afternoon,Student,2,8,Mobile Wallet,California,16
+1391,Avatar 3,2025-07-14 00:00:00,Jul,Mon,Late Night,Regular,4,12,Mobile Wallet,Texas,48
+831,Oppenheimer,2025-07-01 00:00:00,Jul,Tue,Late Night,Regular,3,12,Cash,Florida,36
+1211,Guardians of the Galaxy Vol. 4,2025-07-02 00:00:00,Jul,Wed,Morning,Regular,4,12,Card,Florida,48
+1812,Guardians of the Galaxy Vol. 4,2025-09-27 00:00:00,Sep,Sat,Morning,Regular,4,12,Cash,California,48
+191,Fast X,2025-07-03 00:00:00,Jul,Thu,Afternoon,Regular,1,12,Cash,California,12
+454,Barbie,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,4,12,Cash,New York,48
+1402,Mission Impossible 8,2025-08-31 00:00:00,Aug,Sun,Late Night,Regular,5,12,Mobile Wallet,Florida,60
+901,Oppenheimer,2025-08-31 00:00:00,Aug,Sun,Afternoon,Regular,1,12,Mobile Wallet,Texas,12
+1137,Fast X,2025-09-25 00:00:00,Sep,Thu,Late Night,Student,1,8,Card,Florida,8
+318,Guardians of the Galaxy Vol. 4,2025-07-06 00:00:00,Jul,Sun,Morning,Regular,2,12,Card,Florida,24
+646,Oppenheimer,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,1,12,Mobile Wallet,New York,12
+1929,John Wick 5,2025-09-24 00:00:00,Sep,Wed,Morning,Student,4,8,Mobile Wallet,New York,32
+307,The Flash,2025-07-08 00:00:00,Jul,Tue,Afternoon,Regular,3,12,Mobile Wallet,New York,36
+1002,Fast X,2025-07-04 00:00:00,Jul,Fri,Afternoon,Student,1,8,Card,Florida,8
+1232,John Wick 5,2025-07-27 00:00:00,Jul,Sun,Afternoon,VIP,2,25,Mobile Wallet,California,50
+138,Guardians of the Galaxy Vol. 4,2025-09-06 00:00:00,Sep,Sat,Late Night,Student,4,8,Mobile Wallet,New York,32
+1435,The Flash,2025-07-27 00:00:00,Jul,Sun,Late Night,Student,3,8,Card,Texas,24
+93,Avatar 3,2025-07-29 00:00:00,Jul,Tue,Afternoon,Regular,4,12,Cash,Texas,48
+265,Mission Impossible 8,2025-07-03 00:00:00,Jul,Thu,Afternoon,VIP,5,25,Card,Florida,125
+253,The Flash,2025-07-10 00:00:00,Jul,Thu,Evening,Student,4,8,Card,Florida,32
+443,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Late Night,Student,1,8,Cash,New York,8
+1722,Mission Impossible 8,2025-09-20 00:00:00,Sep,Sat,Evening,Couple,4,20,Card,Florida,80
+342,The Flash,2025-08-21 00:00:00,Aug,Thu,Evening,Regular,1,12,Mobile Wallet,Florida,12
+1024,Avatar 3,2025-07-13 00:00:00,Jul,Sun,Late Night,Regular,3,12,Card,California,36
+1928,Mission Impossible 8,2025-09-16 00:00:00,Sep,Tue,Evening,Student,2,8,Mobile Wallet,Texas,16
+446,Mission Impossible 8,2025-08-20 00:00:00,Aug,Wed,Morning,Regular,2,12,Card,New York,24
+1541,Fast X,2025-08-07 00:00:00,Aug,Thu,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+486,Barbie,2025-08-05 00:00:00,Aug,Tue,Evening,Family,3,30,Card,California,90
+258,Barbie,2025-08-27 00:00:00,Aug,Wed,Afternoon,Regular,3,12,Card,Florida,36
+204,Guardians of the Galaxy Vol. 4,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,1,12,Mobile Wallet,California,12
+393,John Wick 5,2025-07-19 00:00:00,Jul,Sat,Late Night,Regular,4,12,Card,New York,48
+1703,Fast X,2025-07-18 00:00:00,Jul,Fri,Late Night,Regular,5,12,Mobile Wallet,California,60
+1331,Barbie,2025-09-06 00:00:00,Sep,Sat,Morning,VIP,4,25,Card,Florida,100
+1085,Barbie,2025-07-26 00:00:00,Jul,Sat,Afternoon,Student,4,8,Mobile Wallet,Florida,32
+889,The Flash,2025-07-07 00:00:00,Jul,Mon,Morning,Couple,2,20,Card,Texas,40
+730,The Flash,2025-07-05 00:00:00,Jul,Sat,Morning,Regular,2,12,Cash,California,24
+635,Avatar 3,2025-07-13 00:00:00,Jul,Sun,Afternoon,Student,2,8,Cash,Florida,16
+1976,Guardians of the Galaxy Vol. 4,2025-09-23 00:00:00,Sep,Tue,Evening,Family,1,30,Mobile Wallet,Florida,30
+1438,Oppenheimer,2025-08-25 00:00:00,Aug,Mon,Evening,VIP,5,25,Card,California,125
+992,The Flash,2025-08-07 00:00:00,Aug,Thu,Afternoon,Couple,3,20,Card,Texas,60
+324,Avatar 3,2025-07-26 00:00:00,Jul,Sat,Late Night,Regular,3,12,Cash,New York,36
+105,Avatar 3,2025-08-10 00:00:00,Aug,Sun,Late Night,Student,5,8,Mobile Wallet,California,40
+1063,Fast X,2025-08-09 00:00:00,Aug,Sat,Late Night,VIP,1,25,Cash,Texas,25
+651,Fast X,2025-08-18 00:00:00,Aug,Mon,Late Night,Regular,5,12,Card,California,60
+597,Oppenheimer,2025-08-15 00:00:00,Aug,Fri,Evening,Regular,3,12,Cash,California,36
+1397,Mission Impossible 8,2025-09-02 00:00:00,Sep,Tue,Late Night,Couple,2,20,Mobile Wallet,Texas,40
+1431,Guardians of the Galaxy Vol. 4,2025-07-03 00:00:00,Jul,Thu,Evening,VIP,1,25,Mobile Wallet,Florida,25
+1298,Guardians of the Galaxy Vol. 4,2025-09-16 00:00:00,Sep,Tue,Late Night,Regular,1,12,Card,Texas,12
+112,Fast X,2025-08-16 00:00:00,Aug,Sat,Morning,Regular,2,12,Cash,California,24
+409,The Flash,2025-08-09 00:00:00,Aug,Sat,Evening,Family,1,30,Mobile Wallet,Florida,30
+403,Mission Impossible 8,2025-07-15 00:00:00,Jul,Tue,Evening,Regular,5,12,Mobile Wallet,California,60
+1946,John Wick 5,2025-09-04 00:00:00,Sep,Thu,Afternoon,Regular,5,12,Mobile Wallet,Florida,60
+1609,Barbie,2025-07-06 00:00:00,Jul,Sun,Evening,Family,4,30,Mobile Wallet,California,120
+167,John Wick 5,2025-08-16 00:00:00,Aug,Sat,Late Night,VIP,2,25,Card,New York,50
+66,Avatar 3,2025-08-24 00:00:00,Aug,Sun,Late Night,Student,1,8,Cash,New York,8
+19,John Wick 5,2025-08-30 00:00:00,Aug,Sat,Morning,Regular,5,12,Cash,New York,60
+1654,Fast X,2025-09-14 00:00:00,Sep,Sun,Evening,Regular,3,12,Mobile Wallet,Florida,36
+278,Barbie,2025-07-11 00:00:00,Jul,Fri,Afternoon,VIP,3,25,Mobile Wallet,New York,75
+465,The Flash,2025-07-26 00:00:00,Jul,Sat,Morning,VIP,2,25,Mobile Wallet,Texas,50
+1957,Barbie,2025-07-06 00:00:00,Jul,Sun,Evening,Family,2,30,Card,Texas,60
+427,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,2,12,Mobile Wallet,California,24
+950,Oppenheimer,2025-09-23 00:00:00,Sep,Tue,Late Night,Family,1,30,Mobile Wallet,California,30
+1707,Mission Impossible 8,2025-08-13 00:00:00,Aug,Wed,Morning,Student,1,8,Card,New York,8
+1686,Guardians of the Galaxy Vol. 4,2025-09-29 00:00:00,Sep,Mon,Afternoon,VIP,4,25,Mobile Wallet,New York,100
+1550,John Wick 5,2025-08-20 00:00:00,Aug,Wed,Late Night,VIP,3,25,Cash,Texas,75
+818,Mission Impossible 8,2025-09-21 00:00:00,Sep,Sun,Evening,Regular,1,12,Mobile Wallet,New York,12
+1269,Oppenheimer,2025-07-28 00:00:00,Jul,Mon,Late Night,VIP,2,25,Card,California,50
+858,Mission Impossible 8,2025-07-15 00:00:00,Jul,Tue,Morning,Regular,1,12,Card,New York,12
+834,The Flash,2025-07-11 00:00:00,Jul,Fri,Morning,Regular,5,12,Card,California,60
+228,Barbie,2025-09-29 00:00:00,Sep,Mon,Morning,VIP,4,25,Cash,Florida,100
+1018,Mission Impossible 8,2025-09-16 00:00:00,Sep,Tue,Evening,Regular,4,12,Mobile Wallet,California,48
+313,The Flash,2025-08-22 00:00:00,Aug,Fri,Evening,Regular,5,12,Card,Texas,60
+1998,Guardians of the Galaxy Vol. 4,2025-07-16 00:00:00,Jul,Wed,Afternoon,Regular,2,12,Mobile Wallet,Florida,24
+455,Oppenheimer,2025-09-08 00:00:00,Sep,Mon,Morning,VIP,3,25,Cash,New York,75
+1887,Avatar 3,2025-07-08 00:00:00,Jul,Tue,Afternoon,Family,2,30,Cash,California,60
+747,Mission Impossible 8,2025-09-24 00:00:00,Sep,Wed,Morning,VIP,2,25,Mobile Wallet,California,50
+1608,Guardians of the Galaxy Vol. 4,2025-08-30 00:00:00,Aug,Sat,Late Night,Regular,3,12,Mobile Wallet,Texas,36
+1369,Guardians of the Galaxy Vol. 4,2025-07-08 00:00:00,Jul,Tue,Morning,Regular,5,12,Mobile Wallet,Florida,60
+1422,Guardians of the Galaxy Vol. 4,2025-08-13 00:00:00,Aug,Wed,Evening,VIP,5,25,Mobile Wallet,Florida,125
+332,Guardians of the Galaxy Vol. 4,2025-07-05 00:00:00,Jul,Sat,Afternoon,Regular,3,12,Card,Florida,36
+986,Avatar 3,2025-09-16 00:00:00,Sep,Tue,Afternoon,Family,1,30,Mobile Wallet,New York,30
+820,Guardians of the Galaxy Vol. 4,2025-08-29 00:00:00,Aug,Fri,Afternoon,Regular,4,12,Mobile Wallet,California,48
+1763,Mission Impossible 8,2025-07-11 00:00:00,Jul,Fri,Evening,VIP,4,25,Mobile Wallet,New York,100
+254,Oppenheimer,2025-07-06 00:00:00,Jul,Sun,Afternoon,Couple,4,20,Mobile Wallet,Florida,80
+1698,Fast X,2025-08-25 00:00:00,Aug,Mon,Morning,Student,1,8,Cash,California,8
+1678,Mission Impossible 8,2025-08-10 00:00:00,Aug,Sun,Afternoon,Regular,1,12,Cash,Florida,12
+771,Oppenheimer,2025-07-20 00:00:00,Jul,Sun,Evening,Regular,4,12,Cash,Florida,48
+989,Avatar 3,2025-09-01 00:00:00,Sep,Mon,Evening,Student,1,8,Mobile Wallet,California,8
+344,Avatar 3,2025-08-08 00:00:00,Aug,Fri,Morning,Regular,2,12,Card,Florida,24
+331,Guardians of the Galaxy Vol. 4,2025-09-28 00:00:00,Sep,Sun,Late Night,Regular,1,12,Card,Florida,12
+1878,Avatar 3,2025-09-25 00:00:00,Sep,Thu,Evening,Couple,3,20,Card,Texas,60
+1286,Barbie,2025-09-13 00:00:00,Sep,Sat,Late Night,Regular,2,12,Mobile Wallet,New York,24
+1765,Oppenheimer,2025-08-20 00:00:00,Aug,Wed,Evening,Regular,4,12,Mobile Wallet,California,48
+1902,Oppenheimer,2025-09-13 00:00:00,Sep,Sat,Evening,Regular,3,12,Card,Florida,36
+1101,Mission Impossible 8,2025-09-09 00:00:00,Sep,Tue,Evening,Regular,3,12,Cash,Texas,36
+758,Mission Impossible 8,2025-09-01 00:00:00,Sep,Mon,Late Night,Couple,4,20,Cash,Texas,80
+1092,Fast X,2025-08-30 00:00:00,Aug,Sat,Afternoon,Family,2,30,Mobile Wallet,California,60
+1828,John Wick 5,2025-08-08 00:00:00,Aug,Fri,Evening,Regular,5,12,Mobile Wallet,Texas,60
+74,Avatar 3,2025-09-03 00:00:00,Sep,Wed,Afternoon,Couple,1,20,Card,California,20
+1350,Oppenheimer,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,2,12,Mobile Wallet,Florida,24
+1839,John Wick 5,2025-08-15 00:00:00,Aug,Fri,Morning,Family,5,30,Cash,Texas,150
+97,Avatar 3,2025-09-13 00:00:00,Sep,Sat,Afternoon,VIP,1,25,Cash,California,25
+1584,John Wick 5,2025-08-09 00:00:00,Aug,Sat,Late Night,Couple,2,20,Cash,New York,40
+1992,Mission Impossible 8,2025-09-08 00:00:00,Sep,Mon,Morning,Regular,1,12,Card,Texas,12
+969,Barbie,2025-08-23 00:00:00,Aug,Sat,Evening,Family,1,30,Card,Texas,30
+292,Mission Impossible 8,2025-07-09 00:00:00,Jul,Wed,Late Night,Regular,4,12,Mobile Wallet,California,48
+1650,Avatar 3,2025-08-22 00:00:00,Aug,Fri,Morning,Family,5,30,Card,Florida,150
+1289,The Flash,2025-07-22 00:00:00,Jul,Tue,Afternoon,Family,2,30,Mobile Wallet,Texas,60
+529,Avatar 3,2025-07-27 00:00:00,Jul,Sun,Late Night,Regular,1,12,Cash,California,12
+1531,Barbie,2025-08-24 00:00:00,Aug,Sun,Late Night,Regular,2,12,Cash,Florida,24
+1117,Fast X,2025-07-24 00:00:00,Jul,Thu,Morning,Student,4,8,Cash,Florida,32
+42,Fast X,2025-07-19 00:00:00,Jul,Sat,Evening,VIP,2,25,Cash,California,50
+783,John Wick 5,2025-08-03 00:00:00,Aug,Sun,Evening,Family,5,30,Card,Texas,150
+847,Avatar 3,2025-08-19 00:00:00,Aug,Tue,Afternoon,Student,3,8,Card,Florida,24
+698,Avatar 3,2025-07-20 00:00:00,Jul,Sun,Late Night,Regular,2,12,Mobile Wallet,New York,24
+1577,Fast X,2025-07-16 00:00:00,Jul,Wed,Late Night,Regular,5,12,Mobile Wallet,Texas,60
+1111,Guardians of the Galaxy Vol. 4,2025-09-13 00:00:00,Sep,Sat,Morning,VIP,5,25,Card,New York,125
+319,Fast X,2025-08-13 00:00:00,Aug,Wed,Evening,Regular,1,12,Cash,Texas,12
+1661,Mission Impossible 8,2025-08-01 00:00:00,Aug,Fri,Late Night,VIP,3,25,Card,California,75
+1602,Fast X,2025-09-21 00:00:00,Sep,Sun,Late Night,VIP,1,25,Card,Texas,25
+794,The Flash,2025-09-03 00:00:00,Sep,Wed,Morning,Regular,2,12,Card,Florida,24
+929,Barbie,2025-09-07 00:00:00,Sep,Sun,Afternoon,Student,2,8,Card,Texas,16
+1099,Barbie,2025-09-30 00:00:00,Sep,Tue,Afternoon,Regular,2,12,Card,California,24
+1378,Oppenheimer,2025-08-12 00:00:00,Aug,Tue,Late Night,Regular,4,12,Mobile Wallet,New York,48
+1749,Fast X,2025-09-27 00:00:00,Sep,Sat,Morning,Regular,2,12,Card,New York,24
+1364,Barbie,2025-08-21 00:00:00,Aug,Thu,Afternoon,Regular,1,12,Cash,New York,12
+145,John Wick 5,2025-09-25 00:00:00,Sep,Thu,Morning,Regular,4,12,Cash,Florida,48
+528,Avatar 3,2025-07-06 00:00:00,Jul,Sun,Morning,Family,3,30,Card,Florida,90
+49,Barbie,2025-09-21 00:00:00,Sep,Sun,Evening,VIP,2,25,Mobile Wallet,New York,50
+1467,Avatar 3,2025-09-13 00:00:00,Sep,Sat,Evening,Regular,4,12,Mobile Wallet,Texas,48
+578,Barbie,2025-08-22 00:00:00,Aug,Fri,Morning,VIP,5,25,Mobile Wallet,Texas,125
+1927,Oppenheimer,2025-08-23 00:00:00,Aug,Sat,Evening,VIP,3,25,Cash,California,75
+997,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Evening,Regular,5,12,Cash,New York,60
+1869,Oppenheimer,2025-09-15 00:00:00,Sep,Mon,Afternoon,Student,1,8,Mobile Wallet,California,8
+763,Oppenheimer,2025-09-26 00:00:00,Sep,Fri,Evening,VIP,3,25,Card,Florida,75
+175,John Wick 5,2025-09-03 00:00:00,Sep,Wed,Morning,Regular,3,12,Mobile Wallet,Texas,36
+1662,Mission Impossible 8,2025-08-09 00:00:00,Aug,Sat,Afternoon,VIP,1,25,Mobile Wallet,California,25
+516,Mission Impossible 8,2025-08-11 00:00:00,Aug,Mon,Late Night,Family,3,30,Mobile Wallet,Texas,90
+1204,Avatar 3,2025-09-11 00:00:00,Sep,Thu,Morning,Couple,2,20,Mobile Wallet,New York,40
+1348,Fast X,2025-07-08 00:00:00,Jul,Tue,Evening,Regular,4,12,Mobile Wallet,Florida,48
+1500,Fast X,2025-07-11 00:00:00,Jul,Fri,Late Night,Student,3,8,Mobile Wallet,California,24
+86,Mission Impossible 8,2025-08-31 00:00:00,Aug,Sun,Morning,Regular,2,12,Card,Texas,24
+1883,Guardians of the Galaxy Vol. 4,2025-07-10 00:00:00,Jul,Thu,Morning,Family,5,30,Mobile Wallet,New York,150
+1826,Oppenheimer,2025-07-16 00:00:00,Jul,Wed,Afternoon,Regular,5,12,Cash,California,60
+1160,The Flash,2025-08-06 00:00:00,Aug,Wed,Evening,Regular,1,12,Mobile Wallet,California,12
+1827,Barbie,2025-07-03 00:00:00,Jul,Thu,Late Night,Regular,3,12,Mobile Wallet,Texas,36
+1983,The Flash,2025-09-16 00:00:00,Sep,Tue,Afternoon,Regular,4,12,Card,New York,48
+1628,Guardians of the Galaxy Vol. 4,2025-08-03 00:00:00,Aug,Sun,Evening,Couple,2,20,Cash,California,40
+1343,Fast X,2025-09-17 00:00:00,Sep,Wed,Late Night,VIP,1,25,Cash,Florida,25
+1036,Avatar 3,2025-08-10 00:00:00,Aug,Sun,Evening,Regular,2,12,Mobile Wallet,California,24
+1056,Oppenheimer,2025-08-26 00:00:00,Aug,Tue,Morning,Family,5,30,Cash,Texas,150
+1593,The Flash,2025-08-24 00:00:00,Aug,Sun,Evening,VIP,4,25,Mobile Wallet,New York,100
+1049,Oppenheimer,2025-08-24 00:00:00,Aug,Sun,Morning,Regular,3,12,Cash,Texas,36
+595,The Flash,2025-07-06 00:00:00,Jul,Sun,Morning,Regular,1,12,Cash,New York,12
+761,The Flash,2025-09-07 00:00:00,Sep,Sun,Afternoon,Regular,3,12,Mobile Wallet,California,36
+1790,Barbie,2025-08-14 00:00:00,Aug,Thu,Morning,Family,1,30,Cash,Florida,30
+891,Fast X,2025-08-13 00:00:00,Aug,Wed,Afternoon,Regular,1,12,Cash,New York,12
+1612,Barbie,2025-09-20 00:00:00,Sep,Sat,Evening,Regular,1,12,Cash,New York,12
+1771,Mission Impossible 8,2025-08-26 00:00:00,Aug,Tue,Afternoon,VIP,4,25,Card,California,100
+1729,Avatar 3,2025-09-09 00:00:00,Sep,Tue,Evening,Regular,3,12,Card,Texas,36
+1059,Barbie,2025-07-21 00:00:00,Jul,Mon,Evening,Regular,3,12,Card,California,36
+607,Fast X,2025-09-24 00:00:00,Sep,Wed,Late Night,Regular,4,12,Cash,Florida,48
+229,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Morning,Regular,5,12,Mobile Wallet,California,60
+62,Fast X,2025-08-15 00:00:00,Aug,Fri,Afternoon,VIP,4,25,Card,New York,100
+1569,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Afternoon,Student,5,8,Card,California,40
+508,Mission Impossible 8,2025-08-18 00:00:00,Aug,Mon,Afternoon,Regular,1,12,Card,California,12
+1523,Guardians of the Galaxy Vol. 4,2025-07-28 00:00:00,Jul,Mon,Late Night,Regular,1,12,Cash,California,12
+26,Barbie,2025-08-24 00:00:00,Aug,Sun,Afternoon,Regular,3,12,Mobile Wallet,Florida,36
+1138,Avatar 3,2025-09-07 00:00:00,Sep,Sun,Afternoon,Student,1,8,Mobile Wallet,New York,8
+1895,Guardians of the Galaxy Vol. 4,2025-08-13 00:00:00,Aug,Wed,Late Night,Student,1,8,Mobile Wallet,Florida,8
+1216,Guardians of the Galaxy Vol. 4,2025-09-07 00:00:00,Sep,Sun,Late Night,Regular,2,12,Card,Texas,24
+449,Fast X,2025-09-08 00:00:00,Sep,Mon,Late Night,Regular,1,12,Card,New York,12
+1681,The Flash,2025-08-10 00:00:00,Aug,Sun,Morning,Student,3,8,Card,New York,24
+1287,Avatar 3,2025-07-30 00:00:00,Jul,Wed,Afternoon,Regular,5,12,Mobile Wallet,Florida,60
+12,Fast X,2025-09-26 00:00:00,Sep,Fri,Morning,Regular,5,12,Cash,California,60
+1806,Mission Impossible 8,2025-09-18 00:00:00,Sep,Thu,Afternoon,Family,3,30,Cash,Florida,90
+1546,The Flash,2025-08-28 00:00:00,Aug,Thu,Morning,Regular,4,12,Mobile Wallet,California,48
+879,Oppenheimer,2025-09-28 00:00:00,Sep,Sun,Evening,VIP,5,25,Mobile Wallet,Texas,125
+856,Oppenheimer,2025-07-12 00:00:00,Jul,Sat,Morning,VIP,1,25,Card,California,25
+82,The Flash,2025-08-23 00:00:00,Aug,Sat,Late Night,Regular,2,12,Cash,New York,24
+899,Fast X,2025-08-17 00:00:00,Aug,Sun,Afternoon,Regular,5,12,Card,California,60
+1918,Barbie,2025-08-18 00:00:00,Aug,Mon,Late Night,Regular,5,12,Mobile Wallet,New York,60
+533,Guardians of the Galaxy Vol. 4,2025-08-05 00:00:00,Aug,Tue,Late Night,Regular,4,12,Cash,Texas,48
+959,Avatar 3,2025-08-23 00:00:00,Aug,Sat,Evening,Regular,1,12,Card,New York,12
+473,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Evening,Family,4,30,Card,California,120
+1245,Fast X,2025-08-21 00:00:00,Aug,Thu,Late Night,Student,3,8,Mobile Wallet,California,24
+1514,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Late Night,Couple,5,20,Card,California,100
+243,The Flash,2025-08-21 00:00:00,Aug,Thu,Morning,VIP,4,25,Mobile Wallet,Florida,100
+466,Fast X,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,3,12,Cash,Texas,36
+838,Oppenheimer,2025-09-10 00:00:00,Sep,Wed,Morning,Regular,4,12,Mobile Wallet,New York,48
+1095,Avatar 3,2025-08-24 00:00:00,Aug,Sun,Morning,Regular,2,12,Mobile Wallet,New York,24
+1480,John Wick 5,2025-07-13 00:00:00,Jul,Sun,Afternoon,Regular,2,12,Cash,Florida,24
+125,Oppenheimer,2025-09-19 00:00:00,Sep,Fri,Afternoon,Family,4,30,Card,California,120
+1843,John Wick 5,2025-07-01 00:00:00,Jul,Tue,Morning,Regular,1,12,Mobile Wallet,Texas,12
+852,Avatar 3,2025-09-02 00:00:00,Sep,Tue,Evening,Regular,1,12,Card,California,12
+869,Fast X,2025-07-13 00:00:00,Jul,Sun,Late Night,Regular,2,12,Mobile Wallet,Texas,24
+162,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Morning,VIP,1,25,Mobile Wallet,Texas,25
+308,Avatar 3,2025-08-20 00:00:00,Aug,Wed,Late Night,VIP,1,25,Card,New York,25
+1385,Guardians of the Galaxy Vol. 4,2025-09-15 00:00:00,Sep,Mon,Morning,Regular,2,12,Mobile Wallet,New York,24
+1937,Mission Impossible 8,2025-09-13 00:00:00,Sep,Sat,Afternoon,Regular,5,12,Cash,California,60
+1917,The Flash,2025-07-05 00:00:00,Jul,Sat,Late Night,Student,2,8,Cash,California,16
+148,Mission Impossible 8,2025-09-27 00:00:00,Sep,Sat,Morning,Regular,4,12,Card,California,48
+1967,Guardians of the Galaxy Vol. 4,2025-09-21 00:00:00,Sep,Sun,Morning,Regular,3,12,Card,California,36
+1667,John Wick 5,2025-08-02 00:00:00,Aug,Sat,Evening,Couple,4,20,Card,Florida,80
+791,Barbie,2025-07-08 00:00:00,Jul,Tue,Afternoon,Student,1,8,Mobile Wallet,California,8
+714,The Flash,2025-09-12 00:00:00,Sep,Fri,Late Night,Regular,2,12,Card,New York,24
+1258,Mission Impossible 8,2025-09-11 00:00:00,Sep,Thu,Afternoon,Regular,5,12,Mobile Wallet,Florida,60
+1045,Barbie,2025-08-12 00:00:00,Aug,Tue,Afternoon,Student,2,8,Card,New York,16
+492,Oppenheimer,2025-07-06 00:00:00,Jul,Sun,Morning,Regular,5,12,Cash,California,60
+1674,Guardians of the Galaxy Vol. 4,2025-07-21 00:00:00,Jul,Mon,Afternoon,Regular,5,12,Card,New York,60
+1526,Mission Impossible 8,2025-08-16 00:00:00,Aug,Sat,Morning,Regular,4,12,Mobile Wallet,Florida,48
+543,Mission Impossible 8,2025-08-10 00:00:00,Aug,Sun,Morning,Couple,2,20,Mobile Wallet,New York,40
+1943,Barbie,2025-07-05 00:00:00,Jul,Sat,Afternoon,Regular,3,12,Card,Florida,36
+1224,Fast X,2025-07-16 00:00:00,Jul,Wed,Evening,Regular,1,12,Card,Florida,12
+1996,Guardians of the Galaxy Vol. 4,2025-07-19 00:00:00,Jul,Sat,Late Night,Regular,5,12,Mobile Wallet,California,60
+128,Guardians of the Galaxy Vol. 4,2025-07-23 00:00:00,Jul,Wed,Evening,Regular,2,12,Cash,Texas,24
+1014,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,3,12,Mobile Wallet,Florida,36
+1260,Mission Impossible 8,2025-09-30 00:00:00,Sep,Tue,Evening,Couple,1,20,Card,Florida,20
+675,The Flash,2025-08-21 00:00:00,Aug,Thu,Evening,Couple,4,20,Mobile Wallet,Florida,80
+740,The Flash,2025-08-19 00:00:00,Aug,Tue,Afternoon,Regular,5,12,Cash,New York,60
+1677,Fast X,2025-07-20 00:00:00,Jul,Sun,Late Night,Regular,1,12,Cash,Texas,12
+1265,Barbie,2025-07-19 00:00:00,Jul,Sat,Late Night,Student,5,8,Card,Florida,40
+772,Oppenheimer,2025-07-30 00:00:00,Jul,Wed,Morning,Regular,3,12,Mobile Wallet,Florida,36
+590,Oppenheimer,2025-09-11 00:00:00,Sep,Thu,Evening,Student,5,8,Card,Florida,40
+505,Fast X,2025-08-15 00:00:00,Aug,Fri,Afternoon,Regular,2,12,Card,New York,24
+642,Barbie,2025-08-23 00:00:00,Aug,Sat,Late Night,Regular,2,12,Cash,California,24
+923,Guardians of the Galaxy Vol. 4,2025-09-14 00:00:00,Sep,Sun,Morning,Couple,2,20,Mobile Wallet,California,40
+1112,Guardians of the Galaxy Vol. 4,2025-09-08 00:00:00,Sep,Mon,Evening,Regular,1,12,Card,New York,12
+514,Barbie,2025-07-06 00:00:00,Jul,Sun,Late Night,VIP,3,25,Mobile Wallet,Florida,75
+1005,Guardians of the Galaxy Vol. 4,2025-09-30 00:00:00,Sep,Tue,Morning,VIP,5,25,Cash,Florida,125
+276,The Flash,2025-09-25 00:00:00,Sep,Thu,Morning,VIP,3,25,Card,New York,75
+816,Oppenheimer,2025-09-13 00:00:00,Sep,Sat,Late Night,Student,5,8,Cash,Texas,40
+1923,The Flash,2025-07-09 00:00:00,Jul,Wed,Afternoon,Student,3,8,Mobile Wallet,New York,24
+279,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Morning,VIP,3,25,Card,Texas,75
+1824,The Flash,2025-08-11 00:00:00,Aug,Mon,Evening,Regular,1,12,Cash,California,12
+1178,John Wick 5,2025-07-19 00:00:00,Jul,Sat,Morning,Couple,4,20,Card,New York,80
+273,John Wick 5,2025-09-16 00:00:00,Sep,Tue,Morning,Regular,2,12,Cash,Texas,24
+1855,John Wick 5,2025-07-20 00:00:00,Jul,Sun,Late Night,Student,4,8,Mobile Wallet,New York,32
+1675,Guardians of the Galaxy Vol. 4,2025-08-15 00:00:00,Aug,Fri,Evening,VIP,5,25,Card,Texas,125
+1490,Guardians of the Galaxy Vol. 4,2025-08-16 00:00:00,Aug,Sat,Afternoon,Regular,1,12,Mobile Wallet,Florida,12
+1880,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,5,12,Cash,Florida,60
+665,Guardians of the Galaxy Vol. 4,2025-09-15 00:00:00,Sep,Mon,Afternoon,VIP,3,25,Cash,New York,75
+212,Fast X,2025-09-06 00:00:00,Sep,Sat,Evening,Couple,4,20,Card,New York,80
+498,The Flash,2025-09-24 00:00:00,Sep,Wed,Afternoon,Couple,5,20,Cash,Florida,100
+1273,Mission Impossible 8,2025-09-24 00:00:00,Sep,Wed,Late Night,Student,4,8,Cash,Texas,32
+855,Fast X,2025-08-17 00:00:00,Aug,Sun,Afternoon,Regular,4,12,Card,Texas,48
+1220,Mission Impossible 8,2025-09-14 00:00:00,Sep,Sun,Late Night,Student,2,8,Mobile Wallet,New York,16
+1459,Barbie,2025-09-09 00:00:00,Sep,Tue,Evening,Student,3,8,Cash,Texas,24
+1360,Fast X,2025-09-13 00:00:00,Sep,Sat,Evening,Student,2,8,Card,California,16
+482,Barbie,2025-08-14 00:00:00,Aug,Thu,Morning,Couple,4,20,Card,Florida,80
+194,Fast X,2025-07-11 00:00:00,Jul,Fri,Morning,VIP,1,25,Mobile Wallet,California,25
+1714,Oppenheimer,2025-07-26 00:00:00,Jul,Sat,Afternoon,VIP,3,25,Mobile Wallet,Texas,75
+1538,Barbie,2025-08-13 00:00:00,Aug,Wed,Morning,Regular,3,12,Card,Florida,36
+779,John Wick 5,2025-08-03 00:00:00,Aug,Sun,Evening,Regular,3,12,Mobile Wallet,New York,36
+716,John Wick 5,2025-07-27 00:00:00,Jul,Sun,Evening,Regular,1,12,Cash,California,12
+661,John Wick 5,2025-08-02 00:00:00,Aug,Sat,Afternoon,Regular,2,12,Card,California,24
+1494,Avatar 3,2025-09-22 00:00:00,Sep,Mon,Afternoon,Couple,2,20,Cash,New York,40
+926,Mission Impossible 8,2025-07-09 00:00:00,Jul,Wed,Afternoon,Family,4,30,Card,California,120
+553,Oppenheimer,2025-09-13 00:00:00,Sep,Sat,Morning,Couple,3,20,Card,California,60
+1119,Oppenheimer,2025-09-04 00:00:00,Sep,Thu,Late Night,Regular,1,12,Card,California,12
+797,Oppenheimer,2025-08-07 00:00:00,Aug,Thu,Evening,Regular,4,12,Card,California,48
+1288,Barbie,2025-07-25 00:00:00,Jul,Fri,Afternoon,Couple,2,20,Card,Texas,40
+1858,Guardians of the Galaxy Vol. 4,2025-09-19 00:00:00,Sep,Fri,Evening,VIP,2,25,Cash,Texas,50
+61,Mission Impossible 8,2025-09-25 00:00:00,Sep,Thu,Morning,Regular,2,12,Card,California,24
+1699,Guardians of the Galaxy Vol. 4,2025-09-04 00:00:00,Sep,Thu,Late Night,Family,4,30,Card,New York,120
+1215,Avatar 3,2025-07-10 00:00:00,Jul,Thu,Morning,Regular,4,12,Mobile Wallet,Florida,48
+269,Fast X,2025-09-20 00:00:00,Sep,Sat,Morning,Regular,3,12,Card,California,36
+1418,Fast X,2025-09-27 00:00:00,Sep,Sat,Afternoon,Student,3,8,Cash,Texas,24
+320,Barbie,2025-09-28 00:00:00,Sep,Sun,Evening,Regular,5,12,Card,Texas,60
+1952,Mission Impossible 8,2025-08-03 00:00:00,Aug,Sun,Evening,Couple,2,20,Card,Texas,40
+544,Avatar 3,2025-07-13 00:00:00,Jul,Sun,Late Night,VIP,2,25,Mobile Wallet,Florida,50
+8,Oppenheimer,2025-07-17 00:00:00,Jul,Thu,Evening,Student,1,8,Card,New York,8
+411,Mission Impossible 8,2025-07-18 00:00:00,Jul,Fri,Evening,Student,1,8,Mobile Wallet,California,8
+91,John Wick 5,2025-09-13 00:00:00,Sep,Sat,Afternoon,Student,5,8,Mobile Wallet,California,40
+995,The Flash,2025-08-03 00:00:00,Aug,Sun,Afternoon,Regular,1,12,Mobile Wallet,New York,12
+221,Mission Impossible 8,2025-07-19 00:00:00,Jul,Sat,Late Night,Student,1,8,Cash,Florida,8
+197,Avatar 3,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,5,12,Cash,Texas,60
+1939,Avatar 3,2025-07-19 00:00:00,Jul,Sat,Morning,Regular,5,12,Mobile Wallet,Texas,60
+1462,Oppenheimer,2025-07-16 00:00:00,Jul,Wed,Morning,Regular,5,12,Cash,New York,60
+1908,Guardians of the Galaxy Vol. 4,2025-07-24 00:00:00,Jul,Thu,Evening,Regular,4,12,Card,Texas,48
+589,The Flash,2025-08-03 00:00:00,Aug,Sun,Afternoon,Regular,4,12,Card,Texas,48
+362,Guardians of the Galaxy Vol. 4,2025-08-25 00:00:00,Aug,Mon,Afternoon,Regular,4,12,Cash,Florida,48
+297,Barbie,2025-07-29 00:00:00,Jul,Tue,Morning,Regular,5,12,Cash,California,60
+1525,Oppenheimer,2025-07-19 00:00:00,Jul,Sat,Evening,Regular,2,12,Mobile Wallet,New York,24
+1982,The Flash,2025-08-23 00:00:00,Aug,Sat,Morning,Couple,3,20,Mobile Wallet,California,60
+1405,Avatar 3,2025-07-27 00:00:00,Jul,Sun,Morning,Student,1,8,Mobile Wallet,Texas,8
+1799,Fast X,2025-07-06 00:00:00,Jul,Sun,Morning,Regular,2,12,Card,California,24
+299,Oppenheimer,2025-07-28 00:00:00,Jul,Mon,Evening,Regular,5,12,Card,New York,60
+1146,Barbie,2025-07-09 00:00:00,Jul,Wed,Late Night,Regular,4,12,Card,Texas,48
+1787,The Flash,2025-09-07 00:00:00,Sep,Sun,Evening,VIP,2,25,Cash,Texas,50
+259,John Wick 5,2025-08-22 00:00:00,Aug,Fri,Late Night,Regular,4,12,Card,Texas,48
+1694,Fast X,2025-09-10 00:00:00,Sep,Wed,Late Night,Regular,5,12,Cash,California,60
+1139,The Flash,2025-07-16 00:00:00,Jul,Wed,Morning,VIP,1,25,Cash,California,25
+734,John Wick 5,2025-09-28 00:00:00,Sep,Sun,Late Night,Family,2,30,Mobile Wallet,New York,60
+987,The Flash,2025-08-18 00:00:00,Aug,Mon,Afternoon,Regular,3,12,Mobile Wallet,Texas,36
+1317,Avatar 3,2025-09-14 00:00:00,Sep,Sun,Late Night,Regular,5,12,Card,Texas,60
+1690,The Flash,2025-08-17 00:00:00,Aug,Sun,Late Night,Regular,2,12,Card,California,24
+1235,Avatar 3,2025-08-21 00:00:00,Aug,Thu,Afternoon,Regular,2,12,Card,Florida,24
+410,Barbie,2025-09-28 00:00:00,Sep,Sun,Late Night,Regular,2,12,Mobile Wallet,New York,24
+1565,Mission Impossible 8,2025-08-10 00:00:00,Aug,Sun,Morning,Regular,2,12,Card,Florida,24
+670,Fast X,2025-08-10 00:00:00,Aug,Sun,Evening,Regular,1,12,Card,Florida,12
+510,Avatar 3,2025-08-10 00:00:00,Aug,Sun,Late Night,Couple,2,20,Card,New York,40
+55,Fast X,2025-08-02 00:00:00,Aug,Sat,Evening,Couple,5,20,Mobile Wallet,New York,100
+133,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Afternoon,VIP,4,25,Cash,Florida,100
+1836,Avatar 3,2025-08-17 00:00:00,Aug,Sun,Afternoon,Regular,3,12,Mobile Wallet,New York,36
+1629,Fast X,2025-07-07 00:00:00,Jul,Mon,Late Night,Student,1,8,Cash,Texas,8
+1664,Mission Impossible 8,2025-08-16 00:00:00,Aug,Sat,Morning,Regular,1,12,Cash,Texas,12
+836,The Flash,2025-08-02 00:00:00,Aug,Sat,Evening,Family,4,30,Card,California,120
+1447,John Wick 5,2025-09-18 00:00:00,Sep,Thu,Evening,Couple,1,20,Cash,California,20
+756,Barbie,2025-08-17 00:00:00,Aug,Sun,Evening,Regular,2,12,Card,California,24
+1560,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Afternoon,Regular,4,12,Card,Texas,48
+1757,Guardians of the Galaxy Vol. 4,2025-08-09 00:00:00,Aug,Sat,Evening,Regular,3,12,Cash,Texas,36
+1508,Avatar 3,2025-09-28 00:00:00,Sep,Sun,Morning,Regular,2,12,Card,Texas,24
+711,Fast X,2025-08-02 00:00:00,Aug,Sat,Afternoon,Student,4,8,Card,Texas,32
+190,Barbie,2025-08-03 00:00:00,Aug,Sun,Evening,Student,3,8,Card,Texas,24
+762,Avatar 3,2025-09-14 00:00:00,Sep,Sun,Morning,Regular,4,12,Cash,California,48
+683,Fast X,2025-09-13 00:00:00,Sep,Sat,Late Night,Regular,1,12,Cash,Texas,12
+478,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Late Night,Student,5,8,Card,Florida,40
+839,The Flash,2025-07-14 00:00:00,Jul,Mon,Morning,Student,5,8,Card,Texas,40
+1884,Oppenheimer,2025-08-23 00:00:00,Aug,Sat,Late Night,Regular,2,12,Cash,Florida,24
+95,Barbie,2025-08-24 00:00:00,Aug,Sun,Evening,Regular,2,12,Mobile Wallet,Florida,24
+450,Barbie,2025-09-16 00:00:00,Sep,Tue,Morning,Regular,1,12,Cash,Texas,12
+208,The Flash,2025-08-08 00:00:00,Aug,Fri,Late Night,Couple,4,20,Cash,Florida,80
+255,Guardians of the Galaxy Vol. 4,2025-07-20 00:00:00,Jul,Sun,Late Night,Couple,5,20,Mobile Wallet,New York,100
+1972,Oppenheimer,2025-09-15 00:00:00,Sep,Mon,Afternoon,VIP,4,25,Cash,California,100
+643,John Wick 5,2025-07-27 00:00:00,Jul,Sun,Morning,Student,3,8,Mobile Wallet,New York,24
+550,Fast X,2025-08-21 00:00:00,Aug,Thu,Evening,Regular,5,12,Mobile Wallet,California,60
+367,Barbie,2025-07-06 00:00:00,Jul,Sun,Afternoon,Regular,3,12,Card,New York,36
+1487,Fast X,2025-08-24 00:00:00,Aug,Sun,Afternoon,Regular,2,12,Cash,Florida,24
+666,Oppenheimer,2025-08-16 00:00:00,Aug,Sat,Morning,Regular,3,12,Cash,New York,36
+903,Barbie,2025-07-01 00:00:00,Jul,Tue,Morning,Regular,1,12,Card,California,12
+659,The Flash,2025-07-13 00:00:00,Jul,Sun,Evening,Regular,4,12,Mobile Wallet,Florida,48
+676,Oppenheimer,2025-09-09 00:00:00,Sep,Tue,Morning,Regular,2,12,Card,New York,24
+1794,Fast X,2025-08-09 00:00:00,Aug,Sat,Evening,Student,4,8,Card,California,32
+1693,The Flash,2025-09-21 00:00:00,Sep,Sun,Morning,Student,1,8,Cash,Florida,8
+1427,Fast X,2025-08-26 00:00:00,Aug,Tue,Afternoon,VIP,2,25,Cash,Texas,50
+1335,The Flash,2025-09-21 00:00:00,Sep,Sun,Evening,Couple,1,20,Mobile Wallet,California,20
+970,Mission Impossible 8,2025-07-20 00:00:00,Jul,Sun,Morning,Regular,3,12,Cash,Florida,36
+494,Barbie,2025-07-07 00:00:00,Jul,Mon,Late Night,Regular,1,12,Mobile Wallet,Texas,12
+172,Oppenheimer,2025-09-21 00:00:00,Sep,Sun,Afternoon,Regular,5,12,Cash,Texas,60
+158,Avatar 3,2025-09-22 00:00:00,Sep,Mon,Evening,Regular,5,12,Mobile Wallet,New York,60
+685,Guardians of the Galaxy Vol. 4,2025-09-08 00:00:00,Sep,Mon,Afternoon,Regular,2,12,Cash,Texas,24
+1772,Mission Impossible 8,2025-09-28 00:00:00,Sep,Sun,Afternoon,Family,5,30,Mobile Wallet,Florida,150
+1464,Mission Impossible 8,2025-08-30 00:00:00,Aug,Sat,Late Night,VIP,5,25,Mobile Wallet,California,125
+497,Mission Impossible 8,2025-09-21 00:00:00,Sep,Sun,Late Night,VIP,1,25,Card,New York,25
+913,Oppenheimer,2025-09-14 00:00:00,Sep,Sun,Afternoon,Student,1,8,Cash,Florida,8
+1457,Barbie,2025-08-25 00:00:00,Aug,Mon,Morning,VIP,5,25,Cash,California,125
+1129,Barbie,2025-09-13 00:00:00,Sep,Sat,Evening,Family,5,30,Cash,California,150
+1718,Mission Impossible 8,2025-08-14 00:00:00,Aug,Thu,Afternoon,Regular,3,12,Cash,California,36
+266,Avatar 3,2025-07-27 00:00:00,Jul,Sun,Morning,VIP,4,25,Cash,California,100
+240,John Wick 5,2025-07-19 00:00:00,Jul,Sat,Morning,Regular,5,12,Mobile Wallet,California,60
+151,Mission Impossible 8,2025-08-11 00:00:00,Aug,Mon,Morning,Regular,2,12,Cash,New York,24
+1304,Barbie,2025-07-31 00:00:00,Jul,Thu,Evening,Regular,1,12,Card,California,12
+464,Guardians of the Galaxy Vol. 4,2025-09-13 00:00:00,Sep,Sat,Afternoon,VIP,3,25,Card,California,75
+1743,Avatar 3,2025-07-05 00:00:00,Jul,Sat,Evening,Student,3,8,Mobile Wallet,California,24
+966,Guardians of the Galaxy Vol. 4,2025-08-23 00:00:00,Aug,Sat,Evening,Student,3,8,Card,California,24
+445,The Flash,2025-08-21 00:00:00,Aug,Thu,Late Night,Regular,5,12,Card,California,60
+29,John Wick 5,2025-08-08 00:00:00,Aug,Fri,Afternoon,Regular,4,12,Mobile Wallet,New York,48
+205,The Flash,2025-09-09 00:00:00,Sep,Tue,Morning,Student,2,8,Card,Texas,16
+127,Avatar 3,2025-09-06 00:00:00,Sep,Sat,Morning,VIP,4,25,Mobile Wallet,Texas,100
+531,Guardians of the Galaxy Vol. 4,2025-07-26 00:00:00,Jul,Sat,Afternoon,Student,4,8,Card,Texas,32
+439,Fast X,2025-07-26 00:00:00,Jul,Sat,Evening,VIP,4,25,Cash,New York,100
+673,Barbie,2025-08-20 00:00:00,Aug,Wed,Afternoon,Student,1,8,Cash,Florida,8
+902,The Flash,2025-09-19 00:00:00,Sep,Fri,Afternoon,Student,2,8,Cash,New York,16
+1615,Barbie,2025-09-25 00:00:00,Sep,Thu,Late Night,Regular,5,12,Mobile Wallet,New York,60
+1912,Barbie,2025-07-05 00:00:00,Jul,Sat,Afternoon,Regular,1,12,Card,Florida,12
+1020,Oppenheimer,2025-08-04 00:00:00,Aug,Mon,Evening,Student,4,8,Cash,New York,32
+1645,Guardians of the Galaxy Vol. 4,2025-08-02 00:00:00,Aug,Sat,Afternoon,Student,4,8,Cash,California,32
+1495,Barbie,2025-07-07 00:00:00,Jul,Mon,Evening,Student,3,8,Card,Texas,24
+709,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Late Night,Regular,5,12,Mobile Wallet,California,60
+356,Fast X,2025-09-13 00:00:00,Sep,Sat,Evening,Regular,2,12,Card,Florida,24
+1166,Avatar 3,2025-07-19 00:00:00,Jul,Sat,Morning,Regular,2,12,Cash,Texas,24
+468,Guardians of the Galaxy Vol. 4,2025-07-11 00:00:00,Jul,Fri,Morning,Regular,5,12,Cash,California,60
+1971,Guardians of the Galaxy Vol. 4,2025-09-16 00:00:00,Sep,Tue,Late Night,Family,3,30,Card,California,90
+1704,Mission Impossible 8,2025-08-16 00:00:00,Aug,Sat,Afternoon,Couple,4,20,Cash,California,80
+623,Fast X,2025-07-06 00:00:00,Jul,Sun,Late Night,Regular,5,12,Cash,California,60
+757,Avatar 3,2025-08-30 00:00:00,Aug,Sat,Morning,Regular,3,12,Mobile Wallet,California,36
+1691,Barbie,2025-07-12 00:00:00,Jul,Sat,Afternoon,Couple,4,20,Cash,Florida,80
+882,Barbie,2025-07-05 00:00:00,Jul,Sat,Morning,Couple,1,20,Card,California,20
+641,Barbie,2025-09-27 00:00:00,Sep,Sat,Evening,Regular,3,12,Cash,California,36
+1091,The Flash,2025-08-02 00:00:00,Aug,Sat,Late Night,Regular,2,12,Cash,New York,24
+36,Oppenheimer,2025-09-14 00:00:00,Sep,Sun,Afternoon,Regular,3,12,Card,Florida,36
+81,Fast X,2025-09-08 00:00:00,Sep,Mon,Morning,Regular,2,12,Cash,Florida,24
+1075,Guardians of the Galaxy Vol. 4,2025-07-19 00:00:00,Jul,Sat,Evening,VIP,2,25,Cash,New York,50
+1911,The Flash,2025-08-31 00:00:00,Aug,Sun,Late Night,Regular,5,12,Cash,Texas,60
+916,Barbie,2025-08-30 00:00:00,Aug,Sat,Morning,Student,5,8,Mobile Wallet,California,40
+1910,Oppenheimer,2025-08-16 00:00:00,Aug,Sat,Morning,Regular,5,12,Cash,New York,60
+416,Guardians of the Galaxy Vol. 4,2025-09-06 00:00:00,Sep,Sat,Afternoon,Family,1,30,Card,Texas,30
+1375,Mission Impossible 8,2025-07-05 00:00:00,Jul,Sat,Afternoon,Couple,5,20,Cash,Florida,100
+396,The Flash,2025-09-26 00:00:00,Sep,Fri,Late Night,Regular,2,12,Mobile Wallet,New York,24
+1863,Mission Impossible 8,2025-07-12 00:00:00,Jul,Sat,Evening,Regular,2,12,Mobile Wallet,New York,24
+1505,Fast X,2025-08-06 00:00:00,Aug,Wed,Morning,Couple,4,20,Card,Texas,80
+1894,Mission Impossible 8,2025-07-19 00:00:00,Jul,Sat,Morning,Regular,4,12,Cash,Texas,48
+1780,John Wick 5,2025-08-18 00:00:00,Aug,Mon,Late Night,Couple,4,20,Mobile Wallet,Texas,80
+349,John Wick 5,2025-09-14 00:00:00,Sep,Sun,Late Night,VIP,3,25,Mobile Wallet,Texas,75
+1991,The Flash,2025-08-05 00:00:00,Aug,Tue,Late Night,Regular,5,12,Card,California,60
+429,Guardians of the Galaxy Vol. 4,2025-09-02 00:00:00,Sep,Tue,Morning,Regular,3,12,Card,Texas,36
+1879,The Flash,2025-07-06 00:00:00,Jul,Sun,Afternoon,VIP,3,25,Cash,California,75
+538,Fast X,2025-08-02 00:00:00,Aug,Sat,Afternoon,Regular,5,12,Card,Texas,60
+413,Barbie,2025-07-16 00:00:00,Jul,Wed,Afternoon,Regular,5,12,Mobile Wallet,Texas,60
+713,Guardians of the Galaxy Vol. 4,2025-07-13 00:00:00,Jul,Sun,Afternoon,Regular,5,12,Cash,California,60
+1120,Barbie,2025-07-29 00:00:00,Jul,Tue,Late Night,Regular,5,12,Card,California,60
+561,The Flash,2025-09-21 00:00:00,Sep,Sun,Afternoon,Student,1,8,Card,Texas,8
+1,Fast X,2025-09-05 00:00:00,Sep,Fri,Evening,Regular,2,12,Card,New York,24
+647,Oppenheimer,2025-09-21 00:00:00,Sep,Sun,Afternoon,Family,3,30,Mobile Wallet,Florida,90
+1793,Fast X,2025-08-30 00:00:00,Aug,Sat,Evening,VIP,3,25,Mobile Wallet,California,75
+1551,Oppenheimer,2025-07-03 00:00:00,Jul,Thu,Morning,Couple,2,20,Card,Texas,40
+195,Fast X,2025-08-23 00:00:00,Aug,Sat,Morning,Regular,4,12,Card,California,48
+139,Fast X,2025-07-04 00:00:00,Jul,Fri,Afternoon,Regular,4,12,Card,Florida,48
+1062,Oppenheimer,2025-08-03 00:00:00,Aug,Sun,Afternoon,Regular,1,12,Card,California,12
+1720,Guardians of the Galaxy Vol. 4,2025-07-15 00:00:00,Jul,Tue,Afternoon,Regular,1,12,Card,California,12
+235,The Flash,2025-07-18 00:00:00,Jul,Fri,Morning,Student,5,8,Card,Texas,40
+1488,Guardians of the Galaxy Vol. 4,2025-09-23 00:00:00,Sep,Tue,Evening,Regular,4,12,Card,New York,48
+303,Mission Impossible 8,2025-07-28 00:00:00,Jul,Mon,Evening,VIP,5,25,Cash,New York,125
+604,Barbie,2025-08-03 00:00:00,Aug,Sun,Morning,Regular,1,12,Mobile Wallet,Texas,12
+1751,The Flash,2025-09-28 00:00:00,Sep,Sun,Evening,Couple,2,20,Card,New York,40
+503,Oppenheimer,2025-08-11 00:00:00,Aug,Mon,Morning,VIP,1,25,Card,New York,25
+1433,Barbie,2025-09-03 00:00:00,Sep,Wed,Morning,Student,5,8,Mobile Wallet,Florida,40
+1872,Oppenheimer,2025-08-03 00:00:00,Aug,Sun,Evening,Regular,4,12,Card,New York,48
+600,Barbie,2025-09-06 00:00:00,Sep,Sat,Evening,Regular,3,12,Cash,New York,36
+1885,Guardians of the Galaxy Vol. 4,2025-08-22 00:00:00,Aug,Fri,Afternoon,Couple,2,20,Card,New York,40
