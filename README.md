@@ -41,8 +41,9 @@ A Q3 ticket sales dataset of 2,000 transactions covering Sales ID, Movie Name, S
 ### Dark Mode Dashboard
 ![Dark Mode](https://github.com/user-attachments/assets/a22023fd-76cf-4abb-883d-2b59c1de0cb3)
 ### Pivot Table Analysis
-![Pivot Table](pivot_table.png
-)
+![Pivot Table](https://github.com/user-attachments/assets/faa208a6-e10c-4683-bfb1-92f4eab53924).
+
+
 
 ---
 *Built by Emmanuel Sekyere | [LinkedIn](https://www.linkedin.com/)*
