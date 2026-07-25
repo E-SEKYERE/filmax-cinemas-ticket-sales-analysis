@@ -33,7 +33,7 @@ A Q3 ticket sales dataset of 2,000 transactions covering Sales ID, Movie Name, S
 - **Month-on-month growth:** August was the strongest month ($34,915, +16% MoM), with orders and ticket volume both climbing over 12% before easing slightly in September
 
 
-## 📸 More Screenshots
+## 📸 Screenshots
 
 ### Light Mode Dashboard
 ![Light Mode](https://github.com/user-attachments/assets/4976f9f6-5c95-4612-b824-8ec6cdca6f94)
